@@ -1,0 +1,4219 @@
+{
+    "Abell-Cauthon": {
+        "id": "Abell-Cauthon",
+        "name": "Abell Cauthon",
+        "chapters": [
+            {
+                "title": "Chapter 7: Out of the Woods",
+                "info": "<a href='#Mat'>Mat<\/a>&apos;s father. His house was burned when the Trollocs attacked Emond&apos;s Field on Winternight. He has five children.",
+                "seeAlso": [
+                    {
+                        "id": "Bode",
+                        "name": "Bodewhin Cauthon"
+                    },
+                    {
+                        "id": "Eldrin",
+                        "name": "Eldrin Cauthon"
+                    },
+                    {
+                        "id": "Mat",
+                        "name": "Matrim Cauthon"
+                    },
+                    {
+                        "id": "Natti",
+                        "name": "Natti Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ackley-Farren": {
+        "id": "Ackley-Farren",
+        "name": "Ackley Farren",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Man who once got drunk and spent the night on the roof of the inn in Market Sheran.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Adan-al-Caar": {
+        "id": "Adan-al-Caar",
+        "name": "Adan al'Caar",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Boy from Emond&apos;s Field that <a href='#Mat'>Mat<\/a> fooled with a story about ghost dogs, shortly before releasing <a href='#Luhhan'>Master Luhhan<\/a>&apos;s dogs covered with flour.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Adora-Aybara": {
+        "id": "Adora-Aybara",
+        "name": "Adora Aybara",
+        "chapters": [
+            {
+                "title": "Chatper 1: An Empty Road",
+                "info": "<a class='name' name='Adora'>Adora Aybara<\/a>; Perrin's sister. Her father and mother are Con Aybara and Joslyn Aybara. She has a brother, Paet, and a sister, Deselle.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Aemon-al-Caar-al-Thorin": {
+        "id": "Aemon-al-Caar-al-Thorin",
+        "name": "Aemon al Caar al Thorin",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "King of Manetheren during the last part of the Trolloc Wars, until the fall of his country. He was so fearless that the best compliment that could be delivered to anyone was to say that he had Aemon&apos;s heart. He was a Warder to his Queen, <a href='#Eldrene'>Eldrene<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Caar",
+                        "name": "Caar al Thorin al Toren"
+                    },
+                    {
+                        "id": "Thorin",
+                        "name": "Thorin al Toren al Ban"
+                    },
+                    {
+                        "id": "Eldrene",
+                        "name": "Eldrene ay Ellan ay Carlan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Agelmar-Jagad": {
+        "id": "Agelmar-Jagad",
+        "name": "Agelmar Jagad",
+        "chapters": [
+            {
+                "title": "Chapter 45: What Follows in Shadow",
+                "info": "Lord of Fal Dara in Shienar. His head is shaved in the traditional Shienaran style, bare except for a topknot, and that completely white. He has brown eyes, and his face is as stony as <a href='#Lan'>Lan<\/a>&apos;s.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Aginor": {
+        "id": "Aginor",
+        "name": "Aginor",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name is still used to frighten children.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Aldieb": {
+        "id": "Aldieb",
+        "name": "Aldieb",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "<a href='#Moiraine'>Moiraine<\/a>&apos;s white mare. Her name means &#x201C;West Wind&#x201D; in the Old Tongue.",
+                "seeAlso": [
+                    {
+                        "id": "Moiraine",
+                        "name": "Moiraine Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Alene-al-Vere": {
+        "id": "Alene-al-Vere",
+        "name": "Alene al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Alene'>Alene al&apos;Vere<\/a> is the second oldest of five daughters of <a href='#Marin'>Marin<\/a> and <a href='#Bran'>Bran al&apos;Vere<\/a> of Emond&apos;s Field.",
+                "seeAlso": [
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Almen-Bunt": {
+        "id": "Almen-Bunt",
+        "name": "Almen Bunt",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Man from the same village as <a href='#Holdwin'>Holdwin<\/a>. He pretended to be fixing his cart while Holdwin was talking to a Fade, and later found he was looking for <a href='#Mat'>Mat<\/a> and <a href='#Rand'>Rand<\/a>. He later offered the two a ride, since he does not like Holdwin that much and would rather help the boys than the Darkfriend.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Alpert-Mull": {
+        "id": "Alpert-Mull",
+        "name": "Alpert Mull",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Stolid man with a square face and square, worn hands. His cows have gone dry, his chickens have stopped laying eggs, and his pastures have gone barren. He wonders whether his land will even grow hay this year, much less a decent crop. He gave <a href='#Rand'>Rand<\/a> and <a href='#Mat'>Mat<\/a> a ride for a segment of their trip between Four Kings and Caemlyn. He gave them each scarves to keep the sun and dust off of them; they used to belong to his sons.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Alsbet-Luhhan": {
+        "id": "Alsbet-Luhhan",
+        "name": "Alsbet Luhhan",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Wife of <a href='#Luhhan'>Haral<\/a>, the blacksmith of Emond&apos;s Field. She is almost as strong as he is, and more ill-tempered.",
+                "seeAlso": [
+                    {
+                        "id": "Luhhan",
+                        "name": "Haral Luhhan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Alsbet": {
+        "id": "Alsbet",
+        "name": "Alsbet",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Queen of All in several of <a href='#Thom'>Thom Merrilin<\/a>&apos;s stories. Her story predates the Age of Legends.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Amyrlin-Seat": {
+        "id": "Amyrlin-Seat",
+        "name": "Amyrlin Seat",
+        "chapters": [
+            {
+                "title": "Chapter 8: A Place of Safety",
+                "info": "Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense&#x2014;rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. <a href='#Moiraine'>Moiraine<\/a> says that <a href='#Egwene'>Egwene<\/a> may become the Amyrlin Seat some day if she works hard and studies hard enough.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Anla": {
+        "id": "Anla",
+        "name": "Anla",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Character from <i>The Thousand Tales of Anla, the Wise Counselor<\/i>, one of <a href='#Thom'>Thom<\/a>&apos;s stories.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Ara": {
+        "id": "Ara",
+        "name": "Ara",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "Dark-haired, slight man from Baerlon. He works at the Stag and Lion for <a href='#Fitch'>Master Fitch<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Arad": {
+        "id": "Arad",
+        "name": "Arad",
+        "chapters": [
+            {
+                "title": "Chapter 18: The Caemlyn Road",
+                "info": "Man from old Manetheren. According to <a href='#Moiraine'>Moiraine<\/a>, his line is strong in the Two Rivers.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Aram": {
+        "id": "Aram",
+        "name": "Aram",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "Grandson of <a href='#Raen'>Raen<\/a> and <a href='#Ila'>Ila<\/a>. He is of an age with <a href='#Perrin'>Perrin<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Ila",
+                        "name": "Ila"
+                    },
+                    {
+                        "id": "Raen",
+                        "name": "Raen"
+                    }
+                ]
+            }
+        ]
+    },
+    "Arent": {
+        "id": "Arent",
+        "name": "Arent",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "Elder of Stedding Shangtai, Ogier, and father of <a href='#Loial'>Loial<\/a>. He insisted that Loial learn Treesinging.",
+                "seeAlso": [
+                    {
+                        "id": "Halan",
+                        "name": "Halan"
+                    },
+                    {
+                        "id": "Loial",
+                        "name": "Loial"
+                    }
+                ]
+            }
+        ]
+    },
+    "Arin": {
+        "id": "Arin",
+        "name": "Arin",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Assistant to the watchman at the Caemlyn Gate in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Artur-Hawkwing": {
+        "id": "Artur-Hawkwing",
+        "name": "Artur Hawkwing",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Hawkwing'>Artur Hawkwing<\/a>, the name by which <a href='#Artur'>Artur Paendrag Tanreall<\/a> was known during his conquest of the world.",
+                "seeAlso": [
+                    {
+                        "id": "Artur",
+                        "name": "Artur Paendrag Tanreall"
+                    }
+                ]
+            }
+        ]
+    },
+    "Artur-Paendrag-Tanreall": {
+        "id": "Artur-Paendrag-Tanreall",
+        "name": "Artur Paendrag Tanreall",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Hero of Legend who ruled all the lands from the Aiel Waste to the Aryth Ocean and beyond. He even sent troops across the Aryth Ocean, as well as to the lands beyond the Aiel Waste. His death set off the War of the Hundred Years. His sign was a golden hawk in flight; he was also known as <a href='#Hawkwing'>Artur Hawkwing<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Avendesora": {
+        "id": "Avendesora",
+        "name": "Avendesora",
+        "chapters": [
+            {
+                "title": "Chapter 6: The Westwood",
+                "info": "The Tree of Life of Legend. It leaves no seed, and is guarded by the <a href='#Green'>Green Man<\/a>, at least according to Legend.",
+                "seeAlso": [
+                    {
+                        "id": "Avendo",
+                        "name": "Avendoraldera"
+                    }
+                ]
+            }
+        ]
+    },
+    "Avendoraldera": {
+        "id": "Avendoraldera",
+        "name": "Avendoraldera",
+        "chapters": [
+            {
+                "title": "Chapter 6: The Westwood",
+                "info": "Sapling cut from <i><a href='#Aven'>Avendesora<\/a><\/i>, the Legendary Tree of Life. The tree was a gift from the Aiel to the people of Cairhien over a century ago. The tree was cut down by <a href='#Laman'>Laman Damodred<\/a>, the King of Cairhien, twenty years ago. Laman&apos;s Sin, as this act is called, ended a century of peace with the Aiel and began the Aiel War.",
+                "seeAlso": [
+                    {
+                        "id": "Aven",
+                        "name": "Avendesora"
+                    },
+                    {
+                        "id": "Laman",
+                        "name": "Laman Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ba-alzamon": {
+        "id": "Ba-alzamon",
+        "name": "Ba'alzamon",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "Ancient name from the Trolloc Tongue, believed to be the Trolloc name for the <a href='#Dark'>Dark One<\/a>. It means &#x201C;Heart of the Dark,&#x201D; in the Old Tongue. Ba&apos;alzamon claims to have sent the Trollocs during the Trolloc Wars for over three hundred years, told <a href='#Hawkwing'>Artur Hawkwing<\/a> to send armies across the Aryth Ocean, and told the same Hawkwing to refuse the Aes Sedai Healing that could have saved his life and proclaim with his last breath that Tar Valon must fall.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bain": {
+        "id": "Bain",
+        "name": "Bain",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Old man <a href='#Mull'>Mull<\/a> knows. He let Mull have half a wagon for his own.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Balthamel": {
+        "id": "Balthamel",
+        "name": "Balthamel",
+        "chapters": [
+            {
+                "title": "Chapter 42: Rememberance of Dreams",
+                "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Balwen-Ironhand": {
+        "id": "Balwen-Ironhand",
+        "name": "Balwen Ironhand",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "Nickname given to <a href='#Balwen'>King Balwen of Aridhol<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Balwen",
+                        "name": "Balwen Mayel"
+                    }
+                ]
+            }
+        ]
+    },
+    "Bandry-Ban-Crawe": {
+        "id": "Bandry-Ban-Crawe",
+        "name": "Bandry (Ban) Crawe",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bandry'>Bandry (Ban) Crawe<\/a> is a young man from Emond&apos;s Field and the son of <a href='#Samel'>Samel<\/a>. He is about ten months older than <a href='#Rand'>Rand<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bartim": {
+        "id": "Bartim",
+        "name": "Bartim",
+        "chapters": [
+            {
+                "title": "Chapter 26: Whitebridge",
+                "info": "Innkeeper of the Wayfarer&apos;s Rest, an inn where <a href='#Thom'>Thom<\/a>, <a href='#Mat'>Mat<\/a>, and <a href='#Rand'>Rand<\/a> stop in Whitebridge. He complains of bad feet.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Basel-Gill": {
+        "id": "Basel-Gill",
+        "name": "Basel Gill",
+        "chapters": [
+            {
+                "title": "Chapter 35: Caemlyn",
+                "info": "Fat, pink-faced innkeeper of The Queen&apos;s Blessing, an inn in Caemlyn. His graying hair is combed back over a bald spot it didn&apos;t quite cover.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bayle-Domon": {
+        "id": "Bayle-Domon",
+        "name": "Bayle Domon",
+        "chapters": [
+            {
+                "title": "Chapter 20: Dust on the Wind",
+                "info": "Stocky captain of the <i>Spray<\/i>, the boat <a href='#Rand'>Rand<\/a>, <a href='#Mat'>Mat<\/a>, and <a href='#Thom'>Thom<\/a> leap on to in order to get from Aridhol to Whitebridge, and away from the Trollocs. He has long hair to his thick shoulders, a round face, and a beard that does not touch his mustache.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bela": {
+        "id": "Bela",
+        "name": "Bela",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a href='#Tam'>Tam<\/a>&apos;s work horse, a shaggy brown mare.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Berin-Thane": {
+        "id": "Berin-Thane",
+        "name": "Berin Thane",
+        "chapters": [
+            {
+                "title": "Chapter 7: Out of the Woods",
+                "info": "<a href='#Thane'>Jon Thane<\/a>&apos;s brother. His house was burned by Trollocs on Winternight. His house is across the street from <a href='#Abell'>Abell Cauthon<\/a>&apos;s house.",
+                "seeAlso": [
+                    {
+                        "id": "Abell",
+                        "name": "Abell Cauthon"
+                    },
+                    {
+                        "id": "Thane",
+                        "name": "Jon Thane"
+                    },
+                    {
+                        "id": "KariThane",
+                        "name": "Kari Thane"
+                    },
+                    {
+                        "id": "Lem",
+                        "name": "Lem Thane"
+                    }
+                ]
+            }
+        ]
+    },
+    "Berin": {
+        "id": "Berin",
+        "name": "Berin",
+        "chapters": [
+            {
+                "title": "Chapter 27: Shelter From the Storm",
+                "info": "Man whose retreat is the subject of a song the Tinkers sing, &#x201C;Berin&apos;s Retreat.&#x201D; It is known in Emond&apos;s Field as &#x201C;The Wind From the North.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Berowyn-al-Vere": {
+        "id": "Berowyn-al-Vere",
+        "name": "Berowyn al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Berowyn'>Berowyn al&apos;Vere<\/a>, is the oldest of the five daughters of <a href='#Bran'>Bran<\/a> and <a href='#Marin'>Marin al&apos;Vere<\/a>. She is <a href='#Egwene'>Egwene<\/a>&apos;s oldest sister, and has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Betrayer-of-Hope": {
+        "id": "Betrayer-of-Hope",
+        "name": "Betrayer of Hope",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "",
+                "seeAlso": [
+                    {
+                        "id": "Ishamael",
+                        "name": "Ishamael"
+                    }
+                ]
+            }
+        ]
+    },
+    "Bili-Congar": {
+        "id": "Bili-Congar",
+        "name": "Bili Congar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bili'>Bili Congar<\/a> is a man from Emond&apos;s Field. According to <a href='#Egwene'>Egwene<\/a>, he is always doing stupid things and always getting hurt. She has very little, if any, respect for him. He is of an age with <a href='#Luhhan'>Haral Luhhan<\/a>, but he <i>looks<\/i> as though he is about ten years older due to his hollow cheeks and sunken eyes.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bili-al-Dai": {
+        "id": "Bili-al-Dai",
+        "name": "Bili al'Dai",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='alDai'>Bili al&apos;Dai<\/a> is a young man from Emond&apos;s Field. He is <a href='#MralDai'>Master al&apos;Dai<\/a>&apos;s grandson.",
+                "seeAlso": [
+                    {
+                        "id": "alDai",
+                        "name": "Bili al&apos;Dai"
+                    }
+                ]
+            }
+        ]
+    },
+    "Blaes-of-Matuchin": {
+        "id": "Blaes-of-Matuchin",
+        "name": "Blaes of Matuchin",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Golden-haired hero of Legend. She is in one of <a href='#Thom'>Thom Merrilin<\/a>&apos;s stories, &#x201C;The Bargain of <a href='#Rogosh'>Rogosh Eagle Eye<\/a>.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Bodewhin-Bode-Cauthon": {
+        "id": "Bodewhin-Bode-Cauthon",
+        "name": "Bodewhin (Bode) Cauthon",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bode'>Bodewhin (Bode) Cauthon<\/a>is a girl from Emond&apos;s Field. She is about one year younger than <a href='#Egwene'>Egwene<\/a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat<\/a>, after he has gotten himself into mischief (which is quite often).",
+                "seeAlso": [
+                    {
+                        "id": "Abell",
+                        "name": "Abell Cauthon"
+                    },
+                    {
+                        "id": "Eldrin",
+                        "name": "Eldrin Cauthon"
+                    },
+                    {
+                        "id": "Mat",
+                        "name": "Matrim Cauthon"
+                    },
+                    {
+                        "id": "Natti",
+                        "name": "Natti Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Brandelwyn-Bran-al-Vere": {
+        "id": "Brandelwyn-Bran-al-Vere",
+        "name": "Brandelwyn (Bran) al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bran'>Brandelwyn (Bran) al&apos;Vere<\/a>is the mayor of Emond&apos;s Field and innkeeper of the Winespring Inn. He is the father of five girls, including <a href='#Egwene'>Egwene<\/a>. He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Breyan-Mandragoran": {
+        "id": "Breyan-Mandragoran",
+        "name": "Breyan Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "<a href='#Lain'>Lain<\/a>&apos;s wife. She was furious that her husband was not chosen as king of Malkier over her brother-in-law <a href='#Akir'>Akir<\/a>; she dared her husband to march his men to Shayol Ghul itself. When they were defeated, she attempted to frame Akir, saying that if he had brought the rest of the men of Malkier, Shayol Ghul would have fallen. She then plotted with <a href='#Cowin'>Cowin Fairheart<\/a> to attempt to seize the throne of Malkier for her son, <a href='#Isam'>Isam<\/a>. Breyan fled Malkier when it fell to the Shadow, disappeared with Isam into the Blight, and was never seen again.",
+                "seeAlso": [
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Isam",
+                        "name": "Isam Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Buad-of-Albhain": {
+        "id": "Buad-of-Albhain",
+        "name": "Buad of Albhain",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Character from &#x201C;The Last Ride of Buad of Albhain,&#x201D; one of <a href='#Thom'>Thom<\/a>&apos;s stories.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Burn": {
+        "id": "Burn",
+        "name": "Burn",
+        "chapters": [
+            {
+                "title": "Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother",
+                "info": "Wolf that <a href='#Elyas'>Elyas<\/a> knows. He is a grizzled fighter.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Caar-One-Hand": {
+        "id": "Caar-One-Hand",
+        "name": "Caar One-Hand",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "Nickname given to <a href='#Caar'>Caar al Thorin al Toren<\/a>, heir to the throne of Manetheren.",
+                "seeAlso": [
+                    {
+                        "id": "Mordeth",
+                        "name": "Mordeth"
+                    }
+                ]
+            }
+        ]
+    },
+    "Caar-al-Thorin-al-Toren": {
+        "id": "Caar-al-Thorin-al-Toren",
+        "name": "Caar al Thorin al Toren",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "<a href='#Aemon'>Aemon<\/a>&apos;s father, <a href='#Thorin'>Thorin<\/a>&apos;s son.",
+                "seeAlso": [
+                    {
+                        "id": "Aemon",
+                        "name": "Aemon al Caar al Thorin"
+                    },
+                    {
+                        "id": "Thorin",
+                        "name": "Thorin al Toren al Ban"
+                    }
+                ]
+            }
+        ]
+    },
+    "Calle-Coplin": {
+        "id": "Calle-Coplin",
+        "name": "Calle Coplin",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Calle'>Calle Coplin<\/a>is a young woman from Emond&apos;s Field. She has not been granted the privilege of wearing her hair in a braid, the symbol of womanhood in Emond&apos;s Field, even though she is well into her twenties. She enjoys flirting, and does not seem to be bothered by the fact that many girls as many as four years her junior are considered grown women while she is not.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Cenn-Buie": {
+        "id": "Cenn-Buie",
+        "name": "Cenn Buie",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cenn'>Cenn Buie<\/a>, the thatcher in Emond&apos;s Field. He is gnarled but spry, and speaks with a raspy voice. He sits on the Village Council, but is probably the most disagreeable member on it.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Ciel": {
+        "id": "Ciel",
+        "name": "Ciel",
+        "chapters": [
+            {
+                "title": "Chapter 15: Strangers and Friends",
+                "info": "Waitress and kitchen assistant in the Stag and Lion in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Cilia-Cole": {
+        "id": "Cilia-Cole",
+        "name": "Cilia Cole",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cilia'>Cilia Cole<\/a> is a from Emond&apos;s Field. <a href='#Egwene'>Egwene<\/a> considers her a &#x201C;ninny.&#x201D; She likes to stare and make calf-eyes at <a href='#Perrin'>Perrin<\/a>; Egwene thinks Perrin at least ought to <i>notice<\/i> her attentions. <i>",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Cinda": {
+        "id": "Cinda",
+        "name": "Cinda",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "Servant in the kitchen of the Stag and Lion in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Cirri": {
+        "id": "Cirri",
+        "name": "Cirri",
+        "chapters": [
+            {
+                "title": "Chapter 15: Strangers and Friends",
+                "info": "Cat in the Stag and Lion in Baerlon. She belongs to <a href='#Sara'>Sara<\/a>, the cook.",
+                "seeAlso": [
+                    {
+                        "id": "Sara",
+                        "name": "Sara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Cloud": {
+        "id": "Cloud",
+        "name": "Cloud",
+        "chapters": [
+            {
+                "title": "Chapter 10: Leavetaking",
+                "info": "Tall gray horse with a black mane and tail. <a href='#Lan'>Lan<\/a> purchased him from <a href='#Thane'>Jon Thane<\/a>, who used him for racing. <a href='#Rand'>Rand<\/a> rode him out of Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Con-Aybara": {
+        "id": "Con-Aybara",
+        "name": "Con Aybara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Con'>Con Aybara<\/a>, father of <a href='#Perrin'>Perrin<\/a>, <a href='#Adora'>Adora<\/a>, <a href='#Deselle'>Deselle<\/a>, and <a href='#Paetram'>Paetram<\/a> and husband of <a href='#Joslyn'>Joslyn<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Adora",
+                        "name": "Adora Aybara"
+                    },
+                    {
+                        "id": "Deselle",
+                        "name": "Deselle Aybara"
+                    },
+                    {
+                        "id": "Joslyn",
+                        "name": "Joslyn Aybara"
+                    },
+                    {
+                        "id": "Paetram",
+                        "name": "Paetram Aybara"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Coramoor": {
+        "id": "Coramoor",
+        "name": "Coramoor",
+        "chapters": [
+            {
+                "title": "Chapter 24: Flight Down the Arinelle",
+                "info": "Man who, according to Sea Folk prophecy, will bring the Atha&apos;an Miere out of the sea.",
+                "seeAlso": [
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Corin-Ayellin": {
+        "id": "Corin-Ayellin",
+        "name": "Corin Ayellin",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Corin'>Corin Ayellin<\/a> is a slim woman from Emond&apos;s Field. She has a thick gray braid that hangs down as far as her hips. She bakes the best sweets in Emond&apos;s Field, possibly in the Two Rivers&#x2014;<a href='#Egwene'>Egwene<\/a> asserts that her own mother&apos;s are better, but even her mother admits that Mistress Ayellin&apos;s are the best.",
+                "seeAlso": [
+                    {
+                        "id": "Dav",
+                        "name": "Dav Ayellin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Cowin-Fairheart": {
+        "id": "Cowin-Fairheart",
+        "name": "Cowin Fairheart",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "",
+                "seeAlso": [
+                    {
+                        "id": "Cowin",
+                        "name": "Cowin Gemallen"
+                    }
+                ]
+            }
+        ]
+    },
+    "Cowin-Gemallen": {
+        "id": "Cowin-Gemallen",
+        "name": "Cowin Gemallen",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Man who plotted with <a href='#Breyan'>Breyan<\/a> to seize the throne of Malkier for her son <a href='#Isam'>Isam<\/a>. He was almost made King of Malkier himself&#x2014;if two people had voted the other way on the council, he would have been. Unknown to everyone until shortly before the fall of Malkier, he was a Darkfriend. When they found out, many called for his head on a pike, but as he was so close to the king, he instead was allowed to duel with the king, and was slain by <a href='#Akir'>Akir<\/a>. Also called Cowin Fairheart.",
+                "seeAlso": [
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Breyan",
+                        "name": "Breyan Mandragoran"
+                    },
+                    {
+                        "id": "Isam",
+                        "name": "Isam Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    },
+                    {
+                        "id": "Leanna",
+                        "name": "Leanna ti Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Creator": {
+        "id": "Creator",
+        "name": "Creator",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Maker of the world, the True Source, everything in existence. At the moment of Creation, the Creator sealed the <a href='#Dark'>Dark One<\/a> in a prison at Shayol Ghul to keep him from influencing the world.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dag-Coplin": {
+        "id": "Dag-Coplin",
+        "name": "Dag Coplin",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Boy from Emond&apos;s Field that <a href='#Mat'>Mat<\/a> fooled with a story about ghost dogs, shortly before releasing <a href='#Luhhan'>Master Luhhan<\/a>&apos;s dogs covered with flour.",
+                "seeAlso": [
+                    {
+                        "id": "Darl",
+                        "name": "Darl Coplin"
+                    },
+                    {
+                        "id": "Ewal",
+                        "name": "Ewal Coplin"
+                    },
+                    {
+                        "id": "Hari",
+                        "name": "Hari Coplin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dai-Shan": {
+        "id": "Dai-Shan",
+        "name": "Dai Shan",
+        "chapters": [
+            {
+                "title": "Chapter 46: Fal Dara",
+                "info": "Title used by those in the Borderlands for <a href='#Lan'>Lan<\/a>, as well as others such as <a href='#Agelmar'>Agelmar<\/a>. The title is that of the Diademed Battle Lords, the generals of the Borderlands.",
+                "seeAlso": [
+                    {
+                        "id": "Agelmar",
+                        "name": "Agelmar Jagad"
+                    },
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dain-Bornhald": {
+        "id": "Dain-Bornhald",
+        "name": "Dain Bornhald",
+        "chapters": [
+            {
+                "title": "Chapter 15: Strangers and Friends",
+                "info": "Son of <a href='#Bornhald'>Geofram<\/a>. He is a little too easily influenced, in his father&apos;s opinion. He was one of the men <a href='#Mat'>Mat<\/a> got all muddy with his barrel stunt in Baerlon.",
+                "seeAlso": [
+                    {
+                        "id": "Bornhald",
+                        "name": "Geofram Bornhald"
+                    }
+                ]
+            }
+        ]
+    },
+    "Daise-Congar": {
+        "id": "Daise-Congar",
+        "name": "Daise Congar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a href='#Wit'>Wit<\/a>&apos;s wife. She is twice as wide as he is. She has a hard face, and not an ounce of fat on her. She controlls her husband much more than he controls her.",
+                "seeAlso": [
+                    {
+                        "id": "Wit",
+                        "name": "Wit Congar"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dannil-Lewin": {
+        "id": "Dannil-Lewin",
+        "name": "Dannil Lewin",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Dannil'>Dannil Lewin<\/a>, a boy from Emond&apos;s Field. He is even skinnier than <a href='#Rand'>Rand<\/a>, is a year older than him, and is described as having a thrusting nose.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Dapple": {
+        "id": "Dapple",
+        "name": "Dapple",
+        "chapters": [
+            {
+                "title": "Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother",
+                "info": "Wolf that <a href='#Elyas'>Elyas<\/a> knows. Her fur fades through a dozen shades of gray. She is the alpha female, the leader of her pack.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Dar": {
+        "id": "Dar",
+        "name": "Dar",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Assistant to the watchman at the Caemlyn Gate in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Darith": {
+        "id": "Darith",
+        "name": "Darith",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "King in one of <a href='#Thom'>Thom<\/a>&apos;s stories.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Dark-One": {
+        "id": "Dark-One",
+        "name": "Dark One",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Name, used in every land, for <a href='#Dark'>Shai&apos;tan<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Darl-Coplin": {
+        "id": "Darl-Coplin",
+        "name": "Darl Coplin",
+        "chapters": [
+            {
+                "title": "Chapter 7: Out of the Woods",
+                "info": "Man from a farm near Emond&apos;s Field. He spent half the night demanding that <a href='#Bran'>Bran al&apos;Vere<\/a> send <a href='#Moiraine'>Moiraine<\/a> and <a href='#Lan'>Lan<\/a> away. He blamed them for bringing the Trollocs to Emond&apos;s Field.",
+                "seeAlso": [
+                    {
+                        "id": "Dag",
+                        "name": "Dag Coplin"
+                    },
+                    {
+                        "id": "Ewal",
+                        "name": "Ewal Coplin"
+                    },
+                    {
+                        "id": "Hari",
+                        "name": "Hari Coplin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Darling-Sara": {
+        "id": "Darling-Sara",
+        "name": "Darling Sara",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Subject of a song <a href='#Rand'>Rand<\/a> plays in Arien. He knows it as &#x201C;Ferry O&apos;er the River,&#x201D; but the innkeeper there called it &#x201C;Darling Sara.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Daughter-Heir-of-Andor-": {
+        "id": "Daughter-Heir-of-Andor-",
+        "name": "Daughter-Heir (of Andor)",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "According to Andoran tradition, the first-born daughter of the Queen is her heir to the throne. The Daughter-Heir is traditionally sent to Tar Valon to receive training from the Aes Sedai, although until the current Daughter-Heir, <a href='#Elayne'>Elayne<\/a>, most have been too weak to get beyond novice training.",
+                "seeAlso": [
+                    {
+                        "id": "Tigraine",
+                        "name": "Tigraine Damodred"
+                    },
+                    {
+                        "id": "Elayne",
+                        "name": "Elayne Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dav-Ayellin": {
+        "id": "Dav-Ayellin",
+        "name": "Dav Ayellin",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Dav'>Dav Ayellin<\/a> is a boy from Emond&apos;s Field, of an age with <a href='#Mat'>Mat<\/a>. He and Mat are friends, and like to get into mischief together. In fact, he and Mat seem to have a competition over who can get into the most trouble.",
+                "seeAlso": [
+                    {
+                        "id": "Corin",
+                        "name": "Corin Ayellin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Davian": {
+        "id": "Davian",
+        "name": "Davian",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "False <a href='#Dragon'>Dragon<\/a> of old times. <a href='#Baal'>Ba&apos;alzamon<\/a> claims that he was used by Aes Sedai, just as all other false Dragons were.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Demandred": {
+        "id": "Demandred",
+        "name": "Demandred",
+        "chapters": [
+            {
+                "title": "Chapter 42: Rememberance of Dreams",
+                "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Deselle-Aybara": {
+        "id": "Deselle-Aybara",
+        "name": "Deselle Aybara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Deselle'>Deselle Aybara<\/a> is <a href='#Perrin'>Perrin<\/a>&apos;s younger sister.",
+                "seeAlso": [
+                    {
+                        "id": "Adora",
+                        "name": "Adora Aybara"
+                    },
+                    {
+                        "id": "Con",
+                        "name": "Con Aybara"
+                    },
+                    {
+                        "id": "Joslyn",
+                        "name": "Joslyn Aybara"
+                    },
+                    {
+                        "id": "Paetram",
+                        "name": "Paetram Aybara"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Doral-Barran": {
+        "id": "Doral-Barran",
+        "name": "Doral Barran",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Barran'>Doral Barran<\/a> was the Wisdom of Emond&apos;s Field. She is the oldest woman in Emond&apos;s Field, possibly in the entire Two Rivers. She is white-haired and frail, though still clear-eyed and not stooped at all. Her last apprentice died of a mysterious illness that she could not cure. She mentored <a href='#Nynaeve'>Nynaeve al&apos;Meara<\/a>, who recently replaced her as Wisdom.",
+                "seeAlso": [
+                    {
+                        "id": "Nynaeve",
+                        "name": "Nynaeve al&apos;Meara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Dragon-Reborn": {
+        "id": "Dragon-Reborn",
+        "name": "Dragon Reborn",
+        "chapters": [
+            {
+                "title": "Chapter 3: The Peddler",
+                "info": "According to the Prophecies of the <a href='#Dragon'>Dragon<\/a>, the man who will be Reborn at mankind&apos;s greatest hour of need to save the world. He is the Rebirth of <a href='#Lews'>Lews Therin Telamon<\/a>, the Dragon. It is said that he will save the world&#x2014;and Break it again.",
+                "seeAlso": [
+                    {
+                        "id": "Logain",
+                        "name": "Logain Ablar"
+                    },
+                    {
+                        "id": "Guaire",
+                        "name": "Guaire Amalasan"
+                    },
+                    {
+                        "id": "Coramoor",
+                        "name": "Coramoor"
+                    },
+                    {
+                        "id": "Raolin",
+                        "name": "Raolin Darksbane"
+                    },
+                    {
+                        "id": "Davian",
+                        "name": "Davian"
+                    },
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Dawn",
+                        "name": "He Who Comes With the Dawn"
+                    },
+                    {
+                        "id": "Yurian",
+                        "name": "Yurian Stonebow"
+                    },
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Easar-Togita": {
+        "id": "Easar-Togita",
+        "name": "Easar Togita",
+        "chapters": [
+            {
+                "title": "Chapter 48: The Blight",
+                "info": "King of Shienar. His capital is in Fal Moran.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Eazil-Forney": {
+        "id": "Eazil-Forney",
+        "name": "Eazil Forney",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Farmer from near Arien. He was at the inn there, drank too much, and had to stay overnight. The innkeeper asked him to give the entertainment, <a href='#Rand'>Rand<\/a> and <a href='#Mat'>Mat<\/a>, a ride along the road for a ways.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Egwene-al-Vere": {
+        "id": "Egwene-al-Vere",
+        "name": "Egwene al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Egwene'>Egwene al&apos;Vere<\/a> is a 17-year-old girl from Emond&apos;s Field. She is the daughter of <a href='#Bran'>Bran<\/a>, the Mayor of Emond&apos;s Field, and his wife <a href='#Marin'>Marin<\/a>. Egwene has four older sisters; <a href='#Berowyn'>Berowyn<\/a>, <a href='#Alene'>Alene<\/a>, <a href='#Elisa'>Elisa<\/a>, and <a href='#Loise'>Loise<\/a>; and resents them at times for treating her as the baby of the family.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Elaida-do-Avriny-a-Roihan": {
+        "id": "Elaida-do-Avriny-a-Roihan",
+        "name": "Elaida do Avriny a'Roihan",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Aes Sedai of the Red Ajah and advisor to <a href='#Morgase'>Queen Morgase<\/a> of Andor. She sometimes has the Foretelling.",
+                "seeAlso": [
+                    {
+                        "id": "Morgase",
+                        "name": "Morgase Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Elam-Dowtry": {
+        "id": "Elam-Dowtry",
+        "name": "Elam Dowtry",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Elam'>Elam Dowtry<\/a> is one of <a href='#Mat'>Mat<\/a>&apos;s friends in Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Elan-Morin-Tedronai": {
+        "id": "Elan-Morin-Tedronai",
+        "name": "Elan Morin Tedronai",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Man who appears to <a href='#Lews'>Lews Therin Telamon<\/a> shortly after he killed his entire family. He Healed Lews Therin from his madness, allowing him to finally realize what he had done. Elan Morin is now known as <a href='#Ishamael'>Ishamael<\/a>, which means &#x201C;<a href='#Betrayer'>Betrayer of Hope<\/a>&#x201D; in the Old Tongue. He claims to follow a &#x201C;different power&#x201D; now, that of the <a href='#Dark'>Dark One<\/a> himself. He was once humbled by Lews Therin in the Hall of Servants, and defeated by him at the gates of Paaren Disen. However, Lews Therin fled and killed himself before Elan Morin could do with him as he had planned.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Elayne-Trakand": {
+        "id": "Elayne-Trakand",
+        "name": "Elayne Trakand",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "<a href='#DH'>Daughter-Heir<\/a> of Andor, daughter of <a href='#Morgase'>Morgase<\/a> and sister of <a href='#Gawyn'>Gawyn<\/a>. She is quite pretty. She is preparing to leave for Tar Valon to undergo novice training, as all daughters-heir of Andor have done since the nation&apos;s founding.",
+                "seeAlso": [
+                    {
+                        "id": "Taringail",
+                        "name": "Taringail Damodred"
+                    },
+                    {
+                        "id": "Gawyn",
+                        "name": "Gawyn Trakand"
+                    },
+                    {
+                        "id": "Morgase",
+                        "name": "Morgase Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Eldrene-ay-Ellan-ay-Carlan": {
+        "id": "Eldrene-ay-Ellan-ay-Carlan",
+        "name": "Eldrene ay Ellan ay Carlan",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "Queen of Manetheren during the Trolloc Wars, wife of <a href='#Aemon'>Aemon<\/a>, her Warder. It was said that she was so beautiful flowers bloomed to make her smile. She was also called Ellisande, &#x201C;Rose of the Sun&#x201D; in the Old Tongue.",
+                "seeAlso": [
+                    {
+                        "id": "Aemon",
+                        "name": "Aemon al Caar al Thorin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Eldrin-Cauthon": {
+        "id": "Eldrin-Cauthon",
+        "name": "Eldrin Cauthon",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Eldrin'>Eldrin Cauthon<\/a> is a girl from Emond&apos;s Field. She is about two years younger than <a href='#Egwene'>Egwene<\/a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat<\/a>, after he has gotten himself into mischief (which is quite often).",
+                "seeAlso": [
+                    {
+                        "id": "Abell",
+                        "name": "Abell Cauthon"
+                    },
+                    {
+                        "id": "Bode",
+                        "name": "Bodewhin Cauthon"
+                    },
+                    {
+                        "id": "Natti",
+                        "name": "Natti Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Elisa-al-Vere": {
+        "id": "Elisa-al-Vere",
+        "name": "Elisa al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Elisa'>Elisa al&apos;Vere<\/a> is the third oldest of five daughters of <a href='#Marin'>Marin<\/a> and <a href='#Bran'>Bran<\/a> al&apos;Vere of Emond&apos;s Field. She is one year older than <a href='#Nynaeve'>Nynaeve<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Elmindreda-Min-Farshaw": {
+        "id": "Elmindreda-Min-Farshaw",
+        "name": "Elmindreda (Min) Farshaw",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "Young woman from Baerlon. She has short dark hair that she keeps like most boys her age do. She is slender, and barely taller than <a href='#Moiraine'>Moiraine<\/a>. Her dark eyes are bigger than <a href='#Egwene'>Egwene<\/a>&apos;s. She dresses like most boys do, a habit she picked up from her hours in the mines with her father; her mother is dead. Min has a special ability, known to few; she can see images around people that predict their future. Moiraine calls them pieces of the Pattern. She sees a lot of things around <a href='#Rand'>Rand<\/a> and his friends, but she claims that if she told Rand everything she saw about him, he would be as curly-haired as his &#x201C;friend with the shoulders.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Else-Grinwell": {
+        "id": "Else-Grinwell",
+        "name": "Else Grinwell",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Dark-haired, big-eyed, pretty daughter of the Grinwell farmers, the eldest of nine. She is nineteen, a year younger than <a href='#Rand'>Rand<\/a> and <a href='#Mat'>Mat<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Grinwell",
+                        "name": "Grinwell"
+                    }
+                ]
+            }
+        ]
+    },
+    "Elyas-Machera": {
+        "id": "Elyas-Machera",
+        "name": "Elyas Machera",
+        "chapters": [
+            {
+                "title": "Chapter 23: Wolfbrother",
+                "info": "Man who lives in the woods. He has graying brown hair to his waist, held at the neck by a cord. He wears a thick beard across half his chest. He can communicate with wolves, and he lives alone, except for his wolf friends, and never expected to find another who had the same ability&#x2014;until he met <a href='#Perrin'>Perrin<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ewal-Coplin": {
+        "id": "Ewal-Coplin",
+        "name": "Ewal Coplin",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Young man from the Two Rivers. He and the rest of his family used to make fun of <a href='#Rand'>Rand<\/a> for his gray eyes, until Rand punched him in the nose.",
+                "seeAlso": [
+                    {
+                        "id": "Dag",
+                        "name": "Dag Coplin"
+                    },
+                    {
+                        "id": "Darl",
+                        "name": "Darl Coplin"
+                    },
+                    {
+                        "id": "Hari",
+                        "name": "Hari Coplin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Eward-Candwin": {
+        "id": "Eward-Candwin",
+        "name": "Eward Candwin",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "Man from Emond&apos;s Field. He got a gash down his back when the Trollocs attacked, but was Healed by <a href='#Moiraine'>Moiraine<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Eward-Congar": {
+        "id": "Eward-Congar",
+        "name": "Eward Congar",
+        "chapters": [
+            {
+                "title": "Chapter 15: Strangers and Friends",
+                "info": "Man from Emond&apos;s Field who always walks with his nose in the air. He once fell off the Wagon Bridge and had to come home all wet. That chilled him out for about a month, according to <a href='#Mat'>Mat<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Ewin-Finngar": {
+        "id": "Ewin-Finngar",
+        "name": "Ewin Finngar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Ewin'>Ewin Finngar<\/a> is a boy from Emond&apos;s Field. He is about six years younger than <a href='#Mat'>Mat<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Farede": {
+        "id": "Farede",
+        "name": "Farede",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Panarch of Tarabon near the end of the War of the Hundred Years. She was responsible for promulgating the calendar that now bears her name, which measures years of the New Era (NE), the first of which marked the (arbitrary) end of the War.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Father-of-Lies": {
+        "id": "Father-of-Lies",
+        "name": "Father of Lies",
+        "chapters": [
+            {
+                "title": "Chapter 8: A Place of Safety",
+                "info": "One of the many euphemisms for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Floran-Gelb": {
+        "id": "Floran-Gelb",
+        "name": "Floran Gelb",
+        "chapters": [
+            {
+                "title": "Chapter 20: Dust on the Wind",
+                "info": "Crewman on board <a href='#Domon'>Bayle Domon<\/a>&apos;s vessel. <a href='#Rand'>Rand<\/a> landed on top of him when he and his companions leaped onto the boat; Gelb was asleep on his watch.",
+                "seeAlso": [
+                    {
+                        "id": "Domon",
+                        "name": "Bayle Domon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Gaidal-Cain": {
+        "id": "Gaidal-Cain",
+        "name": "Gaidal Cain",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Hero of Legend. He appears in several of <a href='#Thom'>Thom<\/a>&apos;s stories, including &#x201C;Gaidal Cain&apos;s Sword.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Galadedrid-Galad-Damodred": {
+        "id": "Galadedrid-Galad-Damodred",
+        "name": "Galadedrid (Galad) Damodred",
+        "chapters": [
+            {
+                "title": "Chapter 40: The Web Tightens",
+                "info": "Handsomest man <a href='#Rand'>Rand<\/a> has ever seen. He is tall and slender, and has dark hair and eyes. He is the son of <a href='#Tigraine'>Tigraine<\/a> and <a href='#Taringail'>Taringail Damodred<\/a>, and the half-brother of <a href='#Elayne'>Elayne<\/a> and <a href='#Gawyn'>Gawyn<\/a>&quot;. He always does the right thing, even if he should not.",
+                "seeAlso": [
+                    {
+                        "id": "Taringail",
+                        "name": "Taringail Damodred"
+                    },
+                    {
+                        "id": "Tigraine",
+                        "name": "Tigraine Damodred"
+                    },
+                    {
+                        "id": "Elayne",
+                        "name": "Elayne Trakand"
+                    },
+                    {
+                        "id": "Gawyn",
+                        "name": "Gawyn Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Gareth-Bryne": {
+        "id": "Gareth-Bryne",
+        "name": "Gareth Bryne",
+        "chapters": [
+            {
+                "title": "Chapter 35: Caemlyn",
+                "info": "Captain-General of the Queen&apos;s Guards in Caemlyn.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Gawyn-Trakand": {
+        "id": "Gawyn-Trakand",
+        "name": "Gawyn Trakand",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Son of <a href='#Morgase'>Queen Morgase<\/a> and brother of <a href='#Elayne'>Elayne<\/a>. He will become First Prince of the Sword when his sister ascends to the Throne.",
+                "seeAlso": [
+                    {
+                        "id": "Taringail",
+                        "name": "Taringail Damodred"
+                    },
+                    {
+                        "id": "Elayne",
+                        "name": "Elayne Trakand"
+                    },
+                    {
+                        "id": "Morgase",
+                        "name": "Morgase Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Geofram-Bornhald": {
+        "id": "Geofram-Bornhald",
+        "name": "Geofram Bornhald",
+        "chapters": [
+            {
+                "title": "Chapter 28: Footprints in AirChapter 29: Eyes Without PityChapter 30: Children of Shadow",
+                "info": "Lord Captain of a band of the Children of the Light. He meets up with <a href='#Perrin'>Perrin<\/a> and <a href='#Egwene'>Egwene<\/a> in the abandoned <i>stedding<\/i>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Gilda": {
+        "id": "Gilda",
+        "name": "Gilda",
+        "chapters": [
+            {
+                "title": "Chapter 41: Old Friends and New Threats",
+                "info": "Serving maid in the Queen&apos;s Blessing in Caemlyn. She reports that there are Whitecloaks in the Common Room to <a href='#Gill'>Master Gill<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Grassburner": {
+        "id": "Grassburner",
+        "name": "Grassburner",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Name, used especially by Aiel, for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Great-Lord-of-the-Dark": {
+        "id": "Great-Lord-of-the-Dark",
+        "name": "Great Lord of the Dark",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Name used by Darkfriends to refer to <a href='#Dark'>Shai&apos;tan<\/a>, the Dark One; they claim that to use his true name would be blasphemy.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            },
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Name used by Darkfriends for the <a href='#Dark'>Dark One<\/a>, claiming that to use his true name would be blasphemy.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Green-Man": {
+        "id": "Green-Man",
+        "name": "Green Man",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Character in one of <a href='#Thom'>Thom<\/a>&apos;s stories. According to Legend, he guards <i><a href='#Aven'>Avendesora<\/a><\/i>, the Tree of Life, as well as the Eye of the World.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Guaire-Amalasan": {
+        "id": "Guaire-Amalasan",
+        "name": "Guaire Amalasan",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "False <a href='#Dragon'>Dragon<\/a> of old times. <a href='#Baal'>Ba&apos;alzamon<\/a> claims that he was used by Aes Sedai, just as all other false Dragons were.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Halan": {
+        "id": "Halan",
+        "name": "Halan",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "Elder of Stedding Shangtai, Ogier, father of <a href='#Arent'>Arent<\/a>, and grandfather of <a href='#Loial'>Loial<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Arent",
+                        "name": "Arent"
+                    },
+                    {
+                        "id": "Loial",
+                        "name": "Loial"
+                    }
+                ]
+            }
+        ]
+    },
+    "Haman": {
+        "id": "Haman",
+        "name": "Haman",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "An Ogier, one of the Elders in <i>Stedding Shangtai<\/i>. <a href='#Loial'>Loial<\/a> has great respect for him.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Haral-Luhhan": {
+        "id": "Haral-Luhhan",
+        "name": "Haral Luhhan",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Luhhan'>Haral Luhhan<\/a> is the Blacksmith of Emond&apos;s Field. His arms are as big as most men&apos;s legs, and his chest strains his shirt. He is the tallest man in the Two Rivers. <a href='#Perrin'>Perrin Aybara<\/a> is his apprentice. His wife, <a href='#Alsbet'>Alsbet<\/a>, is almost as large as he is. He sits on the Village Council.",
+                "seeAlso": [
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    },
+                    {
+                        "id": "Alsbet",
+                        "name": "Alsbet Luhhan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Hari-Coplin": {
+        "id": "Hari-Coplin",
+        "name": "Hari Coplin",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "<a href='#Darl'>Darl<\/a>&apos;s brother. He also blames <a href='#Moiraine'>Moiraine<\/a> for bringing the Trollocs to Emond&apos;s Field.",
+                "seeAlso": [
+                    {
+                        "id": "Dag",
+                        "name": "Dag Coplin"
+                    },
+                    {
+                        "id": "Darl",
+                        "name": "Darl Coplin"
+                    },
+                    {
+                        "id": "Ewal",
+                        "name": "Ewal Coplin"
+                    }
+                ]
+            }
+        ]
+    },
+    "He-Who-Comes-With-the-Dawn": {
+        "id": "He-Who-Comes-With-the-Dawn",
+        "name": "He Who Comes With the Dawn",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "According to the Aiel Prophecy, the man who will come to unite their people and lead them out of the Waste.",
+                "seeAlso": [
+                    {
+                        "id": "Coramoor",
+                        "name": "Coramoor"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Heartfang": {
+        "id": "Heartfang",
+        "name": "Heartfang",
+        "chapters": [
+            {
+                "title": "Chapter 27: Shelter From the Storm",
+                "info": "Name the wolves use for <a href='#Baal'>Ba&apos;alzamon<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Baal",
+                        "name": "Ba&apos;alzamon"
+                    },
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Heartsbane": {
+        "id": "Heartsbane",
+        "name": "Heartsbane",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Alternative name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Heran-Adan": {
+        "id": "Heran-Adan",
+        "name": "Heran Adan",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "Governor of Baerlon. He will not cooperate with the Children of the Light who are in the city.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Herot": {
+        "id": "Herot",
+        "name": "Herot",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Hero of old. He has a crossing in Malkier named after him.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Hopper": {
+        "id": "Hopper",
+        "name": "Hopper",
+        "chapters": [
+            {
+                "title": "Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother",
+                "info": "Wolf that <a href='#Elyas'>Elyas<\/a> knows. He is an older wolf, but very smart. He is dedicated to <a href='#Dapple'>Dapple<\/a>; his mission in life is to see that what she wants is carried out.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Howal-Gode": {
+        "id": "Howal-Gode",
+        "name": "Howal Gode",
+        "chapters": [
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Hu-Barran": {
+        "id": "Hu-Barran",
+        "name": "Hu Barran",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Stablehand at the Winespring Inn in Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Hyam-Kinch": {
+        "id": "Hyam-Kinch",
+        "name": "Hyam Kinch",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Farmer whose cart <a href='#Rand'>Rand<\/a> and <a href='#Mat'>Mat<\/a> ride after leaving The Queen&apos;s Man, an inn in a town along the Caemlyn road. He is leathery-faced and taciturn.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Ila": {
+        "id": "Ila",
+        "name": "Ila",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "<a href='#Raen'>Raen<\/a>&apos;s wife. She is a head taller than her husband.",
+                "seeAlso": [
+                    {
+                        "id": "Aram",
+                        "name": "Aram"
+                    },
+                    {
+                        "id": "Raen",
+                        "name": "Raen"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ilyena-Therin-Moerelle": {
+        "id": "Ilyena-Therin-Moerelle",
+        "name": "Ilyena Therin Moerelle",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Wife of <a href='#Lews'>Lews Therin Telamon<\/a>. She has blonde hair. She was called &quot;Sunhair.&quot; She died along with her children when her insane husband killed them, and her.",
+                "seeAlso": [
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ingtar-Shinowa": {
+        "id": "Ingtar-Shinowa",
+        "name": "Ingtar Shinowa",
+        "chapters": [
+            {
+                "title": "Chapter 46: Fal Dara",
+                "info": "Soldier from Shienar. His hair is arranged in the Shienaran warrior style, shaved except for a topknot. He is one of the officers under <a href='#Agelmar'>Agelmar<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Isam-Mandragoran": {
+        "id": "Isam-Mandragoran",
+        "name": "Isam Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Infant son of <a href='#Lain'>Lain<\/a> and <a href='#Breyan'>Breyan<\/a>. His mother&apos;s attempt to seize the throne of Malkier for him ended in the fall of Malkier itself; Isam and Breyan disappeared into the Blight and were never heard from again.",
+                "seeAlso": [
+                    {
+                        "id": "Breyan",
+                        "name": "Breyan Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ishamael": {
+        "id": "Ishamael",
+        "name": "Ishamael",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name means &quot;<a href='#Betrayer'>Betrayer of Hope<\/a>&quot; in the Old Tongue. He was called <a href='#Elan'>Elan Morin Tedronai<\/a> in the Age of Legends, before he turned to the Shadow. His name is still used to frighten children.",
+                "seeAlso": [
+                    {
+                        "id": "Betrayer",
+                        "name": "Betrayer of Hope;"
+                    }
+                ]
+            }
+        ]
+    },
+    "Jac-al-Caar": {
+        "id": "Jac-al-Caar",
+        "name": "Jac al'Caar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Jac'>Jac al&apos;Caar<\/a> is a Shepherd from near Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jaem": {
+        "id": "Jaem",
+        "name": "Jaem",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Giant-slayer from one of <a href='#Thom'>Thom<\/a>&apos;s stories. He is also featured in a song, &#x201C;Jaem&apos;s Folly,&#x201D; that is popular among Two Rivers folk.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jaim": {
+        "id": "Jaim",
+        "name": "Jaim",
+        "chapters": [
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Subject of a song <a href='#Rand'>Rand<\/a> knows. It is called &#x201C;Jolly Jaim&#x201D; where Rand learned it, but in Four Kings it is known as &#x201C;Rhea&apos;s Fling.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jain-Charin": {
+        "id": "Jain-Charin",
+        "name": "Jain Charin",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Makieri hero who captured <a href='#Cowin'>Cowin Fairheart<\/a> and brought him back to the Seven Towers for justice. He was already called Farstrider at that point.",
+                "seeAlso": [
+                    {
+                        "id": "Farstrider",
+                        "name": "Jain Farstrider"
+                    }
+                ]
+            }
+        ]
+    },
+    "Jain-Farstrider": {
+        "id": "Jain-Farstrider",
+        "name": "Jain Farstrider",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Farstrider'>Jain Farstrider<\/a> is the main character in <a href='#Egwene'>Egwene<\/a>&apos;s favorite book, <i>The Travels of Jain Farstrider<\/i>. He has traveled all over the world, including the lands beyond the Aiel Waste and the Great Blight. He disappeared years ago and has not been heard from since.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jak": {
+        "id": "Jak",
+        "name": "Jak",
+        "chapters": [
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Bouncers at The Dancing Cartman. His arms are big enough to be legs.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jaret-Byar": {
+        "id": "Jaret-Byar",
+        "name": "Jaret Byar",
+        "chapters": [
+            {
+                "title": "Chapter 28: Footprints in AirChapter 29: Eyes Without PityChapter 30: Children of Shadow",
+                "info": "Tall Child of the Light. He has little in the way of human emotions, and thinks nothing of killing people. He hates no one; if he believes they should die, it is only because he thinks they should die, not because he hates them.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jehaan": {
+        "id": "Jehaan",
+        "name": "Jehaan",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Hero of old. He has a landmark in Malkier named after him: the Stair of Jehaan, the place where the last of the Malkieri gave their lives in a futile attempt to save their nation.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jillie-Lewin": {
+        "id": "Jillie-Lewin",
+        "name": "Jillie Lewin",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Jillie'>Jillie Lewin<\/a> is a young woman from Emond&apos;s Field. She is a year younger than <a href='#Elisa'>Elisa al&apos;Vere<\/a>, and wears her hair in a black braid that extends below her waist.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Jon-Thane": {
+        "id": "Jon-Thane",
+        "name": "Jon Thane",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Miller of Emond&apos;s Field. His mill is actually out of town. He sits on the Village Council.",
+                "seeAlso": [
+                    {
+                        "id": "Berin",
+                        "name": "Berin Thane"
+                    },
+                    {
+                        "id": "KariThane",
+                        "name": "Kari Thane"
+                    },
+                    {
+                        "id": "Lem",
+                        "name": "Lem Thane"
+                    }
+                ]
+            }
+        ]
+    },
+    "Joslyn-Aybara": {
+        "id": "Joslyn-Aybara",
+        "name": "Joslyn Aybara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Joslyn'>Joslyn Aybara<\/a> is the mother of <a href='#Perrin'>Perrin<\/a>, <a href='#Adora'>Adora<\/a>, <a href='#Deselle'>Deselle<\/a>, and <a href='#Paetram'>Paetram<\/a> and wife of <a href='#Con'>Con<\/a>. She is very pretty, in <a href='#Egwene'>Egwene<\/a>&apos;s view, who thinks her smile could make the Sun bide its head in defeat.",
+                "seeAlso": [
+                    {
+                        "id": "Adora",
+                        "name": "Adora Aybara"
+                    },
+                    {
+                        "id": "Con",
+                        "name": "Con Aybara"
+                    },
+                    {
+                        "id": "Deselle",
+                        "name": "Deselle Aybara"
+                    },
+                    {
+                        "id": "Paetram",
+                        "name": "Paetram Aybara"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Kari-Thane": {
+        "id": "Kari-Thane",
+        "name": "Kari Thane",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "One of <a href='#Egwene'>Egwene<\/a>&apos;s friends. Egwene asked <a href='#Moiraine'>Moiraine<\/a> if she can channel when Moiraine said there was another woman in her village who could do so. She does not realize that the woman Moiraine was referring to was <a href='#Nynaeve'>Nynaeve<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Lara",
+                        "name": "Lara Ayellan"
+                    },
+                    {
+                        "id": "Berin",
+                        "name": "Berin Thane"
+                    },
+                    {
+                        "id": "Thane",
+                        "name": "Jon Thane"
+                    },
+                    {
+                        "id": "Lem",
+                        "name": "Lem Thane"
+                    }
+                ]
+            }
+        ]
+    },
+    "Kari-al-Thor": {
+        "id": "Kari-al-Thor",
+        "name": "Kari al'Thor",
+        "chapters": [
+            {
+                "title": "Chapter 6: The Westwood",
+                "info": "<a href='#Rand'>Rand<\/a>&apos;s mother. She died about fifteen years ago, when Rand was five. His only memory of her was that she had gentle hands and a soft voice. Tam met her when he left Emond&apos;s Field; they were married, and returned later with a child.",
+                "seeAlso": [
+                    {
+                        "id": "Rand",
+                        "name": "Rand al&apos;Thor"
+                    },
+                    {
+                        "id": "Tam",
+                        "name": "Tamlin al&apos;Thor"
+                    }
+                ]
+            }
+        ]
+    },
+    "Karil": {
+        "id": "Karil",
+        "name": "Karil",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Goodwife in one of <a href='#Thom'>Thom<\/a>&apos;s stories. In this story, she cured her husband of snoring.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Kenley-Ahan": {
+        "id": "Kenley-Ahan",
+        "name": "Kenley Ahan",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Ahan'>Kenley Ahan<\/a> is a boy from Emond&apos;s Field in the Two Rivers. He is about two years older than <a href='#Egwene'>Egwene<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "King-Balwen-Mayel": {
+        "id": "King-Balwen-Mayel",
+        "name": "King Balwen Mayel",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "King of Aridhol before its collapse. During his reign, a man named <a href='#Mordeth'>Mordeth<\/a> came to be his advisor. Mordeth advised using the Shadow&apos;s tactics, its evil, against it; eventually this evil consumed the city, and only Mordeth survived. He was also known as Balwen Ironhand before Mordeth&apos;s arrival.",
+                "seeAlso": [
+                    {
+                        "id": "Mordeth",
+                        "name": "Mordeth"
+                    }
+                ]
+            }
+        ]
+    },
+    "Kinslayer": {
+        "id": "Kinslayer",
+        "name": "Kinslayer",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "New name given to <a href='#Lews'>Lews Therin Telamon<\/a> after he massacred his entire family and everyone he ever loved in his madness.",
+                "seeAlso": [
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lain-Mandragoran": {
+        "id": "Lain-Mandragoran",
+        "name": "Lain Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "<a href='#Akir'>Akir<\/a>&apos;s brother, <a href='#Lan'>Lan<\/a>&apos;s uncle. He was married to <a href='#Breyan'>Breyan<\/a>. His brother and he were as close as twins, and never let even Akir&apos;s becoming king get in the way. His wife, however, was jealous of Akir, and dared her husband to march his men all the way to Shayol Ghul itself, hoping to use the inevitable defeat as cause to pull Akir off the throne. Lain died in the Blasted Lands.",
+                "seeAlso": [
+                    {
+                        "id": "Breyan",
+                        "name": "Breyan Mandragoran"
+                    },
+                    {
+                        "id": "Isam",
+                        "name": "Isam Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Laman-Damodred": {
+        "id": "Laman-Damodred",
+        "name": "Laman Damodred",
+        "chapters": [
+            {
+                "title": "Chapter 6: The Westwood",
+                "info": "King of Cairhien before and during the Aiel War, which ended about twenty years ago. He cut down <i><a href='#Avendo'>Avendoraldera<\/a><\/i>, the sapling from the Tree of Life, given to the people of Cairhein hundreds of years ago by the Aiel. This Sin, as it was called, precipitated the Aiel War and led to Laman&apos;s Death.",
+                "seeAlso": [
+                    {
+                        "id": "Moiraine",
+                        "name": "Moiraine Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lamgwin-Dorn": {
+        "id": "Lamgwin-Dorn",
+        "name": "Lamgwin Dorn",
+        "chapters": [
+            {
+                "title": "Chapter 37: The Long ChaseChapter 38: RescueChapter 39: Weaving of the Web",
+                "info": "Man <a href='#Gill'>Basel Gill<\/a> hired to guard his door against anyone who would bring ill to his inn or its guests. He is bulky, and has heavy-lidded eyes. Despite his bulk, he moves like a cat. He thinks <a href='#Morgase'>Morgase<\/a> to be the greatest queen in the World.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Lanfear": {
+        "id": "Lanfear",
+        "name": "Lanfear",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Lanfear'>Lanfear<\/a> is one of the Forsaken; the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should&#x2014;it is said that she waits for children who steal.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Lara-Ayellan": {
+        "id": "Lara-Ayellan",
+        "name": "Lara Ayellan",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "One of <a href='#Egwene'>Egwene<\/a>&apos;s friends. Egwene asked <a href='#Moiraine'>Moiraine<\/a> if she can channel when Moiraine said there was another woman in her village who could do so. She does not realize that the woman Moiraine was referring to was <a href='#Nynaeve'>Nynaeve<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "KariThane",
+                        "name": "Kari Thane"
+                    }
+                ]
+            }
+        ]
+    },
+    "Leafblighter": {
+        "id": "Leafblighter",
+        "name": "Leafblighter",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "Aiel name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lem-Thane": {
+        "id": "Lem-Thane",
+        "name": "Lem Thane",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Lem'>Lem Thane<\/a> is the son of <a href='#Thane'>Jon Thane<\/a>, miller of Emond&apos;s Field. He is about eight months younger than <a href='#Rand'>Rand<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Lenn": {
+        "id": "Lenn",
+        "name": "Lenn",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Man who flew to the moon in the belly of an eagle made of fire in one of <a href='#Thom'>Thom Merrilin<\/a>&apos;s gleeman tales. The story precedes the Age of Legends.",
+                "seeAlso": [
+                    {
+                        "id": "Salya",
+                        "name": "Salya"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lews-Therin-Telamon": {
+        "id": "Lews-Therin-Telamon",
+        "name": "Lews Therin Telamon",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "The <a href='#Dragon'>Dragon<\/a>, <a href='#Morning'>Lord of the Morning<\/a>, <a href='#Kinslayer'>Kinslayer<\/a>, Breaker of the World. He is a tall man just into his middle years. He was handsome once, but now he has more white hair than brown, and his face is lined from strain and worry. He has dark eyes. Known as the Dragon during the War of the Shadow. He killed his entire family in the madness that seized him after resealing the <a href='#Dark'>Dark One<\/a>&apos;s prison.",
+                "seeAlso": [
+                    {
+                        "id": "Rand",
+                        "name": "Rand al&apos;Thor"
+                    },
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    },
+                    {
+                        "id": "Kinslayer",
+                        "name": "Kinslayer"
+                    },
+                    {
+                        "id": "Morning",
+                        "name": "Lord of the Morning"
+                    },
+                    {
+                        "id": "Ilyena",
+                        "name": "Ilyena Therin Moerelle"
+                    },
+                    {
+                        "id": "Tamyrlin",
+                        "name": "Tamyrlin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lian": {
+        "id": "Lian",
+        "name": "Lian",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Character in one of <a href='#Thom'>Thom<\/a>&apos;s stories, &#x201C;Lian&apos;s stand.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Lini-Eltring": {
+        "id": "Lini-Eltring",
+        "name": "Lini Eltring",
+        "chapters": [
+            {
+                "title": "Chapter 40: The Web Tightens",
+                "info": "Nurse to <a href='#Elayne'>Elayne<\/a> and <a href='#Morgase'>Morgase<\/a> during their respective childhoods.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Logain-Ablar": {
+        "id": "Logain-Ablar",
+        "name": "Logain Ablar",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "False <a href='#Dragon'>Dragon<\/a> from Ghealdan. News of his battles in Ghealdan reached Emond&apos;s Field with <a href='#Fain'>Padan Fain<\/a> on Winternight&#x2014;it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Loial": {
+        "id": "Loial",
+        "name": "Loial",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "Son of <a href='#Arent'>Arent<\/a> son of <a href='#Halan'>Halan<\/a>, an Ogier from Stedding Shangtai. He came to Caemlyn, and took up residence in the library of The Queen&apos;s Blessing. He is about ninety years old, which by Ogier standards is too young to leave the <i>stedding<\/i> alone, and ten years too young to address the Stump.",
+                "seeAlso": [
+                    {
+                        "id": "Arent",
+                        "name": "Arent"
+                    },
+                    {
+                        "id": "Halan",
+                        "name": "Halan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Loise-al-Vere": {
+        "id": "Loise-al-Vere",
+        "name": "Loise al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Loise'>Loise al&apos;Vere<\/a> is one of five daughters of <a href='#Marin'>Marin<\/a> and <a href='#Bran'>Bran al&apos;Vere<\/a>, the innkeepers of Emond&apos;s Field. She is six years older than their youngest daughter <a href='#Egwene'>Egwene<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Marin",
+                        "name": "Marin al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lord-of-the-Dawn": {
+        "id": "Lord-of-the-Dawn",
+        "name": "Lord of the Dawn",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Alternative use of the title <a href='#Morning'>Lord of the Morning<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Morning",
+                        "name": "Lord of the Morning"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lord-of-the-Grave": {
+        "id": "Lord-of-the-Grave",
+        "name": "Lord of the Grave",
+        "chapters": [
+            {
+                "title": "Chapter 41: Old Friends and New Threats",
+                "info": "Alternative name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lord-of-the-Morning": {
+        "id": "Lord-of-the-Morning",
+        "name": "Lord of the Morning",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Title by which <a href='#Lews'>Lews Therin Telamon<\/a> was known by during the Age of Legends and the War of Power.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lothair-Mantelar": {
+        "id": "Lothair-Mantelar",
+        "name": "Lothair Mantelar",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Author of <i>The Way of the Light<\/i> and founder of the Children of the Light.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Luc-Mantear": {
+        "id": "Luc-Mantear",
+        "name": "Luc Mantear",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Son of the Queen of Andor before <a href='#Morgase'>Morgase<\/a> was queen. He disappeared into the Blight suddenly, and was never seen again.",
+                "seeAlso": [
+                    {
+                        "id": "Tigraine",
+                        "name": "Tigraine Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Machin-Shin": {
+        "id": "Machin-Shin",
+        "name": "Machin Shin",
+        "chapters": [
+            {
+                "title": "Chapter 43: Decisions and Apparitions",
+                "info": "The Black Wind. It is a creature of the Ways, perhaps spawned from the taint, perhaps from something else. It wanders the Ways, consuming the souls of those it encounters. Those who make it out after being touched by <i>Machin Shin<\/i> are soulless, hollow shells&#x2014;if they make it out at all.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mandarb": {
+        "id": "Mandarb",
+        "name": "Mandarb",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "<a href='#Lan'>Lan<\/a>&apos;s black stallion. His name means &#x201C;Blade&#x201D; in the Old Tongue.",
+                "seeAlso": [
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mara": {
+        "id": "Mara",
+        "name": "Mara",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Character from one of <a href='#Thom'>Thom Merrilin<\/a>&apos;s stories, &#x201C;Mara and the Three Foolish Kings.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mari": {
+        "id": "Mari",
+        "name": "Mari",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "Servant in the kitchen of the Stag and Lion in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Marin-al-Vere": {
+        "id": "Marin-al-Vere",
+        "name": "Marin al'Vere",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a href='#Bran'>Bran<\/a>&apos;s wife, <a href='#Egwene'>Egwene<\/a>&apos;s mother. She is slender, and keeps her hair in a thick, gray braid.",
+                "seeAlso": [
+                    {
+                        "id": "Alene",
+                        "name": "Alene al&apos;Vere"
+                    },
+                    {
+                        "id": "Berowyn",
+                        "name": "Berowyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Bran",
+                        "name": "Brandelwyn al&apos;Vere"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Elisa",
+                        "name": "Elisa al&apos;Vere"
+                    },
+                    {
+                        "id": "Loise",
+                        "name": "Loise al&apos;Vere"
+                    }
+                ]
+            }
+        ]
+    },
+    "Martyn-Tallanvor": {
+        "id": "Martyn-Tallanvor",
+        "name": "Martyn Tallanvor",
+        "chapters": [
+            {
+                "title": "Chapter 40: The Web Tightens",
+                "info": "Guardsman-lieutenant in the Queen&apos;s Guards of Andor.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mashadar": {
+        "id": "Mashadar",
+        "name": "Mashadar",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "The evil that consumed Aridhol, now called Shadar Logoth, during the Trolloc Wars.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Andra": {
+        "id": "Master-Andra",
+        "name": "Master Andra",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "Name <a href='#Lan'>Lan<\/a> uses in some cities, including Baerlon.",
+                "seeAlso": [
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Master-Avin": {
+        "id": "Master-Avin",
+        "name": "Master Avin",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "Gatekeeper of the south gate of Baerlon. He &#x201C;forgot&#x201D; that he let <a href='#Alys'>Alys<\/a>, <a href='#Andra'>Andra<\/a>, and their companions through the gate.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Aydaer": {
+        "id": "Master-Aydaer",
+        "name": "Master Aydaer",
+        "chapters": [
+            {
+                "title": "Chapter 28: Footprints in AirChapter 29: Eyes Without PityChapter 30: Children of Shadow",
+                "info": "Cabinetmaker of Emond&apos;s Field. He knows the value of good craftsmanship.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Cole": {
+        "id": "Master-Cole",
+        "name": "Master Cole",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cole'>Master Cole<\/a> is an old man from Emond&apos;s Field. He is as old as the <a href='#Barran'>Wisdom<\/a>, perhaps even older. Despite this, he still has a full head of hair, though it&apos;s white now.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Fitch": {
+        "id": "Master-Fitch",
+        "name": "Master Fitch",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "Innkeeper of the Stag and Lion, an inn in Baerlon. He has wispy hair that sticks out everywhere.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Grinwell": {
+        "id": "Master-Grinwell",
+        "name": "Master Grinwell",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Sturdy farmer with nine children. His farm is on the Caemlyn road. His eldest daughter, <a href='#Else'>Else<\/a>, is a year younger than <a href='#Mat'>Mat<\/a> and <a href='#Rand'>Rand<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Grinwell2",
+                        "name": "Grinwell"
+                    },
+                    {
+                        "id": "Else",
+                        "name": "Else Grinwell"
+                    }
+                ]
+            }
+        ]
+    },
+    "Master-Hightower": {
+        "id": "Master-Hightower",
+        "name": "Master Hightower",
+        "chapters": [
+            {
+                "title": "Chapter 11: The Road to Taren Ferry",
+                "info": "Man who operates the ferry at Taren Ferry.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-Inlow": {
+        "id": "Master-Inlow",
+        "name": "Master Inlow",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Innkeeper at The Queen&apos;s Man, the inn where <a href='#Rand'>Rand<\/a> takes ill. He was willing to treat Rand and crosserf(&quot;Mat&quot;) quite nicely, as long as Mat kept Rand out of the common room.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Master-al-Dai": {
+        "id": "Master-al-Dai",
+        "name": "Master al'Dai",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='MralDai'>Master al&apos;Dai<\/a> is a lean old man from Emond&apos;s Field with wispy white hair. As old or older than <a href='#Cole'>Master Cole<\/a>, he is unable to walk without the assistance of a cane. He is <a href='#alDai'>Bili al&apos;Dai<\/a>&apos;s grandfather. Despite his advanced years, his eyes remain clear and sharp, as does his mind. He is also quite quick with the shears, almost as fast as <a href='#Tam'>Tam al&apos;Thor<\/a> and faster than everyone else.",
+                "seeAlso": [
+                    {
+                        "id": "alDai",
+                        "name": "Bili al&apos;Dai"
+                    }
+                ]
+            }
+        ]
+    },
+    "Materese": {
+        "id": "Materese",
+        "name": "Materese",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "The Healer, Mother of the Wondrous Ind in one of <a href='#Thom'>Thom<\/a>&apos;s stories. Her story predates the Age of Legends.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Matrim-Mat-Cauthon": {
+        "id": "Matrim-Mat-Cauthon",
+        "name": "Matrim (Mat) Cauthon",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Mat'>Matrim (Mat) Cauthon<\/a>, a boy from Emond&apos;s Field. He has brown eyes. Mat is known for his practical jokes and other mischief, often getting his best friends in trouble with him. He is good friends with <a href='#Rand'>Rand al&apos;Thor<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>, though he seems to have a contest going with <a href='#Dav'>Dav Ayellin<\/a> as to who can get the other into the most trouble. He has two younger sisters, <a href='#Bode'>Bodewhin<\/a> and <a href='#Eldrin'>Eldrin<\/a>. As a twenty year-old, Mat has grown to be one of the tallest men in the Two Rivers. He is still known for his practical jokes and other mischief; whenever something goes wrong in Emond&apos;s Field, Mat is the one everyone looks to first.",
+                "seeAlso": [
+                    {
+                        "id": "Rand",
+                        "name": "Rand al&apos;Thor"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    },
+                    {
+                        "id": "Abell",
+                        "name": "Abell Cauthon"
+                    },
+                    {
+                        "id": "Bode",
+                        "name": "Bodewhin Cauthon"
+                    },
+                    {
+                        "id": "Eldrin",
+                        "name": "Eldrin Cauthon"
+                    },
+                    {
+                        "id": "Natti",
+                        "name": "Natti Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mavra-Mallen": {
+        "id": "Mavra-Mallen",
+        "name": "Mavra Mallen",
+        "chapters": [
+            {
+                "title": "Chapter 16: The Wisdom",
+                "info": "Wisdom of Deven Ride. She came to Emond&apos;s Field to take care of things during <a href='#Nynaeve'>Nynaeve<\/a> absence.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mistress-Alys": {
+        "id": "Mistress-Alys",
+        "name": "Mistress Alys",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "Name <a href='#Moiraine'>Moiraine<\/a> uses in some cities, including Baerlon.",
+                "seeAlso": [
+                    {
+                        "id": "Moiraine",
+                        "name": "Moiraine Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mistress-Aynora": {
+        "id": "Mistress-Aynora",
+        "name": "Mistress Aynora",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Woman with a rooster in a song Rand played at the <a href='#Grinwell'>Grinwell<\/a>&apos;s house.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mistress-Calder": {
+        "id": "Mistress-Calder",
+        "name": "Mistress Calder",
+        "chapters": [
+            {
+                "title": "Chapter 7: Out of the Woods",
+                "info": "Owner of one of the houses that survived Winternight in Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mistress-Grinwell": {
+        "id": "Mistress-Grinwell",
+        "name": "Mistress Grinwell",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Yellow-haired mistress of the Grinwell farm.",
+                "seeAlso": [
+                    {
+                        "id": "Grinwell",
+                        "name": "Grinwell"
+                    },
+                    {
+                        "id": "Else",
+                        "name": "Else Grinwell"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mistress-al-Donel": {
+        "id": "Mistress-al-Donel",
+        "name": "Mistress al'Donel",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Woman from Emond&apos;s Field. She demanded that <a href='#Bran'>Bran al&apos;Vere<\/a> fix the problem that no storks were nesting on the rooftops this spring. He honestly does not know what she would have him do.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Moiraine-Damodred": {
+        "id": "Moiraine-Damodred",
+        "name": "Moiraine Damodred",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Guest in Emond&apos;s Field the day before Bel Tine. She has large dark eyes and keeps her dark hair in ringlets. She barely comes to <a href='#Rand'>Rand<\/a>&apos;s chest.",
+                "seeAlso": [
+                    {
+                        "id": "Alys",
+                        "name": "Alys"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mordeth": {
+        "id": "Mordeth",
+        "name": "Mordeth",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "Sleek, overfed man with drooping eyelids. He is short and completely bald. <a href='#Rand'>Rand<\/a>, <a href='#Mat'>Mat<\/a>, and <a href='#Perrin'>Perrin<\/a> encountered him in Aridhol when they went off to see the city. In reality, Mordeth was the advisor to <a href='#Balwen'>Balwen<\/a>, the last king of Aridhol. He ordered the death of <a href='#Caar'>Caar<\/a>, heir to the throne of Manetheren, when he came to Aridhol in an attempt to bring it back to the Second Covenant. His spirit has been trapped inside the walls of Aridhol ever since, and it is said that if he ever accompanies anyone to the city walls, he will be able to consume that person&apos;s soul and escape.",
+                "seeAlso": [
+                    {
+                        "id": "Fain",
+                        "name": "Padan Fain"
+                    },
+                    {
+                        "id": "Mashadar",
+                        "name": "Mashadar"
+                    },
+                    {
+                        "id": "Balwen",
+                        "name": "Balwen Mayel"
+                    }
+                ]
+            }
+        ]
+    },
+    "Mosk": {
+        "id": "Mosk",
+        "name": "Mosk",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Giant who fought with a Lance of Fire that could reach around the world in one of <a href='#Thom'>Thom<\/a>&apos;s stories. He fought with several people, including <a href='#Alsbet2'>Alsbet<\/a>, ruler off the world. The story of Mosk predates the Age of Legends.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mother-Brune": {
+        "id": "Mother-Brune",
+        "name": "Mother Brune",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Wisdom-equivalent in The Queen&apos;s Man, the inn where <a href='#Rand'>Rand<\/a> takes ill.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mother-Grubb": {
+        "id": "Mother-Grubb",
+        "name": "Mother Grubb",
+        "chapters": [
+            {
+                "title": "Chapter 37: The Long ChaseChapter 38: RescueChapter 39: Weaving of the Web",
+                "info": "Woman in Caemlyn who sells herbs and poultices, births babies, tends the sick and tells fortunes. <a href='#Rand'>Rand<\/a> considered asking for her services to help <a href='#Mat'>Mat<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Mutch": {
+        "id": "Mutch",
+        "name": "Mutch",
+        "chapters": [
+            {
+                "title": "Chapter 12: Across the TarenChapter 13: Choices",
+                "info": "Worker at the Stag and Lion in Baerlon.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Narg": {
+        "id": "Narg",
+        "name": "Narg",
+        "chapters": [
+            {
+                "title": "Chapter 5: Winternight",
+                "info": "Trolloc among those who attacked <a href='#Tam'>Tam<\/a> and <a href='#Rand'>Rand<\/a> on their farm. He stayed back and played dead when the other Trollocs left the farm&#x2014;&#x201C;Narg stay. Narg smart.&#x201D; He speaks English, albeit poorly, and talked to Rand for a short time before Rand killed him with Tam&apos;s sword.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Natti-Cauthon": {
+        "id": "Natti-Cauthon",
+        "name": "Natti Cauthon",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Natti'>Natti Cauthon<\/a> is a woman from Emond&apos;s Field and the mother of <a href='#Mat'>Mat<\/a>. She is always calm and collected, which <a href='#Egwene'>Egwene<\/a> figures is necessary for someone with a son like Mat. She always seems to know about Mat&apos;s escapades; Mat is not sure how she always knows, but it is obvious to Egwene that his two younger sisters enjoy the role of tattletale.",
+                "seeAlso": [
+                    {
+                        "id": "Abell",
+                        "name": "Abell Cauthon"
+                    },
+                    {
+                        "id": "Bode",
+                        "name": "Bodewhin Cauthon"
+                    },
+                    {
+                        "id": "Eldrin",
+                        "name": "Eldrin Cauthon"
+                    },
+                    {
+                        "id": "Mat",
+                        "name": "Matrim Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Nynaeve-al-Meara": {
+        "id": "Nynaeve-al-Meara",
+        "name": "Nynaeve al'Meara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Nynaeve'>Nynaeve al&apos;Meara<\/a> is a 24-year-old woman from Emond&apos;s Field. She has brown hair and eyes, and is quite slender. She studied under <a href='#Barran'>Doral Barran<\/a>, the Wisdom of Emond&apos;s Field. After Mistress Barran&apos;s death, Nynaeve herself became the Wisdom. Her adult height is about as tall as <a href='#Mat'>Mat<\/a>&apos;s shoulder. Many people <i>still<\/i> think Nynaeve is too young to be the Wisdom; however, mentioning this to her is a good way to get whacked by the stick she carries.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Oren-Dautry": {
+        "id": "Oren-Dautry",
+        "name": "Oren Dautry",
+        "chapters": [
+            {
+                "title": "Chapter 5: Winternight",
+                "info": "Nearest neighbor to the al&apos;Thor farm. He is a shameless borrower. <a href='#Tam'>Tam<\/a> thinks he may have some livestock he is willing to part with.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Owyn-Merrilin": {
+        "id": "Owyn-Merrilin",
+        "name": "Owyn Merrilin",
+        "chapters": [
+            {
+                "title": "Chapter 26: Whitebridge",
+                "info": "<a href='#Thom'>Thom<\/a>&apos;s nephew, his brother&apos;s only son. Thom left his position as Court-bard in the Royal Court of Andor, where he was known from Tear to Maradon as one of the best bards, to help Owyn with some trouble he had with Aes Sedai.",
+                "seeAlso": [
+                    {
+                        "id": "Thom",
+                        "name": "Thomdril Merrilin"
+                    }
+                ]
+            }
+        ]
+    },
+    "Padan-Fain": {
+        "id": "Padan-Fain",
+        "name": "Padan Fain",
+        "chapters": [
+            {
+                "title": "Chapter 3: The Peddler",
+                "info": "Pale skinny peddler with gangly arms and a huge beak of a nose that comes to Emond&apos;s Field about once a year. He always smiles and laughs as if he knows some joke no one else knows. He came just before Bel Tine to trade, and brought news of the war in Ghealdan against the false <a href='#Dragon'>Dragon<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Paet-al-Caar": {
+        "id": "Paet-al-Caar",
+        "name": "Paet al'Caar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Paet'>Paet al&apos;Caar<\/a> is a shepherd from near Emond&apos;s Field and the father of <a href='#Wil'>Wil<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Wil",
+                        "name": "Wil al&apos;Caar"
+                    }
+                ]
+            }
+        ]
+    },
+    "Paetram-Paet-Aybara": {
+        "id": "Paetram-Paet-Aybara",
+        "name": "Paetram (Paet) Aybara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Paetram'>Paetram (Paet) Aybara<\/a> is <a href='#Perrin'>Perrin<\/a>&apos;s baby brother.",
+                "seeAlso": [
+                    {
+                        "id": "Adora",
+                        "name": "Adora Aybara"
+                    },
+                    {
+                        "id": "Con",
+                        "name": "Con Aybara"
+                    },
+                    {
+                        "id": "Deselle",
+                        "name": "Deselle Aybara"
+                    },
+                    {
+                        "id": "Joslyn",
+                        "name": "Joslyn Aybara"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    }
+                ]
+            }
+        ]
+    },
+    "Paitr-Conel": {
+        "id": "Paitr-Conel",
+        "name": "Paitr Conel",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Darkfriend that <a href='#Mat'>Mat<\/a> and <a href='#Rand'>Rand<\/a> encounter in Market Sheran.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Perrin-Aybara": {
+        "id": "Perrin-Aybara",
+        "name": "Perrin Aybara",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Perrin'>Perrin Aybara<\/a> is a boy of about 19 years of age from Emond&apos;s field. He is one of the tallest boys in Emond&apos;s Field, even taller than <a href='#Rand'>Rand<\/a>, one of his two best friends (though since Rand is not yet finished growing, it is possible he will catch Perrin eventually). He is also good friends with <a href='#Mat'>Mat Cauthon<\/a>, who often gets Perrin and Rand into trouble. He has curly hair, and is very stocky and generally big. He is very shy and laughs seldomly. His parents arranged to have him apprenticed to <a href='#Luhhan'>Haral Luhhan<\/a>, the blacksmith of Emond&apos;s Field. Perrin has two younger sisters, <a href='#Adora'>Adora<\/a> and <a href='#Deselle'>Deselle<\/a>, and one younger brother, <a href='#Paetram'>Paetram<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Rand",
+                        "name": "Rand al&apos;Thor"
+                    },
+                    {
+                        "id": "Adora",
+                        "name": "Adora Aybara"
+                    },
+                    {
+                        "id": "Con",
+                        "name": "Con Aybara"
+                    },
+                    {
+                        "id": "Deselle",
+                        "name": "Deselle Aybara"
+                    },
+                    {
+                        "id": "Joslyn",
+                        "name": "Joslyn Aybara"
+                    },
+                    {
+                        "id": "Paetram",
+                        "name": "Paetram Aybara"
+                    },
+                    {
+                        "id": "Mat",
+                        "name": "Matrim Cauthon"
+                    },
+                    {
+                        "id": "Luhhan",
+                        "name": "Haral Luhhan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Prince-of-the-Morning": {
+        "id": "Prince-of-the-Morning",
+        "name": "Prince of the Morning",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Title referring to the <a href='#Reborn'>Dragon Reborn<\/a>, in reference to the Rebirth of the <a href='#Morning'>Lord of the Morning<\/a>, <a href='#Lews'>Lews Therin Telamon<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    },
+                    {
+                        "id": "Morning",
+                        "name": "Lord of the Morning"
+                    }
+                ]
+            }
+        ]
+    },
+    "Promised-One": {
+        "id": "Promised-One",
+        "name": "Promised One",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Name used in prophecies to refer to the <a href='#Reborn'>Dragon Reborn<\/a>, the man foretold to come at mankind&apos;s greatest hour of need to save the world.",
+                "seeAlso": [
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Queen-Morgase-Trakand": {
+        "id": "Queen-Morgase-Trakand",
+        "name": "Queen Morgase Trakand",
+        "chapters": [
+            {
+                "title": "Chapter 26: Whitebridge",
+                "info": "By the Grace of the Light, Queen of Andor, Protector of the Realm, Defender of the People, High Seat of House Trakand. She is <a href='#Elayne'>Elayne<\/a> and <a href='#Gawyn'>Gawyn<\/a>&apos;s mother.",
+                "seeAlso": [
+                    {
+                        "id": "Elaida",
+                        "name": "Elaida do Avriny a&apos;Roihan"
+                    },
+                    {
+                        "id": "Elayne",
+                        "name": "Elayne Trakand"
+                    },
+                    {
+                        "id": "Gawyn",
+                        "name": "Gawyn Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Raen": {
+        "id": "Raen",
+        "name": "Raen",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "Madhi (&#x201C;Seeker&#x201D;) of a group of Tinkers. He has gray hair, and is married to <a href='#Ila'>Ila<\/a>. He is <a href='#Aram'>Aram<\/a>&apos;s grandfather. <a href='#Elyas'>Elyas<\/a>, <a href='#Perrin'>Perrin<\/a>, and <a href='#Egwene'>Egwene<\/a> stay with them for a while.",
+                "seeAlso": [
+                    {
+                        "id": "Aram",
+                        "name": "Aram"
+                    },
+                    {
+                        "id": "Ila",
+                        "name": "Ila"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ragan": {
+        "id": "Ragan",
+        "name": "Ragan",
+        "chapters": [
+            {
+                "title": "Chapter 46: Fal Dara",
+                "info": "Soldier from Shienar. He asked <a href='#Lan'>Lan<\/a>, eagerly, if the Golden Crane would fly again.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Raimun-Holdwin": {
+        "id": "Raimun-Holdwin",
+        "name": "Raimun Holdwin",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Man from a village near Caemlyn. He is a Darkfriend, and talked to a Myrddraal outside his inn.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Ramey": {
+        "id": "Ramey",
+        "name": "Ramey",
+        "chapters": [
+            {
+                "title": "Chapter 44: The Dark Along the Ways",
+                "info": "Stablehand at The Queen&apos;s Blessing in Caemlyn.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Rand-al-Thor": {
+        "id": "Rand-al-Thor",
+        "name": "Rand al'Thor",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Rand'>Rand al&apos;Thor<\/a> is a shepherd from the Two Rivers. He is the tallest boy in Emond&apos;s Field. He has grey eyes and reddish hair, both of which are unheard of in the Two Rivers. His mother died when Rand was five; <a href='#Egwene'>Egwene<\/a> thinks he envies boys that have mothers. Rand is good friends with <a href='#Mat'>Mat Cauthon<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>. As a twenty year-old, Rand is about a head taller than Perrin, and taller than Mat as well. Rand and the Mayor&apos;s daughter, Egwene, have been all but Promised to each other since they were both young; this is often the subject of ridicule by Mat and Perrin.",
+                "seeAlso": [
+                    {
+                        "id": "Kari",
+                        "name": "Kari al&apos;Thor"
+                    },
+                    {
+                        "id": "Tam",
+                        "name": "Tamlin al&apos;Thor"
+                    },
+                    {
+                        "id": "Egwene",
+                        "name": "Egwene al&apos;Vere"
+                    },
+                    {
+                        "id": "Perrin",
+                        "name": "Perrin Aybara"
+                    },
+                    {
+                        "id": "Mat",
+                        "name": "Matrim Cauthon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Raolin-Darksbane": {
+        "id": "Raolin-Darksbane",
+        "name": "Raolin Darksbane",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "False <a href='#Dragon'>Dragon<\/a> of old times. <a href='#Baal'>Ba&apos;alzamon<\/a> claims that he was used by Aes Sedai, just as all other false Dragons were. He has been dead since before the Trolloc Wars, two thousand years ago.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Red": {
+        "id": "Red",
+        "name": "Red",
+        "chapters": [
+            {
+                "title": "Chapter 44: The Dark Along the Ways",
+                "info": "Bay <a href='#Rand'>Rand<\/a> borrows from <a href='#Gill'>Basel Gill<\/a>. His hair is about the same color as Rand&apos;s own hair.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Rhea": {
+        "id": "Rhea",
+        "name": "Rhea",
+        "chapters": [
+            {
+                "title": "Chapter 19: Shadow's Waiting",
+                "info": "Wife of <a href='#Caar'>Caar<\/a>, son of <a href='#Thorin'>Thorin<\/a>, the king of Manetheren during the time <a href='#Mordeth'>Mordeth<\/a> was in power in Aridhol. She killed her husband, and after he was buried killed herself upon his grave.",
+                "seeAlso": [
+                    {
+                        "id": "Caar",
+                        "name": "Caar al Thorin al Toren"
+                    },
+                    {
+                        "id": "Mordeth",
+                        "name": "Mordeth"
+                    }
+                ]
+            },
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Subject of a song <a href='#Rand'>Rand<\/a> knows. It is called &#x201C;Jolly Jaim&#x201D; where Rand learned it, but in Four Kings it is known as &#x201C;Rhea&apos;s Fling.&#x201D;",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Rogosh-Eagle-Eye": {
+        "id": "Rogosh-Eagle-Eye",
+        "name": "Rogosh Eagle Eye",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "",
+                "seeAlso": [
+                    {
+                        "id": "Rogosh",
+                        "name": "Rogosh of Talmour"
+                    }
+                ]
+            }
+        ]
+    },
+    "Rogosh-of-Talmour": {
+        "id": "Rogosh-of-Talmour",
+        "name": "Rogosh of Talmour",
+        "chapters": [
+            {
+                "title": "Chapter 17: Watchers and Hunters",
+                "info": "Hero of Legend, a man famed at the court of the High King, <a href='#Artur'>Artur Paendrag Tanreall<\/a>, feared on the slopes of Shayol Ghul. He was the greatest of all the Hunters for the Horn.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Rowan-Hurn": {
+        "id": "Rowan-Hurn",
+        "name": "Rowan Hurn",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Member of the Village Council of Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Rulan-Allwine": {
+        "id": "Rulan-Allwine",
+        "name": "Rulan Allwine",
+        "chapters": [
+            {
+                "title": "Chapter 33: The Dark Waits",
+                "info": "Innkeeper of the inn in Market Sheran, where <a href='#Paitr'>Paitr Conel<\/a> meets <a href='#Rand'>Rand<\/a> and <a href='#Mat'>Mat<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Salya": {
+        "id": "Salya",
+        "name": "Salya",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Daughter of <a href='#Lenn'>Lenn<\/a> in another of <a href='#Thom'>Thom Merrilin<\/a>&apos;s gleeman tales. She walked among the stars in the story, which precedes the Age of Legends.",
+                "seeAlso": [
+                    {
+                        "id": "Lenn",
+                        "name": "Lenn"
+                    }
+                ]
+            }
+        ]
+    },
+    "Samel-Crawe": {
+        "id": "Samel-Crawe",
+        "name": "Samel Crawe",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Member of the Village Council of Emond&apos;s Field.",
+                "seeAlso": [
+                    {
+                        "id": "Bandry",
+                        "name": "Bandry Crawe"
+                    }
+                ]
+            }
+        ]
+    },
+    "Saml-Hake": {
+        "id": "Saml-Hake",
+        "name": "Saml Hake",
+        "chapters": [
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Innkeeper of The Dancing Cartman in Four Kings. He is the first skinny innkeeper <a href='#Rand'>Rand<\/a> had ever met, and the only one he did not trust.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Sara": {
+        "id": "Sara",
+        "name": "Sara",
+        "chapters": [
+            {
+                "title": "Chapter 15: Strangers and Friends",
+                "info": "Cook in the Stag and Lion in Baerlon. She threatened to quit when <a href='#Fitch'>Master Fitch<\/a> relayed people&apos;s complaints about the rats her cat was apparently leaving all over the inn; in reality these rats had their backs broken by <a href='#Baal'>Ba&apos;alzamon<\/a>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Scratch": {
+        "id": "Scratch",
+        "name": "Scratch",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Yellow cat native to the Winespring Inn in Emond&apos;s Field. Her usual perch is next to the fire or on top of the bookcase.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Semirhage": {
+        "id": "Semirhage",
+        "name": "Semirhage",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Semirhage'>Semirhage<\/a> is one of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Shadowman": {
+        "id": "Shadowman",
+        "name": "Shadowman",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Boogeyman of the <i>Wheel of Time<\/i>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Shai-tan": {
+        "id": "Shai-tan",
+        "name": "Shai'tan",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Source of all evil, antithesis of the <a href='#Creator'>Creator<\/a>. He was imprisoned by the Creator at the moment of Creation at Shayol Ghul. This prison was bored into during the Age of Legends, which led to the War of the Shadow, the Time of Madness, the Breaking of the World, and the end of the Age of Legends. Since naming him by his true name brings ill fortune or disaster, many euphemisms exist, including Father of Lies, Grassburner, Heartsbane, Heartfang, Leafblighter, Lord of the Grave, Shepherd of the Night, Sightblinder, and Soulsbane. He is most commonly referred to as simply &#x201C;The Dark One.&#x201D;",
+                "seeAlso": [
+                    {
+                        "id": "Baal",
+                        "name": "Ba&apos;alzamon"
+                    },
+                    {
+                        "id": "Creator",
+                        "name": "Creator"
+                    }
+                ]
+            }
+        ]
+    },
+    "Shepherd-of-the-Night": {
+        "id": "Shepherd-of-the-Night",
+        "name": "Shepherd of the Night",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Alternative name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Sheriam-Bayanar": {
+        "id": "Sheriam-Bayanar",
+        "name": "Sheriam Bayanar",
+        "chapters": [
+            {
+                "title": "Chapter 44: The Dark Along the Ways",
+                "info": "Aes Sedai of the Blue Ajah. <a href='#Moiraine'>Moiraine<\/a> tells <a href='#Gill'>Master Gill<\/a> to contact her in Tar Valon if he got into any trouble for helping her.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Sightblinder": {
+        "id": "Sightblinder",
+        "name": "Sightblinder",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "Aiel name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Sightburner": {
+        "id": "Sightburner",
+        "name": "Sightburner",
+        "chapters": [
+            {
+                "title": "Chapter 25: The Traveling People",
+                "info": "Aiel name for the <a href='#Dark'>Dark One<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Dark",
+                        "name": "Shai&apos;tan"
+                    }
+                ]
+            }
+        ]
+    },
+    "Strom": {
+        "id": "Strom",
+        "name": "Strom",
+        "chapters": [
+            {
+                "title": "Chapter 32: Four Kings in Shadow",
+                "info": "Bouncers at The Dancing Cartman. His arms are big enough to be legs.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Susa": {
+        "id": "Susa",
+        "name": "Susa",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Character who tamed <a href='#Farstrider'>Jain Farstrider<\/a> in one of <a href='#Thom'>Thom<\/a>&apos;s stories.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Tad-Barran": {
+        "id": "Tad-Barran",
+        "name": "Tad Barran",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Stablehand at the Winespring Inn in Emond&apos;s Field.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Tamlin-Tam-al-Thor": {
+        "id": "Tamlin-Tam-al-Thor",
+        "name": "Tamlin (Tam) al'Thor",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a href='#Rand'>Rand<\/a>&apos;s father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married <a href='#Kari'>Kari<\/a>, a woman from Caemlyn. Since Kari&apos;s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond&apos;s Field have been trying to find a match for him recently. They&apos;ve also started to think about who would be good for his son as well.",
+                "seeAlso": [
+                    {
+                        "id": "Kari",
+                        "name": "Kari al&apos;Thor"
+                    },
+                    {
+                        "id": "Rand",
+                        "name": "Rand al&apos;Thor"
+                    }
+                ]
+            }
+        ]
+    },
+    "Tamyrlin": {
+        "id": "Tamyrlin",
+        "name": "Tamyrlin",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Title <a href='#Lews'>Lews Therin Telamon<\/a> wore the ring of. It is likely this position was the predecessor of the modern <a href='#Amyrlin'>Amyrlin Seat<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Amyrlin",
+                        "name": "Amyrlin Seat"
+                    },
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Morning",
+                        "name": "Lord of the Morning"
+                    },
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Taringail-Damodred": {
+        "id": "Taringail-Damodred",
+        "name": "Taringail Damodred",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "<a href='#Tigraine'>Tigraine<\/a>&apos;s husband, a prince of Cairhien, half-brother of <a href='#Laman'>King Laman<\/a>. When Tigraine disappeared, he married <a href='#Morgase'>Morgase Trakand<\/a>, who had the best claim to the throne. He brought Cairhien into to the plotting surrounding the Succession. He had one child by Tigraine and two by Morgase: <a href='#Galad'>Galad<\/a>, <a href='#Gawyn'>Gawyn<\/a>, and <a href='#Elayne'>Elayne<\/a>. He did not really love either of his wives, his only goal being to see his son sit on the throne of Cairhien and his daughter sit on the throne of Andor.",
+                "seeAlso": [
+                    {
+                        "id": "Galad",
+                        "name": "Galadedrid Damodred"
+                    },
+                    {
+                        "id": "Tigraine",
+                        "name": "Tigraine Damodred"
+                    },
+                    {
+                        "id": "Elayne",
+                        "name": "Elayne Trakand"
+                    },
+                    {
+                        "id": "Gawyn",
+                        "name": "Gawyn Trakand"
+                    },
+                    {
+                        "id": "Morgase",
+                        "name": "Morgase Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Tarwin": {
+        "id": "Tarwin",
+        "name": "Tarwin",
+        "chapters": [
+            {
+                "title": "Chapter 31: Play for your Supper",
+                "info": "Hero of old and subject of many songs and tales. He has a pass, Tarwin&apos;s Gap, named after him between Shienar and what was once Malkier.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "The-Dragon": {
+        "id": "The-Dragon",
+        "name": "The Dragon",
+        "chapters": [
+            {
+                "title": "Prelude",
+                "info": "Name given to <a href='#Lews'>Lews Therin Telamon<\/a> during the War of the Shadow. He did not like the name. The name is now associated with evil, since Lews Therin killed his entire family in his madness at the end of his life. It is said the Dragon will be Reborn at mankind&apos;s greatest hour of need to save the world&#x2014;and Break it again.",
+                "seeAlso": [
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    },
+                    {
+                        "id": "Lews",
+                        "name": "Lews Therin Telamon"
+                    }
+                ]
+            }
+        ]
+    },
+    "Thomdril-Thom-Merrilin": {
+        "id": "Thomdril-Thom-Merrilin",
+        "name": "Thomdril (Thom) Merrilin",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Gleeman who comes to Emond&apos;s Field on Winternight. He seems to have a distrust of Aes Sedai and their ways. He has white hair and mustaches, and wears a patched cloak. He was once a Court-bard. Fond of elaborate bows and flourishes.",
+                "seeAlso": [
+                    {
+                        "id": "Owyn",
+                        "name": "Owyn Merrilin"
+                    },
+                    {
+                        "id": "Morgase",
+                        "name": "Morgase Trakand"
+                    }
+                ]
+            }
+        ]
+    },
+    "Thorin-al-Toren-al-Ban": {
+        "id": "Thorin-al-Toren-al-Ban",
+        "name": "Thorin al Toren al Ban",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "Father of <a href='#Caar'>Caar<\/a>, grandfather of <a href='#Aemon'>Aemon<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Aemon",
+                        "name": "Aemon al Caar al Thorin"
+                    },
+                    {
+                        "id": "Caar",
+                        "name": "Caar al Thorin al Toren"
+                    }
+                ]
+            }
+        ]
+    },
+    "Tiam-of-Gazar": {
+        "id": "Tiam-of-Gazar",
+        "name": "Tiam of Gazar",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Person who proposed the Gazaran Calendar, which celebrated the alleged freedom from the Trolloc threat by recording Free Years (FY). This calendar was adopted due to the chaos the resulted during the Trolloc Wars and the resulting confusion as to which year it actually was under the Toman Calendar.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Tigraine-Damodred": {
+        "id": "Tigraine-Damodred",
+        "name": "Tigraine Damodred",
+        "chapters": [
+            {
+                "title": "Chapter 34: The Last Village",
+                "info": "Daughter-Heir of Andor before <a href='#Morgase'>Morgase<\/a> became queen, sister of <a href='#Luc'>Luc Mantear<\/a>. She disappeared before her mother died, and when she did there was no daughter-heir to take the throne, and the Succession began. There are some who believe she is still alive.",
+                "seeAlso": [
+                    {
+                        "id": "Galad",
+                        "name": "Galadedrid Damodred"
+                    },
+                    {
+                        "id": "Taringail",
+                        "name": "Taringail Damodred"
+                    },
+                    {
+                        "id": "Luc",
+                        "name": "Luc Mantear"
+                    }
+                ]
+            }
+        ]
+    },
+    "Toma-dur-Ahmid": {
+        "id": "Toma-dur-Ahmid",
+        "name": "Toma dur Ahmid",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Person who devised the Toman Calendar, which was adopted approximately two hundred years after the death of the last male Aes Sedai and continued until the Trolloc Wars. The Calendar recorded years After the Breaking, or AB.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Treebrother": {
+        "id": "Treebrother",
+        "name": "Treebrother",
+        "chapters": [
+            {
+                "title": "Chapter 49: The Dark One Stirs",
+                "info": "What <a href='#Loial'>Loial<\/a> calls the <a href='#Green'>Green Man<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Green",
+                        "name": "Green Man"
+                    }
+                ]
+            }
+        ]
+    },
+    "Uren-din-Jubai-Soaring-Gull": {
+        "id": "Uren-din-Jubai-Soaring-Gull",
+        "name": "Uren din Jubai Soaring Gull",
+        "chapters": [
+            {
+                "title": "Chapter 50: Meetings at the EyeChapter 51: Against the ShadowChapter 52: There Is Neither Beginning Nor EndChapter 53: The Wheel TurnsGlossary",
+                "info": "Sea Folk scholar and deviser of the <a href='#Farede'>Farede<\/a> Calendar, which measured dates from the arbitrarily set end of the War of the Hundred Years as years of the New Era (NE). This calendar is currently in use.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Widow-Aynal": {
+        "id": "Widow-Aynal",
+        "name": "Widow Aynal",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Aynal'>Widow Aynal<\/a> is a woman for which Widow Aynal&apos;s Meadow is named. No one remembers which Aynal widow it was actually named for; the meadow has been called that as long as anyone can remember.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Wil-al-Caar": {
+        "id": "Wil-al-Caar",
+        "name": "Wil al'Caar",
+        "chapters": [
+            {
+                "title": "Chapter 9: Tellings of the Wheel",
+                "info": "Son of <a href='#Paet'>Paet<\/a> from Emond&apos;s Field. He broke his leg during the Trolloc attack, and was Healed by <a href='#Moiraine'>Moiraine<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Paet",
+                        "name": "Paet al&apos;Caar"
+                    }
+                ]
+            }
+        ]
+    },
+    "Wil-al-Seen": {
+        "id": "Wil-al-Seen",
+        "name": "Wil al'Seen",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='WilalSeen'>Wil al&apos;Seen<\/a> is a young man from a farm between Deven Ride and Emond&apos;s Field. He is a year older than <a href='#Perrin'>Perrin<\/a>. <a href='#Egwene'>Egwene<\/a> thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Willim-of-Manaches": {
+        "id": "Willim-of-Manaches",
+        "name": "Willim of Manaches",
+        "chapters": [
+            {
+                "title": "Chapter 36: Web of the Pattern",
+                "info": "Author of a book in <a href='#Gill'>Basel Gill<\/a>&apos;s library, <i>The Essays of Willim of Manaches<\/i>.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Wind": {
+        "id": "Wind",
+        "name": "Wind",
+        "chapters": [
+            {
+                "title": "Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother",
+                "info": "Wolf that <a href='#Elyas'>Elyas<\/a> knows.",
+                "seeAlso": []
+            }
+        ]
+    },
+    "Wit-Congar": {
+        "id": "Wit-Congar",
+        "name": "Wit Congar",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "Man from Emond&apos;s Field. He and his family are reknowned troublemakers and complainers. He is scrawny, unlike his quite solid wife, <a href='#Daise'>Daise<\/a>.",
+                "seeAlso": [
+                    {
+                        "id": "Daise",
+                        "name": "Daise Congar"
+                    }
+                ]
+            }
+        ]
+    },
+    "Yurian-Stonebow": {
+        "id": "Yurian-Stonebow",
+        "name": "Yurian Stonebow",
+        "chapters": [
+            {
+                "title": "Chapter 14: The Stag and Lion",
+                "info": "False <a href='#Dragon'>Dragon<\/a> of old times. <a href='#Baal'>Ba&apos;alzamon<\/a> claims that he was used by Aes Sedai, just as all other false Dragons were.",
+                "seeAlso": [
+                    {
+                        "id": "Dragon",
+                        "name": "The Dragon"
+                    },
+                    {
+                        "id": "Reborn",
+                        "name": "Dragon Reborn"
+                    }
+                ]
+            }
+        ]
+    },
+    "al-Akir-Mandragoran": {
+        "id": "al-Akir-Mandragoran",
+        "name": "al'Akir Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Last crowned king of Malkier, <a href='#Lan'>Lan<\/a>&apos;s father. He died, with his country, the day the Trollocs attacked Malkier.",
+                "seeAlso": [
+                    {
+                        "id": "Cowin",
+                        "name": "Cowin Gemallen"
+                    },
+                    {
+                        "id": "Breyan",
+                        "name": "Breyan Mandragoran"
+                    },
+                    {
+                        "id": "Isam",
+                        "name": "Isam Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    },
+                    {
+                        "id": "Leanna",
+                        "name": "Leanna ti Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "al-Lan-Mandragoran": {
+        "id": "al-Lan-Mandragoran",
+        "name": "al'Lan Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 2: Strangers",
+                "info": "Guest in Emond&apos;s Field the day before Bel Tine. He is quite tall, has long hair that is graying at the temples and is held from his face by a narrow leather headband. His face is all stony planes and angles, weathered but unlined. He is <a href='#Moiraine'>Moiraine<\/a>&apos;s Warder.",
+                "seeAlso": [
+                    {
+                        "id": "Andra",
+                        "name": "Andra"
+                    },
+                    {
+                        "id": "Moiraine",
+                        "name": "Moiraine Damodred"
+                    },
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Leanna",
+                        "name": "Leanna ti Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
+    "el-Leanna-ti-Mandragoran": {
+        "id": "el-Leanna-ti-Mandragoran",
+        "name": "el'Leanna ti Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 47: More Tales of the Wheel",
+                "info": "Queen of Malkier before it was overrun. She was <a href='#Akir'>Akir<\/a>&apos;s wife, and <a href='#Lan'>Lan<\/a>&apos;s father. She died, with her husband and country, the day the Trollocs overran Malkier.",
+                "seeAlso": [
+                    {
+                        "id": "Cowin",
+                        "name": "Cowin Gemallen"
+                    },
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Breyan",
+                        "name": "Breyan Mandragoran"
+                    },
+                    {
+                        "id": "Isam",
+                        "name": "Isam Mandragoran"
+                    },
+                    {
+                        "id": "Lain",
+                        "name": "Lain Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    }
+                ]
+            }
+        ]
+    }
+}
