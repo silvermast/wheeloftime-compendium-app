@@ -34,6 +34,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.5
 
 dev_dependencies:
   flutter_test:
@@ -60,7 +61,21 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/Aessedai-icon.svg
-  #   - images/a_dot_ham.jpeg
+    - assets/book-00.json
+    - assets/book-01.json
+    - assets/book-02.json
+    - assets/book-03.json
+    - assets/book-04.json
+    - assets/book-05.json
+    - assets/book-06.json
+    - assets/book-07.json
+    - assets/book-08.json
+    - assets/book-09.json
+    - assets/book-10.json
+    - assets/book-11.json
+    - assets/book-12.json
+    - assets/book-13.json
+    - assets/book-14.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
@@ -74,6 +89,18 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
+    - family: Cinzel
+      fonts:
+        - asset: assets/fonts/Cinzel-Regular.ttf
+    - family: Cormorant
+      fonts:
+        - asset: assets/fonts/Cormorant-SemiBold.ttf
+        - asset: assets/fonts/Cormorant-SemiBoldItalic.ttf
+          style: italic
+        # - asset: assets/fonts/Cormorant-Bold.ttf
+        #   style: bold
+        # - asset: assets/fonts/Cormorant-BoldItalic.ttf
+        #   style: bold-italic
     - family: Nunito
       fonts:
         - asset: assets/fonts/Nunito-VariableFont_wght.ttf

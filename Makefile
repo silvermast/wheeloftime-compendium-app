@@ -1,2 +1,2 @@
 run:
-	flutter run -d macos
+	flutter run -d chrome
