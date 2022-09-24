@@ -38,6 +38,7 @@ dependencies:
   flutter_markdown: ^0.6.12
   fuzzy: ^0.4.0-nullsafety.0
   http: ^0.13.5
+  flutter_launcher_icons: ^0.10.0
 
 dev_dependencies:
   flutter_test:
@@ -63,7 +64,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/Aessedai-icon.svg
+    - assets/images/icon.svg
     - assets/book-00.json
     - assets/book-01.json
     - assets/book-02.json
@@ -119,3 +120,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"

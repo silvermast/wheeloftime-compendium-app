@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import 'package:fuzzy/fuzzy.dart';
 import '../shared.dart';
