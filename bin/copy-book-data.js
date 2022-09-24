@@ -45,13 +45,15 @@ function decodeUtf8(text) {
 fs.readdirSync(oldDir).forEach(bookFile => {
     console.log('Importing', bookFile);
     let bookData = JSON.parse(fs.readFileSync(`${oldDir}/${bookFile}`));
-    bookData = Object.values(bookData).map(entry => {
-        let { id, name } = entry;
-        let chapter = entry.chapters[0].title;
-        let info = entry.chapters[0].info;
-        info = decodeUtf8(info);
-        return { id, name, chapter, info };
-    });
+    bookData = Object.values(bookData)
+        .map(entry => {
+            let { id, name } = entry;
+            let chapter = entry.chapters[0].title;
+            let info = entry.chapters[0].info;
+            info = decodeUtf8(info);
+            return { id, name, chapter, info };
+        })
+        .sort((a, b) => a.name - b.name);
 
     fs.writeFileSync(`${newDir}/${bookFile}`, JSON.stringify(bookData, null, 2));
 });

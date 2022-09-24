@@ -3,25 +3,25 @@
     "id": "Aan-allein",
     "name": "Aan'allein",
     "chapter": "Prelude",
-    "info": "Name the Aiel use for <a href='#al-Lan-Mandragoran'>Lan</a>. It means, roughly, “One Man Alone” or “Man Who is an Entire People” in the Old Tongue."
+    "info": "Name the Aiel use for [Lan](#al-Lan-Mandragoran). It means, roughly, “One Man Alone” or “Man Who is an Entire People” in the Old Tongue."
   },
   {
     "id": "Adelorna-Bastine",
     "name": "Adelorna Bastine",
     "chapter": "Chapter 8: Shreds of Serenity",
-    "info": "Aes Sedai of the Green Ajah. She allegedly told <a href='#Shemaen'>Shemaen</a> that <a href='#Gitara-Moroso'>Gitara</a> had a Foretelling that Tarmon Gai'don will come during the lifetimes of sisters now breathing."
+    "info": "Aes Sedai of the Green Ajah. She allegedly told [Shemaen](#Shemaen) that [Gitara](#Gitara-Moroso) had a Foretelling that Tarmon Gai'don will come during the lifetimes of sisters now breathing."
   },
   {
     "id": "Adine-Canford",
     "name": "Adine Canford",
     "chapter": "Chapter 14: Changes",
-    "info": "Plump, blue-eyed Aes Sedai of the Blue Ajah with short-cut black hair. She displays no hint of arrogance despite being raised in Andor. She is not very strong in the One Power. As Accepted, she was friends with <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a>, and now that they have been raised and have joined the Blue Ajah, that friendship has been renewed, thanks especially to their mutual friend, <a href='#Leane-Sharif'>Leane</a>."
+    "info": "Plump, blue-eyed Aes Sedai of the Blue Ajah with short-cut black hair. She displays no hint of arrogance despite being raised in Andor. She is not very strong in the One Power. As Accepted, she was friends with [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche), and now that they have been raised and have joined the Blue Ajah, that friendship has been renewed, thanks especially to their mutual friend, [Leane](#Leane-Sharif)."
   },
   {
     "id": "Aeldra-Najaf",
     "name": "Aeldra Najaf",
     "chapter": "Chapter 7: The Itch",
-    "info": "Keeper of the Chronicles under <a href='#Tamra-Ospenya'>Tamra Ospenya</a>, appointed to replace <a href='#Gitara-Moroso'>Gitara Moroso</a> after her death. She has white, straight hair cut short like <a href='#Kerene-Nagashi'>Kerene</a>'s. She is slim, and has copper-colored leathery skin, a narrow jaw, and a sharp nose."
+    "info": "Keeper of the Chronicles under [Tamra Ospenya](#Tamra-Ospenya), appointed to replace [Gitara Moroso](#Gitara-Moroso) after her death. She has white, straight hair cut short like [Kerene](#Kerene-Nagashi)'s. She is slim, and has copper-colored leathery skin, a narrow jaw, and a sharp nose."
   },
   {
     "id": "Aiko",
@@ -33,43 +33,43 @@
     "id": "Ailene-Tolvina",
     "name": "Ailene Tolvina",
     "chapter": "Chapter 23: The Evening Star",
-    "info": "Innkeeper of The Evening Star, an inn in Chachin where <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> stay. She is a lean woman with an air that brooks no nonsense."
+    "info": "Innkeeper of The Evening Star, an inn in Chachin where [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) stay. She is a lean woman with an air that brooks no nonsense."
   },
   {
     "id": "Aisha-Raveneos",
     "name": "Aisha Raveneos",
     "chapter": "Chapter 7: The Itch",
-    "info": "Aes Sedai of the Gray Ajah. <a href='#Siuan-Sanche'>Siuan</a> gave her a similar message to the one <a href='#Moiraine-Damodred'>Moiraine</a> gave Karene. She has a plain face, and could pass for a farmer's wife."
+    "info": "Aes Sedai of the Gray Ajah. [Siuan](#Siuan-Sanche) gave her a similar message to the one [Moiraine](#Moiraine-Damodred) gave Karene. She has a plain face, and could pass for a farmer's wife."
   },
   {
     "id": "Aisling-Noon",
     "name": "Aisling Noon",
     "chapter": "Chapter 3: Practice",
-    "info": "One of the Accepted. She is very tall. She is a rarity in the Tower, one of the Tuatha'an, the Traveling People. She spent five years as a novice, and was raised to Accepted the same year as <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a>."
+    "info": "One of the Accepted. She is very tall. She is a rarity in the Tower, one of the Tuatha'an, the Traveling People. She spent five years as a novice, and was raised to Accepted the same year as [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche)."
   },
   {
     "id": "Akarrin",
     "name": "Akarrin",
     "chapter": "Chapter 3: Practice",
-    "info": "Aes Sedai of the Brown Ajah. She is very slender, and has quick eyes to catch <i>anyone</i> who is not following her lead."
+    "info": "Aes Sedai of the Brown Ajah. She is very slender, and has quick eyes to catch _anyone_ who is not following her lead."
   },
   {
     "id": "Alanna-Mosvani",
     "name": "Alanna Mosvani",
     "chapter": "Chapter 3: Practice",
-    "info": "One of the Accepted. She is shy, but she works hard at being fierce. She wants to be a Green and have a dozen Warders. She is always exaggerating. At the meeting where <a href='#Tamra-Ospenya'>Tamra</a> announced her plan for the bounty, she asked if the Accepted would be allowed to defend themselves with the One Power. The answer was no."
+    "info": "One of the Accepted. She is shy, but she works hard at being fierce. She wants to be a Green and have a dozen Warders. She is always exaggerating. At the meeting where [Tamra](#Tamra-Ospenya) announced her plan for the bounty, she asked if the Accepted would be allowed to defend themselves with the One Power. The answer was no."
   },
   {
     "id": "Aldecain-Damodred",
     "name": "Aldecain Damodred",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "One of <a href='#Moiraine-Damodred'>Moiraine</a>'s uncles, and one of <a href='#Laman-Damodred'>Laman</a>'s brothers. Moiraine thinks he and his brother <a href='#Moressin-Damodred'>Moressin</a> are even worse than Laman, each having heat enough for ten men, which they expressed in anger and cruelty, as well as contempt for Moiraine's father."
+    "info": "One of [Moiraine](#Moiraine-Damodred)'s uncles, and one of [Laman](#Laman-Damodred)'s brothers. Moiraine thinks he and his brother [Moressin](#Moressin-Damodred) are even worse than Laman, each having heat enough for ten men, which they expressed in anger and cruelty, as well as contempt for Moiraine's father."
   },
   {
     "id": "Aledrin",
     "name": "Aledrin",
     "chapter": "Chapter 3: Practice",
-    "info": "Aes Sedai of the White Ajah. <a href='#Moiraine-Damodred'>Moiraine</a> heard her say that <i>all</i> Accepted were to test for the shawl immediately at the assembly in the Oval Lecture Hall where <a href='#Tamra-Ospenya'>Tamra</a> announced her plan to pay bounty. She is very excitable."
+    "info": "Aes Sedai of the White Ajah. [Moiraine](#Moiraine-Damodred) heard her say that _all_ Accepted were to test for the shawl immediately at the assembly in the Oval Lecture Hall where [Tamra](#Tamra-Ospenya) announced her plan to pay bounty. She is very excitable."
   },
   {
     "id": "Alin-Seroku",
@@ -81,31 +81,31 @@
     "id": "Alys",
     "name": "Alys",
     "chapter": "Chapter 17: An Arrival",
-    "info": "<a href='#Moiraine-Damodred'>Moiraine</a>'s alias while traveling, in order to conceal her identity."
+    "info": "[Moiraine](#Moiraine-Damodred)'s alias while traveling, in order to conceal her identity."
   },
   {
     "id": "Amira",
     "name": "Amira",
     "chapter": "Chapter 14: Changes",
-    "info": "Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new <a href='#Mistress-of-Novices'>Mistress of Novices</a> under <a href='#Sierin-Vayu'>Sierin Vayu</a>. It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway."
+    "info": "Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new [Mistress of Novices](#Mistress-of-Novices) under [Sierin Vayu](#Sierin-Vayu). It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway."
   },
   {
     "id": "Amyrlin-Seat",
     "name": "Amyrlin Seat",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense—rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. The Amyrlin, once raised, is considered to be “of all Ajahs and none”—she wears a stole striped with the seven colors of the Ajahs. The current Amyrlin is <a href='#Tamra-Ospenya'>Tamra Ospenya</a>, raised from the Blue Ajah."
+    "info": "Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense—rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. The Amyrlin, once raised, is considered to be “of all Ajahs and none”—she wears a stole striped with the seven colors of the Ajahs. The current Amyrlin is [Tamra Ospenya](#Tamra-Ospenya), raised from the Blue Ajah."
   },
   {
     "id": "Anaiya",
     "name": "Anaiya",
     "chapter": "Chapter 9: It Begins",
-    "info": "Aes Sedai of the Blue Ajah. Her plain features make her look more like a farmer than a sister. She was present at <a href='#Moiraine-Damodred'>Moiraine</a>'s test for the shawl. She has a comforting air; almost any conversation with her turns out comforting."
+    "info": "Aes Sedai of the Blue Ajah. Her plain features make her look more like a farmer than a sister. She was present at [Moiraine](#Moiraine-Damodred)'s test for the shawl. She has a comforting air; almost any conversation with her turns out comforting."
   },
   {
     "id": "Andro",
     "name": "Andro",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "<a href='#Meilyn-Arganya'>Meilyn</a>'s Warder. He is lean, and no taller than his mistress. He appears youthful until one notices his eyes."
+    "info": "[Meilyn](#Meilyn-Arganya)'s Warder. He is lean, and no taller than his mistress. He appears youthful until one notices his eyes."
   },
   {
     "id": "Anlee",
@@ -117,25 +117,25 @@
     "id": "Antol-Materasu",
     "name": "Antol Materasu",
     "chapter": "Chapter 25: An Answer",
-    "info": "<a href='#Prince-Brys-Materasu'>Brys</a>'s eldest son and heir. He is out of the capitol city with his mother, <a href='#Queen-Ethenielle-Kirukan-Materasu'>Ethenielle</a>."
+    "info": "[Brys](#Prince-Brys-Materasu)'s eldest son and heir. He is out of the capitol city with his mother, [Ethenielle](#Queen-Ethenielle-Kirukan-Materasu)."
   },
   {
     "id": "Anvaere-Damodred",
     "name": "Anvaere Damodred",
     "chapter": "Chapter 6: Surprises",
-    "info": "<a href='#Moiraine-Damodred'>Moiraine</a>'s older sister. She cares for horses, hawking, and little else. She also has a temper—no one wants her on the Sun Throne."
+    "info": "[Moiraine](#Moiraine-Damodred)'s older sister. She cares for horses, Hawkwing, and little else. She also has a temper—no one wants her on the Sun Throne."
   },
   {
     "id": "Anya",
     "name": "Anya",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "Square-faced serving woman assigned to <a href='#al-Lan-Mandragoran'>Lan</a> in the Aesdaishar Palace. She has gray hair. Lan suspects that she is <a href='#Esne'>Esne</a>'s mother."
+    "info": "Square-faced serving woman assigned to [Lan](#al-Lan-Mandragoran) in the Aesdaishar Palace. She has gray hair. Lan suspects that she is [Esne](#Esne)'s mother."
   },
   {
     "id": "Arrow",
     "name": "Arrow",
     "chapter": "Chapter 4: Leaving the Tower",
-    "info": "<a href='#Moiraine-Damodred'>Moiraine</a>'s horse. She purchased her to celebrate being raised to Accepted. She is not tall, though she has more stamina than larger horses. She is fast, too, and a good jumper."
+    "info": "[Moiraine](#Moiraine-Damodred)'s horse. She purchased her to celebrate being raised to Accepted. She is not tall, though she has more stamina than larger horses. She is fast, too, and a good jumper."
   },
   {
     "id": "Artur-Hawkwing",
@@ -153,7 +153,7 @@
     "id": "Avene-Sahera",
     "name": "Avene Sahera",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Woman on <a href='#Moiraine-Damodred'>Moiraine</a>'s list of new mothers. She is from a “village on the high road between Chachin and Canluum,” according to what one of the Accepted wrote down; this village turned out to be Ravinda. She is plump, and has graying hair."
+    "info": "Woman on [Moiraine](#Moiraine-Damodred)'s list of new mothers. She is from a “village on the high road between Chachin and Canluum,” according to what one of the Accepted wrote down; this village turned out to be Ravinda. She is plump, and has graying hair."
   },
   {
     "id": "Azil-Mareed",
@@ -165,31 +165,31 @@
     "id": "Basram",
     "name": "Basram",
     "chapter": "Prelude",
-    "info": "Short, stocky, coppery-skinned Domani soldier. <a href='#al-Lan-Mandragoran'>Lan</a> finds him asleep at his post during his rounds."
+    "info": "Short, stocky, coppery-skinned Domani soldier. [Lan](#al-Lan-Mandragoran) finds him asleep at his post during his rounds."
   },
   {
     "id": "Bili-Mandair",
     "name": "Bili Mandair",
     "chapter": "Chapter 6: Surprises",
-    "info": "<a href='#Willa-Mandair'>Willa</a>'s infant son. He was born “in sight of Dragonmount,” which is ridiculous; the mountain is visible for miles and miles in every direction from Tar Valon."
+    "info": "[Willa](#Willa-Mandair)'s infant son. He was born “in sight of Dragonmount,” which is ridiculous; the mountain is visible for miles and miles in every direction from Tar Valon."
   },
   {
     "id": "Brendas",
     "name": "Brendas",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "One of the Accepted. She and <a href='#Temaile-Kinderode'>Temaile</a> were assigned to the <a href='#Amyrlin-Seat'>Amyrlin Seat</a>'s chamber before <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> took over. She is usually quite sensible."
+    "info": "One of the Accepted. She and [Temaile](#Temaile-Kinderode) were assigned to the [Amyrlin Seat](#Amyrlin-Seat)'s chamber before [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) took over. She is usually quite sensible."
   },
   {
     "id": "Bukama-Marenellin",
     "name": "Bukama Marenellin",
     "chapter": "Prelude",
-    "info": "<a href='#al-Lan-Mandragoran'>Lan</a>'s teacher, one of the original 20 men charged with the task of carrying the infant prince of Malkier to safety when the nation was overrun; he is the only one still alive. Bluff and broad, he is taller than most men, almost as tall as Lan. His hair is solid gray, which he wears cut to the shoulder according to Malkieri tradition, held back by the <i>hadori</i>, a thin braided leather cord. He has blue eyes."
+    "info": "[Lan](#al-Lan-Mandragoran)'s teacher, one of the original 20 men charged with the task of carrying the infant prince of Malkier to safety when the nation was overrun; he is the only one still alive. Bluff and broad, he is taller than most men, almost as tall as Lan. His hair is solid gray, which he wears cut to the shoulder according to Malkieri tradition, held back by the _hadori_, a thin braided leather cord. He has blue eyes."
   },
   {
     "id": "Bulen",
     "name": "Bulen",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for <a href='#al-Lan-Mandragoran'>Lan</a> while he is a guest in the palace."
+    "info": "Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for [Lan](#al-Lan-Mandragoran) while he is a guest in the palace."
   },
   {
     "id": "Cabriana-Mecandes",
@@ -201,31 +201,31 @@
     "id": "Cadsuane-Melaidhrin",
     "name": "Cadsuane Melaidhrin",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Aes Sedai of the Green Ajah. She has iron-gray hair and black eyes, and always wears ornaments in her hair. She is the only woman who Moiraine knows that is considerably stronger than Moiraine herself is in the Power. She was presumed dead until she appeared during the Aiel War. It is said she bent Tower law whenever it suited her, flouted custom, and always did her own thing, often dragging others with her. It is whispered that she even assaulted an <a href='#Amyrlin-Seat'>Amyrlin</a> once. <a href='#Moiraine-Damodred'>Moiraine</a> knows this cannot be true—she would have been executed—but she also admits that where her friend <a href='#Siuan-Sanche'>Siuan</a> was born to lead, Cadsuane was born to <i>command</i>. She is the strongest Aes Sedai in the Tower for the past 1000 years."
+    "info": "Aes Sedai of the Green Ajah. She has iron-gray hair and black eyes, and always wears ornaments in her hair. She is the only woman who Moiraine knows that is considerably stronger than Moiraine herself is in the Power. She was presumed dead until she appeared during the Aiel War. It is said she bent Tower law whenever it suited her, flouted custom, and always did her own thing, often dragging others with her. It is whispered that she even assaulted an [Amyrlin](#Amyrlin-Seat) once. [Moiraine](#Moiraine-Damodred) knows this cannot be true—she would have been executed—but she also admits that where her friend [Siuan](#Siuan-Sanche) was born to lead, Cadsuane was born to _command_. She is the strongest Aes Sedai in the Tower for the past 1000 years."
   },
   {
     "id": "Cal",
     "name": "Cal",
     "chapter": "Chapter 24: Making Use of Invisibility",
-    "info": "Young footman in the Aesdaishar Palace. <a href='#Siuan-Sanche'>Siuan</a>, also known as <a href='#Suki'>Suki</a>, plans to use him to find out information about the <a href='#Ines-Demain'>Lady Ines</a>. He has pretty brown eyes."
+    "info": "Young footman in the Aesdaishar Palace. [Siuan](#Siuan-Sanche), also known as [Suki](#Suki), plans to use him to find out information about the [Lady Ines](#Ines-Demain). He has pretty brown eyes."
   },
   {
     "id": "Caniedrin",
     "name": "Caniedrin",
     "chapter": "Prelude",
-    "info": "Beardless young man among <a href='#al-Lan-Mandragoran'>Lan</a>'s troops. The young Kandori is an efficient, experienced soldier, and an archer of rare skill. An almost cheerful killer, he often laughs while he fights."
+    "info": "Beardless young man among [Lan](#al-Lan-Mandragoran)'s troops. The young Kandori is an efficient, experienced soldier, and an archer of rare skill. An almost cheerful killer, he often laughs while he fights."
   },
   {
     "id": "Careme-Mowly",
     "name": "Careme Mowly",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Young mother from Murandy. Her daughter is <a href='#Sedrin-a-Conlin'>Sedrin</a>'s age, to the day. Her future husband ran off to become a Warder, and she does not like the man she actually <i>did</i> marry nearly as much. She wants very little to do with the White Tower."
+    "info": "Young mother from Murandy. Her daughter is [Sedrin](#Sedrin-a-Conlin)'s age, to the day. Her future husband ran off to become a Warder, and she does not like the man she actually _did_ marry nearly as much. She wants very little to do with the White Tower."
   },
   {
     "id": "Carewin-Damodred",
     "name": "Carewin Damodred",
     "chapter": "Chapter 12: Entering Home",
-    "info": "<a href='#Moiraine-Damodred'>Moiraine</a>'s great-grandmother. She ruled Cairhien for over fifty years. The White Tower would call her a very successful ruler because Cairhien prospered and had few wars during her reign. However, her name is still used to frighten children in Cairhien."
+    "info": "[Moiraine](#Moiraine-Damodred)'s great-grandmother. She ruled Cairhien for over fifty years. The White Tower would call her a very successful ruler because Cairhien prospered and had few wars during her reign. However, her name is still used to frighten children in Cairhien."
   },
   {
     "id": "Carlinya",
@@ -237,31 +237,31 @@
     "id": "Carney",
     "name": "Carney",
     "chapter": "Chapter 14: Changes",
-    "info": "Captain of <i>Bluewing</i>, the ship <a href='#Moiraine-Damodred'>Moiraine</a> hires to take her out of Tar Valon. He is a wide, sun-darkened man with narrow mustaches he keeps waxed to spikes."
+    "info": "Captain of _Bluewing_, the ship [Moiraine](#Moiraine-Damodred) hires to take her out of Tar Valon. He is a wide, sun-darkened man with narrow mustaches he keeps waxed to spikes."
   },
   {
     "id": "Cat-Dancer",
     "name": "Cat Dancer",
     "chapter": "Prelude",
-    "info": "<a href='#al-Lan-Mandragoran'>Lan</a>'s bay stallion. He is still being trained as a warhorse."
+    "info": "[Lan](#al-Lan-Mandragoran)'s bay stallion. He is still being trained as a warhorse."
   },
   {
     "id": "Ceiline-Noreman",
     "name": "Ceiline Noreman",
     "chapter": "Chapter 16: The Deeps",
-    "info": "Woman from Shol Arbela who may blame <a href='#Ryne-Venamar'>Ryne</a> for her husband's death. Ryne is unwilling to return to Shol Arbela until he is confident she will not blame him."
+    "info": "Woman from Shol Arbela who may blame [Ryne](#Ryne-Venamar) for her husband's death. Ryne is unwilling to return to Shol Arbela until he is confident she will not blame him."
   },
   {
     "id": "Cetalia-Delarme",
     "name": "Cetalia Delarme",
     "chapter": "Chapter 12: Entering Home",
-    "info": "Aes Sedai of the Blue Ajah. She is as strong as <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> will be when they reach full potential. She is tall and square-faced, with steel-gray hair in a multitude of braids to her waist. She is the head of the Blue Ajah eyes-and-ears, the best spy network in the world."
+    "info": "Aes Sedai of the Blue Ajah. She is as strong as [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) will be when they reach full potential. She is tall and square-faced, with steel-gray hair in a multitude of braids to her waist. She is the head of the Blue Ajah eyes-and-ears, the best spy network in the world."
   },
   {
     "id": "Chesmal-Emry",
     "name": "Chesmal Emry",
     "chapter": "Chapter 18: A Narrow Passage",
-    "info": "Aes Sedai of the Yellow Ajah, a very talented Healer. She announced that <a href='#Meilyn-Arganya'>Meilyn</a> had died in her bed; this was not possible, since <a href='#Siuan-Sanche'>Siuan</a> hid under the same bed, fell asleep there, and woke up the next morning to find that the bed had not been slept in. She is quite likely of the Black Ajah."
+    "info": "Aes Sedai of the Yellow Ajah, a very talented Healer. She announced that [Meilyn](#Meilyn-Arganya) had died in her bed; this was not possible, since [Siuan](#Siuan-Sanche) hid under the same bed, fell asleep there, and woke up the next morning to find that the bed had not been slept in. She is quite likely of the Black Ajah."
   },
   {
     "id": "Coladara",
@@ -273,37 +273,37 @@
     "id": "Colar-Najima",
     "name": "Colar Najima",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Thirteen- or fourteen-year-old daughter of <a href='#Jurine-Najima'>Jurine</a>. She and her sister <a href='#Eselle-Najima'>Eselle</a> have their mother's long black hair and large blue eyes full of loss."
+    "info": "Thirteen- or fourteen-year-old daughter of [Jurine](#Jurine-Najima). She and her sister [Eselle](#Eselle-Najima) have their mother's long black hair and large blue eyes full of loss."
   },
   {
     "id": "Cormanes",
     "name": "Cormanes",
     "chapter": "Chapter 25: An Answer",
-    "info": "Last man <a href='#Moiraine-Damodred'>Moiraine</a> ever kissed. That was the night before she left for the White Tower. She describes him as “beautiful.”"
+    "info": "Last man [Moiraine](#Moiraine-Damodred) ever kissed. That was the night before she left for the White Tower. She describes him as “beautiful.”"
   },
   {
     "id": "Coy",
     "name": "Coy",
     "chapter": "Chapter 21: Some Tricks of the Power",
-    "info": "Leader of the bandits that try to mug <a href='#Moiraine-Damodred'>Moiraine</a>, <a href='#al-Lan-Mandragoran'>Lan</a>, <a href='#Ryne-Venamar'>Ryne</a>, and <a href='#Bukama-Marenellin'>Bukama</a>."
+    "info": "Leader of the bandits that try to mug [Moiraine](#Moiraine-Damodred), [Lan](#al-Lan-Mandragoran), [Ryne](#Ryne-Venamar), and [Bukama](#Bukama-Marenellin)."
   },
   {
     "id": "Cyril-Wynn",
     "name": "Cyril Wynn",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Susa's son. He is too old to receive the bounty the White Tower is paying for newborns in honor of the battle, but <a href='#Moiraine-Damodred'>Moiraine</a> added him to the list anyway—she reasoned that the Tower could provide 100 crowns to help the misfortunate."
+    "info": "Susa's son. He is too old to receive the bounty the White Tower is paying for newborns in honor of the battle, but [Moiraine](#Moiraine-Damodred) added him to the list anyway—she reasoned that the Tower could provide 100 crowns to help the misfortunate."
   },
   {
     "id": "Danil",
     "name": "Danil",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Baby boy registered by <a href='#Moiraine-Damodred'>Moiraine</a>. His mother tried to play Moiraine for a fool, coaxing money from her for a healer. Moiraine quickly disabused her of that notion, and at the same time got rid of any other potential rookery by the women in the line."
+    "info": "Baby boy registered by [Moiraine](#Moiraine-Damodred). His mother tried to play Moiraine for a fool, coaxing money from her for a healer. Moiraine quickly disabused her of that notion, and at the same time got rid of any other potential rookery by the women in the line."
   },
   {
     "id": "Dark-One",
     "name": "Dark One",
     "chapter": "Prelude",
-    "info": "Name, used in every land, for <a href='#Dark-One'>Shai'tan</a>, because using his real name causes bad luck (at best) to anyone who speaks it."
+    "info": "Name, used in every land, for [Shai'tan](#Dark-One), because using his real name causes bad luck (at best) to anyone who speaks it."
   },
   {
     "id": "Desandre",
@@ -315,25 +315,25 @@
     "id": "Diryk",
     "name": "Diryk",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "<a href='#Prince-Brys-Materasu'>Brys</a>'s second son, eight years old. He fell fifty feet from a balcony and broke nothing. He is handsome, with dark eyes."
+    "info": "[Brys](#Prince-Brys-Materasu)'s second son, eight years old. He fell fifty feet from a balcony and broke nothing. He is handsome, with dark eyes."
   },
   {
     "id": "Dragon-Reborn",
     "name": "Dragon Reborn",
     "chapter": "Chapter 3: Practice",
-    "info": "According to the Karaethon Cycle, the Prophecies of the Dragon, the man who is the Rebirth of Lews Therin Telamon, the <a href='#The-Dragon'>Dragon</a>. It is said he will be Reborn at mankind's greatest hour of need to save the world. His Rebirth was Foretold by <a href='#Gitara-Moroso'>Gitara Moroso</a> just before her death; in fact, the shock of the Foretelling was what killed her."
+    "info": "According to the Karaethon Cycle, the Prophecies of the Dragon, the man who is the Rebirth of Lews Therin Telamon, the [Dragon](#The-Dragon). It is said he will be Reborn at mankind's greatest hour of need to save the world. His Rebirth was Foretold by [Gitara Moroso](#Gitara-Moroso) just before her death; in fact, the shock of the Foretelling was what killed her."
   },
   {
     "id": "Duhara-Basaheen",
     "name": "Duhara Basaheen",
     "chapter": "Chapter 14: Changes",
-    "info": "Aes Sedai of the Red Ajah from Arad Doman. Slim and beautiful despite being a hand and a half taller than <a href='#Moiraine-Damodred'>Moiraine</a>. Her full lips have a meanness about them, and her eyes search for fault. She is much weaker than <a href='#Moiraine-Damodred'>Moiraine</a> in the One Power, but now that she has been appointed Keeper of the Chronicles under <a href='#Sierin-Vayu'>Sierin Vayu</a>, that matters little. It is tradition to appoint a Keeper from the Ajah one was raised from, but Sierin was raised from the Gray while Duhara was from the Red. However, most think of Sierin as more Red than Gray anyway."
+    "info": "Aes Sedai of the Red Ajah from Arad Doman. Slim and beautiful despite being a hand and a half taller than [Moiraine](#Moiraine-Damodred). Her full lips have a meanness about them, and her eyes search for fault. She is much weaker than [Moiraine](#Moiraine-Damodred) in the One Power, but now that she has been appointed Keeper of the Chronicles under [Sierin Vayu](#Sierin-Vayu), that matters little. It is tradition to appoint a Keeper from the Ajah one was raised from, but Sierin was raised from the Gray while Duhara was from the Red. However, most think of Sierin as more Red than Gray anyway."
   },
   {
     "id": "Eadyth",
     "name": "Eadyth",
     "chapter": "Chapter 11: Just Before Dawn",
-    "info": "Sitter for the Blue Ajah. She has white hair to her waist, and a stout, round face. She is also First Selector of the Blue Ajah, the Ajah head, though this fact is known only to Blues. She is perhaps the most capable Blue in the last hundred years, according to <a href='#Kairen-Stang'>Kairen</a>."
+    "info": "Sitter for the Blue Ajah. She has white hair to her waist, and a stout, round face. She is also First Selector of the Blue Ajah, the Ajah head, though this fact is known only to Blues. She is perhaps the most capable Blue in the last hundred years, according to [Kairen](#Kairen-Stang)."
   },
   {
     "id": "Edesina-Azzedin",
@@ -345,19 +345,19 @@
     "id": "Edeyn-ti-Gemallen-Arrel",
     "name": "Edeyn ti Gemallen Arrel",
     "chapter": "Chapter 16: The Deeps",
-    "info": "Woman who raised the Golden Crane in <a href='#al-Lan-Mandragoran'>Lan</a>'s name. She is Lan's <i>carneira</i> (“first,” in the Old Tongue), his first lover. She is about fifteen years older than Lan."
+    "info": "Woman who raised the Golden Crane in [Lan](#al-Lan-Mandragoran)'s name. She is Lan's _carneira_ (“first,” in the Old Tongue), his first lover. She is about fifteen years older than Lan."
   },
   {
     "id": "Elaida-do-Avriny-a-Roihan",
     "name": "Elaida do Avriny a'Roihan",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Aes Sedai of the Red Ajah. She was the only woman besides <a href='#Siuan-Sanche'>Siuan</a> and <a href='#Moiraine-Damodred'>Moiraine</a> to finish novice training in less than three years. She finished Accepted training in less three years as well, also a record. Moiraine describes her as a “detestable woman.” She currently serves as advisor to the Queen of Andor, a post she has held for three years."
+    "info": "Aes Sedai of the Red Ajah. She was the only woman besides [Siuan](#Siuan-Sanche) and [Moiraine](#Moiraine-Damodred) to finish novice training in less than three years. She finished Accepted training in less three years as well, also a record. Moiraine describes her as a “detestable woman.” She currently serves as advisor to the Queen of Andor, a post she has held for three years."
   },
   {
     "id": "Elin-Warrel",
     "name": "Elin Warrel",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Novice on guard duty outside the <a href='#Amyrlin-Seat'>Amyrlin</a>'s study. She is very slender. <a href='#Moiraine-Damodred'>Moiraine</a> caught her reading <i>Hearts of Flame</i>, a romance novel of sorts. The book is considered inappropriate for novices. She is three years older than Moiraine."
+    "info": "Novice on guard duty outside the [Amyrlin](#Amyrlin-Seat)'s study. She is very slender. [Moiraine](#Moiraine-Damodred) caught her reading _Hearts of Flame_, a romance novel of sorts. The book is considered inappropriate for novices. She is three years older than Moiraine."
   },
   {
     "id": "Elis",
@@ -369,43 +369,43 @@
     "id": "Ellid-Abareim",
     "name": "Ellid Abareim",
     "chapter": "Chapter 4: Leaving the Tower",
-    "info": "One of the Accepted. She is one of the two prettiest girls in the Accepted's quarters, and she is very aware of that fact. She always smiles when looking in a mirror, and always seems to be near to a mirror when she smiles. Waves of golden hair frame her nearly perfect face, her eyes look like large sapphires, and her skin is a rich creamy color. The only fault in her appearance, according to <a href='#Moiraine-Damodred'>Moiraine</a>, is an over-abundance of bosom. She is very tall, as tall as most men. She is fond of telling everyone that she wants to be a Green and have six Warders. She has spiky handwriting."
+    "info": "One of the Accepted. She is one of the two prettiest girls in the Accepted's quarters, and she is very aware of that fact. She always smiles when looking in a mirror, and always seems to be near to a mirror when she smiles. Waves of golden hair frame her nearly perfect face, her eyes look like large sapphires, and her skin is a rich creamy color. The only fault in her appearance, according to [Moiraine](#Moiraine-Damodred), is an over-abundance of bosom. She is very tall, as tall as most men. She is fond of telling everyone that she wants to be a Green and have six Warders. She has spiky handwriting."
   },
   {
     "id": "Ellya-Mowly",
     "name": "Ellya Mowly",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Infant daughter of <a href='#Careme-Mowly'>Careme</a>. She is the same age as <a href='#Sedrin-a-Conlin'>Sedrin</a>, to the day."
+    "info": "Infant daughter of [Careme](#Careme-Mowly). She is the same age as [Sedrin](#Sedrin-a-Conlin), to the day."
   },
   {
     "id": "Elyas-Machera",
     "name": "Elyas Machera",
     "chapter": "Chapter 7: The Itch",
-    "info": "One of <a href='#Rina-Hafden'>Rina</a>'s Warders."
+    "info": "One of [Rina](#Rina-Hafden)'s Warders."
   },
   {
     "id": "Eselle-Najima",
     "name": "Eselle Najima",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Thirteen- or fourteen-year-old daughter of <a href='#Jurine-Najima'>Jurine</a>. She and her sister <a href='#Colar-Najima'>Colar</a> have their mother's long black hair and large blue eyes full of loss."
+    "info": "Thirteen- or fourteen-year-old daughter of [Jurine](#Jurine-Najima). She and her sister [Colar](#Colar-Najima) have their mother's long black hair and large blue eyes full of loss."
   },
   {
     "id": "Esne",
     "name": "Esne",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "Square-faced serving woman assigned to <a href='#al-Lan-Mandragoran'>Lan</a> in the Aesdaishar Palace. Lan suspects that she is <a href='#Anya'>Anya</a>'s daughter."
+    "info": "Square-faced serving woman assigned to [Lan](#al-Lan-Mandragoran) in the Aesdaishar Palace. Lan suspects that she is [Anya](#Anya)'s daughter."
   },
   {
     "id": "Felaana-Bevaine",
     "name": "Felaana Bevaine",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Slim, yellow-haired Aes Sedai of the Brown Ajah. She was the only Aes Sedai in the common room of The Gates of Heaven to wear her shawl. She was the first to corner <a href='#Moiraine-Damodred'>Moiraine</a> when she arrived there. She did not know Moiraine, however, much less that she was a sister, and assumed she was a wilder."
+    "info": "Slim, yellow-haired Aes Sedai of the Brown Ajah. She was the only Aes Sedai in the common room of The Gates of Heaven to wear her shawl. She was the first to corner [Moiraine](#Moiraine-Damodred) when she arrived there. She did not know Moiraine, however, much less that she was a sister, and assumed she was a wilder."
   },
   {
     "id": "Gitara-Moroso",
     "name": "Gitara Moroso",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "<a href='#Keeper-of-the-Chronicles'>Keeper of the Chronicles</a> under <a href='#Tamra-Ospenya'>Tamra Ospenya</a>. She is always just, usually fair, but rarely kind. She is tall and almost voluptuous. Raised from the Blue Ajah, she still considers herself a Blue. Her hair is pure white, and she wears ivory combs in it. Rumor has it that she is over 300 years old. When she has the Foretelling, it is always strong, and she is rumored to have them frequently."
+    "info": "[Keeper of the Chronicles](#Keeper-of-the-Chronicles) under [Tamra Ospenya](#Tamra-Ospenya). She is always just, usually fair, but rarely kind. She is tall and almost voluptuous. Raised from the Blue Ajah, she still considers herself a Blue. Her hair is pure white, and she wears ivory combs in it. Rumor has it that she is over 300 years old. When she has the Foretelling, it is always strong, and she is rumored to have them frequently."
   },
   {
     "id": "Haesel-Palan",
@@ -423,55 +423,55 @@
     "id": "Ilain-Dormaile",
     "name": "Ilain Dormaile",
     "chapter": "Chapter 13: Business in the City",
-    "info": "Slim, graying, small woman, a full hand shorter than <a href='#Moiraine-Damodred'>Moiraine</a>. Moiraine's father banked with her older brother, who still handles Moiraine's accounts in Cairhien, making Ilain an obvious choice for her banker in Tar Valon. She is very secretive on her customers' behalf."
+    "info": "Slim, graying, small woman, a full hand shorter than [Moiraine](#Moiraine-Damodred). Moiraine's father banked with her older brother, who still handles Moiraine's accounts in Cairhien, making Ilain an obvious choice for her banker in Tar Valon. She is very secretive on her customers' behalf."
   },
   {
     "id": "Ines-Demain",
     "name": "Ines Demain",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Woman on <a href='#Moiraine-Damodred'>Moiraine</a>'s list of new mothers. She is from Chachin, in Kandor."
+    "info": "Woman on [Moiraine](#Moiraine-Damodred)'s list of new mothers. She is from Chachin, in Kandor."
   },
   {
     "id": "Innloine-Damodred",
     "name": "Innloine Damodred",
     "chapter": "Chapter 6: Surprises",
-    "info": "<a href='#Moiraine-Damodred'>Moiraine</a>'s older sister. She is a warm and loving mother, though very stubborn and not very bright. Stubborn and not bright are poor qualities in a ruler anyway, but playing with her children causes her to forget about state business entirely. Moiraine knows that no one plans to put her on the Sun Throne."
+    "info": "[Moiraine](#Moiraine-Damodred)'s older sister. She is a warm and loving mother, though very stubborn and not very bright. Stubborn and not bright are poor qualities in a ruler anyway, but playing with her children causes her to forget about state business entirely. Moiraine knows that no one plans to put her on the Sun Throne."
   },
   {
     "id": "Iselle-Arrel",
     "name": "Iselle Arrel",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "<a href='#Edeyn-ti-Gemallen-Arrel'>Edeyn</a>'s daughter. She is seventeen, and has not chosen her <i>carneira</i> yet. When tested a few years ago, an Aes Sedai discovered she could learn to channel."
+    "info": "[Edeyn](#Edeyn-ti-Gemallen-Arrel)'s daughter. She is seventeen, and has not chosen her _carneira_ yet. When tested a few years ago, an Aes Sedai discovered she could learn to channel."
   },
   {
     "id": "Jac-Wynn",
     "name": "Jac Wynn",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Late husband of <a href='#Susa-Wynn'>Susa Wynn</a>. He died before the fighting began, slipping in the snow and cracking his head on a stone."
+    "info": "Late husband of [Susa Wynn](#Susa-Wynn). He died before the fighting began, slipping in the snow and cracking his head on a stone."
   },
   {
     "id": "Jaim",
     "name": "Jaim",
     "chapter": "Prelude",
-    "info": "Gray-bearded soldier. <a href='#al-Lan-Mandragoran'>Lan</a> found him asleep at his post, still standing up, eyes open. He denied being asleep, but Lan knew—other seasoned veterans knew the trick of sleeping with their eyes open, too."
+    "info": "Gray-bearded soldier. [Lan](#al-Lan-Mandragoran) found him asleep at his post, still standing up, eyes open. He denied being asleep, but Lan knew—other seasoned veterans knew the trick of sleeping with their eyes open, too."
   },
   {
     "id": "Jala-Bandevin",
     "name": "Jala Bandevin",
     "chapter": "Chapter 7: The Itch",
-    "info": "Gray-haired Aes Sedai of the Green Ajah. She is an imposing woman despite being nearly a hand shorter than <a href='#Moiraine-Damodred'>Moiraine</a>."
+    "info": "Gray-haired Aes Sedai of the Green Ajah. She is an imposing woman despite being nearly a hand shorter than [Moiraine](#Moiraine-Damodred)."
   },
   {
     "id": "Jarene",
     "name": "Jarene",
     "chapter": "Chapter 25: An Answer",
-    "info": "Green-eyed twelve-year-old daughter of <a href='#Prince-Brys-Materasu'>Prince Brys</a>. She is his oldest daughter, and the second oldest of his five children."
+    "info": "Green-eyed twelve-year-old daughter of [Prince Brys](#Prince-Brys-Materasu). She is his oldest daughter, and the second oldest of his five children."
   },
   {
     "id": "Jarna-Malari",
     "name": "Jarna Malari",
     "chapter": "Chapter 6: Surprises",
-    "info": "Sitter for the Gray Ajah. She has slashes of white at her temples, a commanding presence, liquid brown eyes, and long black hair. <a href='#Moiraine-Damodred'>Moiraine</a>'s head comes only to her shoulders. She hinted, very subtly, that Moiraine herself should claim the Sun Throne herself."
+    "info": "Sitter for the Gray Ajah. She has slashes of white at her temples, a commanding presence, liquid brown eyes, and long black hair. [Moiraine](#Moiraine-Damodred)'s head comes only to her shoulders. She hinted, very subtly, that Moiraine herself should claim the Sun Throne herself."
   },
   {
     "id": "Jeaine-Caide",
@@ -483,31 +483,31 @@
     "id": "Jennet",
     "name": "Jennet",
     "chapter": "Chapter 6: Surprises",
-    "info": "Aes Sedai of the Gray Ajah. She told <a href='#Sheriam-Bayanar'>Sheriam</a> that the Aiel were retreating."
+    "info": "Aes Sedai of the Gray Ajah. She told [Sheriam](#Sheriam-Bayanar) that the Aiel were retreating."
   },
   {
     "id": "Jerid-Najima",
     "name": "Jerid Najima",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Son of <a href='#Josef-Najima'>Josef</a> and <a href='#Jurine-Najima'>Jurine</a>. He went to find his father while he was working, and the barn caught fire and engulfed them all."
+    "info": "Son of [Josef](#Josef-Najima) and [Jurine](#Jurine-Najima). He went to find his father while he was working, and the barn caught fire and engulfed them all."
   },
   {
     "id": "Josef-Najima",
     "name": "Josef Najima",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Late husband of <a href='#Jurine-Najima'>Jurine</a> and father of <a href='#Colar-Najima'>Colar</a>, <a href='#Eselle-Najima'>Eselle</a>, and <a href='#Jerid-Najima'>Jerid</a>. He was described as lucky. He and Jerid were killed in a barn fire."
+    "info": "Late husband of [Jurine](#Jurine-Najima) and father of [Colar](#Colar-Najima), [Eselle](#Eselle-Najima), and [Jerid](#Jerid-Najima). He was described as lucky. He and Jerid were killed in a barn fire."
   },
   {
     "id": "Jurad-Shiman",
     "name": "Jurad Shiman",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "Seasoned Kandori campaigner who rode with <a href='#al-Lan-Mandragoran'>Lan</a> for a time. He has gray hair."
+    "info": "Seasoned Kandori campaigner who rode with [Lan](#al-Lan-Mandragoran) for a time. He has gray hair."
   },
   {
     "id": "Jurine-Najima",
     "name": "Jurine Najima",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Woman with pale, too-large eyes. She is the mother of <a href='#Colar-Najima'>Colar</a>, <a href='#Eselle-Najima'>Eselle</a>, and <a href='#Jerid-Najima'>Jerid</a>, and the widow of <a href='#Josef-Najima'>Josef</a>. She is not tall, but is still about a hand taller than <a href='#Moiraine-Damodred'>Moiraine</a>."
+    "info": "Woman with pale, too-large eyes. She is the mother of [Colar](#Colar-Najima), [Eselle](#Eselle-Najima), and [Jerid](#Jerid-Najima), and the widow of [Josef](#Josef-Najima). She is not tall, but is still about a hand taller than [Moiraine](#Moiraine-Damodred)."
   },
   {
     "id": "Kairen-Stang",
@@ -525,7 +525,7 @@
     "id": "Karile",
     "name": "Karile",
     "chapter": "Chapter 7: The Itch",
-    "info": "One of <a href='#Kerene-Nagashi'>Kerene</a>'s Warders. His hair and beard form a golden mane."
+    "info": "One of [Kerene](#Kerene-Nagashi)'s Warders. His hair and beard form a golden mane."
   },
   {
     "id": "Katerine-Alruddin",
@@ -537,7 +537,7 @@
     "id": "Katrine-do-Catalan-a-Coralle",
     "name": "Katrine do Catalan a'Coralle",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "First Queen of Murandy. She is allegedly a direct ancestor of <a href='#Meri-do-Ahlan-a-Conlin'>Meri a'Conlin</a>."
+    "info": "First Queen of Murandy. She is allegedly a direct ancestor of [Meri a'Conlin](#Meri-do-Ahlan-a-Conlin)."
   },
   {
     "id": "Kazin",
@@ -549,25 +549,25 @@
     "id": "Keeper-of-the-Chronicles",
     "name": "Keeper of the Chronicles",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Secretary of sorts for the <a href='#Amyrlin-Seat'>Amyrlin Seat</a>. By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is <a href='#Gitara-Moroso'>Gitara Moroso</a>, raised from the Blue Ajah."
+    "info": "Secretary of sorts for the [Amyrlin Seat](#Amyrlin-Seat). By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is [Gitara Moroso](#Gitara-Moroso), raised from the Blue Ajah."
   },
   {
     "id": "Kerene-Nagashi",
     "name": "Kerene Nagashi",
     "chapter": "Chapter 7: The Itch",
-    "info": "Aes Sedai of the Green Ajah. She had two sisters and two brothers, both of which have long since passed away. She has at least two Warders, including <a href='#Karile'>Karile</a> and <a href='#Stepin'>Stepin</a>. Very tall and skinny, her hair is cut shorter than her Warders' hair, above her shoulders. She does needlework when not traveling, though she rarely remains in the Tower long before leaving again. She is the strongest Aes Sedai alive except for <a href='#Meilyn-Arganya'>Meilyn</a> and <a href='#Cadsuane-Melaidhrin'>Cadsuane</a>; no one has come to the Tower in over six hundred years who could match her potential."
+    "info": "Aes Sedai of the Green Ajah. She had two sisters and two brothers, both of which have long since passed away. She has at least two Warders, including [Karile](#Karile) and [Stepin](#Stepin). Very tall and skinny, her hair is cut shorter than her Warders' hair, above her shoulders. She does needlework when not traveling, though she rarely remains in the Tower long before leaving again. She is the strongest Aes Sedai alive except for [Meilyn](#Meilyn-Arganya) and [Cadsuane](#Cadsuane-Melaidhrin); no one has come to the Tower in over six hundred years who could match her potential."
   },
   {
     "id": "Lady-Kareil",
     "name": "Lady Kareil",
     "chapter": "Chapter 17: An Arrival",
-    "info": "Noble who called on <a href='#Josef-Najima'>Josef Najima</a> to fight the Aiel."
+    "info": "Noble who called on [Josef Najima](#Josef-Najima) to fight the Aiel."
   },
   {
     "id": "Laman-Damodred",
     "name": "Laman Damodred",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "King of Cairhien, and <a href='#Moiraine-Damodred'>Moiraine</a>'s uncle. He was killed in the battle of the Shining Walls along with his brothers <a href='#Moressin-Damodred'>Moressin</a> and <a href='#Aldecain-Damodred'>Aldecain</a>. He was a distant man who burned with ambition. Moiraine believes he never married because even becoming queen of Cairhien was not sufficient enticement to marry him."
+    "info": "King of Cairhien, and [Moiraine](#Moiraine-Damodred)'s uncle. He was killed in the battle of the Shining Walls along with his brothers [Moressin](#Moressin-Damodred) and [Aldecain](#Aldecain-Damodred). He was a distant man who burned with ambition. Moiraine believes he never married because even becoming queen of Cairhien was not sufficient enticement to marry him."
   },
   {
     "id": "Laras",
@@ -579,13 +579,13 @@
     "id": "Larelle-Tarsi",
     "name": "Larelle Tarsi",
     "chapter": "Chapter 3: Practice",
-    "info": "Aes Sedai of unknown Ajah with long hair and coppery skin. She instructed Moiraine as a novice; she always had a way of asking the last question you wanted to hear. She is quite strong in the One Power, as strong as <a href='#Merean-Redhill'>Merean</a>, and has no Warder."
+    "info": "Aes Sedai of unknown Ajah with long hair and coppery skin. She instructed Moiraine as a novice; she always had a way of asking the last question you wanted to hear. She is quite strong in the One Power, as strong as [Merean](#Merean-Redhill), and has no Warder."
   },
   {
     "id": "Leane-Sharif",
     "name": "Leane Sharif",
     "chapter": "Chapter 11: Just Before Dawn",
-    "info": "Willowy, copper-skinned Aes Sedai of the Blue Ajah from Arad Doman. She is as tall as most men, and fairly young—too young to have achieved the ageless look. One of <a href='#Moiraine-Damodred'>Moiraine</a>'s friends as an Accepted, she quickly became her friend again after giving her her shawl and welcoming her to the Blue Ajah."
+    "info": "Willowy, copper-skinned Aes Sedai of the Blue Ajah from Arad Doman. She is as tall as most men, and fairly young—too young to have achieved the ageless look. One of [Moiraine](#Moiraine-Damodred)'s friends as an Accepted, she quickly became her friend again after giving her her shawl and welcoming her to the Blue Ajah."
   },
   {
     "id": "Lelaine-Akashi",
@@ -597,7 +597,7 @@
     "id": "Lira",
     "name": "Lira",
     "chapter": "Chapter 16: The Deeps",
-    "info": "Serving maid in the Blue Rose, an inn in Canluum. She has dark eyes, full lips, and dimples. She promises to \"honor\" <a href='#al-Lan-Mandragoran'>Lan</a> until his “knees won't hold [him] up.”"
+    "info": "Serving maid in the Blue Rose, an inn in Canluum. She has dark eyes, full lips, and dimples. She promises to \"honor\" [Lan](#al-Lan-Mandragoran) until his “knees won't hold [him] up.”"
   },
   {
     "id": "Lisandre",
@@ -615,13 +615,13 @@
     "id": "Lord-Ellisar",
     "name": "Lord Ellisar",
     "chapter": "Chapter 6: Surprises",
-    "info": "Lord in whose encampment many of the infants that <a href='#Ellid-Abareim'>Ellid</a> took down the names of for the bounty."
+    "info": "Lord in whose encampment many of the infants that [Ellid](#Ellid-Abareim) took down the names of for the bounty."
   },
   {
     "id": "Lord-Emares",
     "name": "Lord Emares",
     "chapter": "Prelude",
-    "info": "General in the forces against the Aiel from Tear. He discovered a group of Aiel that followed to the east. He sent a message to <a href='#al-Lan-Mandragoran'>Lan</a> to the effect that he intended to serve as the hammer that crushed the Aiel into Lan's troops, who would serve as the anvil."
+    "info": "General in the forces against the Aiel from Tear. He discovered a group of Aiel that followed to the east. He sent a message to [Lan](#al-Lan-Mandragoran) to the effect that he intended to serve as the hammer that crushed the Aiel into Lan's troops, who would serve as the anvil."
   },
   {
     "id": "Ludice-Daneen",
@@ -639,7 +639,7 @@
     "id": "Martan",
     "name": "Martan",
     "chapter": "Chapter 6: Surprises",
-    "info": "Young clerk in the Tower. He and <a href='#Mistress-Wellin'>Mistress Wellin</a> were assigned to the task of copying the Accepted's handwriting in the registry, until they found <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> already upon the task."
+    "info": "Young clerk in the Tower. He and [Mistress Wellin](#Mistress-Wellin) were assigned to the task of copying the Accepted's handwriting in the registry, until they found [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) already upon the task."
   },
   {
     "id": "Meidani",
@@ -651,25 +651,25 @@
     "id": "Meilyn-Arganya",
     "name": "Meilyn Arganya",
     "chapter": "Chapter 3: Practice",
-    "info": "Aes Sedai of the White Ajah who gives private classes to <a href='#Moiraine-Damodred'>Moiraine</a>, though Moiraine fears she will miss those classes if the sisters do not return from the battle soon. She has silver-gray hair and a thrusting chin. She is one of the most respected women in the Tower; it is said that no one has a bad word for her. She has a smooth, emotionless face and startling blue eyes. She is one of the only Whites to have a Warder. She has worn the shawl for over three hundred years, and is the strongest Aes Sedai alive, except for <a href='#Cadsuane-Melaidhrin'>Cadsuane</a>."
+    "info": "Aes Sedai of the White Ajah who gives private classes to [Moiraine](#Moiraine-Damodred), though Moiraine fears she will miss those classes if the sisters do not return from the battle soon. She has silver-gray hair and a thrusting chin. She is one of the most respected women in the Tower; it is said that no one has a bad word for her. She has a smooth, emotionless face and startling blue eyes. She is one of the only Whites to have a Warder. She has worn the shawl for over three hundred years, and is the strongest Aes Sedai alive, except for [Cadsuane](#Cadsuane-Melaidhrin)."
   },
   {
     "id": "Merean-Redhill",
     "name": "Merean Redhill",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Plump, motherly Aes Sedai of the Blue Ajah, and <a href='#Mistress-of-Novices'>Mistress of Novices</a> under <a href='#Tamra-Ospenya'>Tamra Ospenya</a>. She has a plump chin, and more gray in her hair than not. She is fairly tall—<a href='#Moiraine-Damodred'>Moiraine</a>'s head comes up to her chin. She is very strong in the One Power, and has a way of discovering that which people wish to keep hidden. She had been Aes Sedai for over 100 years by the time Moiraine's great-grandmother was born. She has no Warder."
+    "info": "Plump, motherly Aes Sedai of the Blue Ajah, and [Mistress of Novices](#Mistress-of-Novices) under [Tamra Ospenya](#Tamra-Ospenya). She has a plump chin, and more gray in her hair than not. She is fairly tall—[Moiraine](#Moiraine-Damodred)'s head comes up to her chin. She is very strong in the One Power, and has a way of discovering that which people wish to keep hidden. She had been Aes Sedai for over 100 years by the time Moiraine's great-grandmother was born. She has no Warder."
   },
   {
     "id": "Meri-do-Ahlan-a-Conlin",
     "name": "Meri do Ahlan a'Conlin",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Murandian noble, allegedly a direct descendent of <a href='#Katrine-do-Catalan-a-Coralle'>Katrine a'Coralle</a>, the first Queen of Murandy. She was the first woman at <a href='#Moiraine-Damodred'>Moiraine</a>'s table for registry for the bounty. She is plump, and has a one-week-old son, <a href='#Sedrin-a-Conlin'>Sedrin</a>."
+    "info": "Murandian noble, allegedly a direct descendent of [Katrine a'Coralle](#Katrine-do-Catalan-a-Coralle), the first Queen of Murandy. She was the first woman at [Moiraine](#Moiraine-Damodred)'s table for registry for the bounty. She is plump, and has a one-week-old son, [Sedrin](#Sedrin-a-Conlin)."
   },
   {
     "id": "Migel-Sahera",
     "name": "Migel Sahera",
     "chapter": "Chapter 21: Some Tricks of the Power",
-    "info": "Tenth child of <a href='#Avene-Sahera'>Avene Sahera</a>, born thirty miles from Dragonmount a week before <a href='#Gitara-Moroso'>Gitara Moroso</a>'s death."
+    "info": "Tenth child of [Avene Sahera](#Avene-Sahera), born thirty miles from Dragonmount a week before [Gitara Moroso](#Gitara-Moroso)'s death."
   },
   {
     "id": "Mistress-Asher",
@@ -681,7 +681,7 @@
     "id": "Mistress-Marishna",
     "name": "Mistress Marishna",
     "chapter": "Chapter 20: Breakfast in Manala",
-    "info": "Woman <a href='#Moiraine-Damodred'>Moiraine</a> asks about the location of <a href='#Avene-Sahera'>Avene Sahera</a>."
+    "info": "Woman [Moiraine](#Moiraine-Damodred) asks about the location of [Avene Sahera](#Avene-Sahera)."
   },
   {
     "id": "Mistress-Tomichi",
@@ -693,43 +693,43 @@
     "id": "Mistress-Tuval",
     "name": "Mistress Tuval",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "<a href='#Diryk'>Diryk</a>'s tutor."
+    "info": "[Diryk](#Diryk)'s tutor."
   },
   {
     "id": "Mistress-Wellin",
     "name": "Mistress Wellin",
     "chapter": "Chapter 6: Surprises",
-    "info": "Clerk in the Tower. She and <a href='#Mistress-Wellin'>Mistress Wellin</a> were assigned to the task of copying the Accepted's handwriting in the registry, until they found <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> already upon the task."
+    "info": "Clerk in the Tower. She and [Mistress Wellin](#Mistress-Wellin) were assigned to the task of copying the Accepted's handwriting in the registry, until they found [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) already upon the task."
   },
   {
     "id": "Mistress-of-Novices",
     "name": "Mistress of Novices",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Aes Sedai in charge of novice training in the White Tower. She serves as both a disciplinarian and a shoulder to cry on for girls who need either. The current Mistress of Novices is <a href='#Merean-Redhill'>Merean Redhill</a> of the Blue Ajah."
+    "info": "Aes Sedai in charge of novice training in the White Tower. She serves as both a disciplinarian and a shoulder to cry on for girls who need either. The current Mistress of Novices is [Merean Redhill](#Merean-Redhill) of the Blue Ajah."
   },
   {
     "id": "Moiraine-Damodred",
     "name": "Moiraine Damodred",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "One of the Accepted. She grew up in the Sun Palace in Cairhien, a niece of <a href='#Laman-Damodred'>Laman</a>, King of Cairhien, and half-sister of <a href='#Taringail-Damodred'>Taringail Damodred</a>, the husband of the Queen of Andor. Upon entering the White Tower, she quickly formed a friendship with <a href='#Siuan-Sanche'>Siuan Sanche</a>, daughter of a Tairen fisherman. The two have been progressing at nearly identical paces ever since. Moiraine is <i>very</i> short—short even for a Cairhienin woman—and has very pale skin. She has been known to flash her temper on occasion. Both of her parents are dead; her mother died when she was very young. Like her friend Siuan, she was born with the spark of <i>saidar</i> in her. Moiraine has great respect and admiration for <a href='#Tamra-Ospenya'>Tamra Ospenya</a>."
+    "info": "One of the Accepted. She grew up in the Sun Palace in Cairhien, a niece of [Laman](#Laman-Damodred), King of Cairhien, and half-sister of [Taringail Damodred](#Taringail-Damodred), the husband of the Queen of Andor. Upon entering the White Tower, she quickly formed a friendship with [Siuan Sanche](#Siuan-Sanche), daughter of a Tairen fisherman. The two have been progressing at nearly identical paces ever since. Moiraine is _very_ short—short even for a Cairhienin woman—and has very pale skin. She has been known to flash her temper on occasion. Both of her parents are dead; her mother died when she was very young. Like her friend Siuan, she was born with the spark of _saidar_ in her. Moiraine has great respect and admiration for [Tamra Ospenya](#Tamra-Ospenya)."
   },
   {
     "id": "Moraine",
     "name": "Moraine",
     "chapter": "Chapter 14: Changes",
-    "info": "Misspelling of <a href='#Moiraine-Damodred'>Moiraine</a>."
+    "info": "Misspelling of [Moiraine](#Moiraine-Damodred)."
   },
   {
     "id": "Moressin-Damodred",
     "name": "Moressin Damodred",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "One of <a href='#Moiraine-Damodred'>Moiraine</a>'s uncles, and one of <a href='#Laman-Damodred'>Laman</a>'s brothers. Moiraine thinks he and his brother <a href='#Aldecain-Damodred'>Aldecain</a> are even worse than Laman, each having heat enough for ten men, which they expressed in anger and cruelty, as well as contempt for Moiraine's father."
+    "info": "One of [Moiraine](#Moiraine-Damodred)'s uncles, and one of [Laman](#Laman-Damodred)'s brothers. Moiraine thinks he and his brother [Aldecain](#Aldecain-Damodred) are even worse than Laman, each having heat enough for ten men, which they expressed in anger and cruelty, as well as contempt for Moiraine's father."
   },
   {
     "id": "Myrelle-Berengari",
     "name": "Myrelle Berengari",
     "chapter": "Chapter 3: Practice",
-    "info": "Accepted from Altara. She earned the great serpent ring the same year <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> earned theirs. Olive-skinned and beautiful, she is almost as tall as Siuan. She is gregarious and mercurial, with a boisterous sense of humor and a worse temper than Moiraine. Moiraine and Myrelle began novice training with heated words, but they eventually became close friends."
+    "info": "Accepted from Altara. She earned the great serpent ring the same year [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) earned theirs. Olive-skinned and beautiful, she is almost as tall as Siuan. She is gregarious and mercurial, with a boisterous sense of humor and a worse temper than Moiraine. Moiraine and Myrelle began novice training with heated words, but they eventually became close friends."
   },
   {
     "id": "Natasia",
@@ -741,7 +741,7 @@
     "id": "Nazar-Kurenin",
     "name": "Nazar Kurenin",
     "chapter": "Chapter 15: Into Canluum",
-    "info": "Jut-nozed man from Canluum. His hair is cut short, and he has a forked beard. A native of Malkier, he still has the marks from his <i>hadori</i>."
+    "info": "Jut-nozed man from Canluum. His hair is cut short, and he has a forked beard. A native of Malkier, he still has the marks from his _hadori_."
   },
   {
     "id": "Nedare-Satarov",
@@ -753,7 +753,7 @@
     "id": "Prince-Brys-Materasu",
     "name": "Prince Brys Materasu",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "Prince Consort of Kandor. By law, he must remain in the city of Chachin if <a href='#Queen-Ethenielle-Kirukan-Materasu'>Queen Ethenielle</a> is out of the city, and she must remain there if he is abroad. He is stocky, rough-hewn, and in his middle years. He appears more suited to armor than silks, though he wears neither well. He has a strong reputation as a general, which is why he is Prince Consort, Swordbearer, and general of her armies. He is solidly built, and has green eyes."
+    "info": "Prince Consort of Kandor. By law, he must remain in the city of Chachin if [Queen Ethenielle](#Queen-Ethenielle-Kirukan-Materasu) is out of the city, and she must remain there if he is abroad. He is stocky, rough-hewn, and in his middle years. He appears more suited to armor than silks, though he wears neither well. He has a strong reputation as a general, which is why he is Prince Consort, Swordbearer, and general of her armies. He is solidly built, and has green eyes."
   },
   {
     "id": "Pritalle-Nerbaijan",
@@ -771,19 +771,19 @@
     "id": "Racelle-Arovni",
     "name": "Racelle Arovni",
     "chapter": "Chapter 16: The Deeps",
-    "info": "Graying innkeeper of the Blue Rose, an inn in Canluum. Tall and handsome with dark eyes, she and <a href='#Bukama-Marenellin'>Bukama</a> had a relationship in the past."
+    "info": "Graying innkeeper of the Blue Rose, an inn in Canluum. Tall and handsome with dark eyes, she and [Bukama](#Bukama-Marenellin) had a relationship in the past."
   },
   {
     "id": "Rafela-Cindal",
     "name": "Rafela Cindal",
     "chapter": "Chapter 11: Just Before Dawn",
-    "info": "Slim, dark, pretty Aes Sedai of the Blue Ajah. She is young, too young to have the ageless face yet. She is the sister who gives <a href='#Siuan-Sanche'>Siuan</a> her shawl."
+    "info": "Slim, dark, pretty Aes Sedai of the Blue Ajah. She is young, too young to have the ageless face yet. She is the sister who gives [Siuan](#Siuan-Sanche) her shawl."
   },
   {
     "id": "Rahien-Demain",
     "name": "Rahien Demain",
     "chapter": "Chapter 23: The Evening Star",
-    "info": "<a href='#Ines-Demain'>Ines</a>'s son. He was named because dawn came up over Dragonmount when he was born. He and his mother are back in the Aesdaishar Palace now."
+    "info": "[Ines](#Ines-Demain)'s son. He was named because dawn came up over Dragonmount when he was born. He and his mother are back in the Aesdaishar Palace now."
   },
   {
     "id": "Rakim",
@@ -795,7 +795,7 @@
     "id": "Ries-Gorthanes",
     "name": "Ries Gorthanes",
     "chapter": "Chapter 13: Business in the City",
-    "info": "Tall, educated man from Cairhienin. Broad-shouldered, he was brought up as a soldier. He has a clean-shaven, well-proportioned face. He is good-looking despite an inch-long scar near his left eye. He came to Mistress Dormaile to get access to <a href='#Moiraine-Damodred'>Moiraine</a>'s finances. He was denied that access, and his nosiness was promptly reported to Moiraine herself."
+    "info": "Tall, educated man from Cairhienin. Broad-shouldered, he was brought up as a soldier. He has a clean-shaven, well-proportioned face. He is good-looking despite an inch-long scar near his left eye. He came to Mistress Dormaile to get access to [Moiraine](#Moiraine-Damodred)'s finances. He was denied that access, and his nosiness was promptly reported to Moiraine herself."
   },
   {
     "id": "Rina-Hafden",
@@ -807,19 +807,19 @@
     "id": "Romera",
     "name": "Romera",
     "chapter": "Chapter 22: Keeping Custom",
-    "info": "<i>Shatayan</i> of the Aesdaishar Palace in Chachin. She is stately, straight-backed, and has graying hair that she keeps in a thick roll at the nape of her neck. She has charge of all the palace's servants."
+    "info": "_Shatayan_ of the Aesdaishar Palace in Chachin. She is stately, straight-backed, and has graying hair that she keeps in a thick roll at the nape of her neck. She has charge of all the palace's servants."
   },
   {
     "id": "Ryma-Galfrey",
     "name": "Ryma Galfrey",
     "chapter": "Chapter 6: Surprises",
-    "info": "Aes Sedai of the Yellow Ajah. She told <a href='#Sheriam-Bayanar'>Sheriam</a> that the Aiel were retreating."
+    "info": "Aes Sedai of the Yellow Ajah. She told [Sheriam](#Sheriam-Bayanar) that the Aiel were retreating."
   },
   {
     "id": "Ryne-Venamar",
     "name": "Ryne Venamar",
     "chapter": "Chapter 16: The Deeps",
-    "info": "<a href='#al-Lan-Mandragoran'>Lan</a>'s oldest friend, save <a href='#Bukama-Marenellin'>Bukama</a>. He is five years Lan's elder, and also from Malkier, though he no longer keeps its traditions. He keeps his hair in two long bell-laced braids, and keeps the Arafellin fashion."
+    "info": "[Lan](#al-Lan-Mandragoran)'s oldest friend, save [Bukama](#Bukama-Marenellin). He is five years Lan's elder, and also from Malkier, though he no longer keeps its traditions. He keeps his hair in two long bell-laced braids, and keeps the Arafellin fashion."
   },
   {
     "id": "Salia-Pomfrey",
@@ -831,7 +831,7 @@
     "id": "Sarene-Nemdahl",
     "name": "Sarene Nemdahl",
     "chapter": "Chapter 4: Leaving the Tower",
-    "info": "Accepted from Tarabon. She is the most beautiful woman in the Accepted's quarters, with the possible exception of <a href='#Ellid-Abareim'>Ellid</a>, though she seems blissfully unaware of this. She has very little tact for a sheepherder's daughter, and a sharp tongue. She is often unaware when she says something wrong. She and <a href='#Moiraine-Damodred'>Moiraine</a> are friends."
+    "info": "Accepted from Tarabon. She is the most beautiful woman in the Accepted's quarters, with the possible exception of [Ellid](#Ellid-Abareim), though she seems blissfully unaware of this. She has very little tact for a sheepherder's daughter, and a sharp tongue. She is often unaware when she says something wrong. She and [Moiraine](#Moiraine-Damodred) are friends."
   },
   {
     "id": "Sedrin-a-Conlin",
@@ -843,19 +843,19 @@
     "id": "Serafelle",
     "name": "Serafelle",
     "chapter": "Chapter 6: Surprises",
-    "info": "Aes Sedai of the Brown Ajah. She told <a href='#Sheriam-Bayanar'>Sheriam</a> that the Aiel were retreating."
+    "info": "Aes Sedai of the Brown Ajah. She told [Sheriam](#Sheriam-Bayanar) that the Aiel were retreating."
   },
   {
     "id": "Setsuko",
     "name": "Setsuko",
     "chapter": "Chapter 6: Surprises",
-    "info": "Stocky, pale-eyed novice, shorter than <a href='#Moiraine-Damodred'>Moiraine</a>. She grew up in Arafel. She is too weak to ever become one of the Accepted."
+    "info": "Stocky, pale-eyed novice, shorter than [Moiraine](#Moiraine-Damodred). She grew up in Arafel. She is too weak to ever become one of the Accepted."
   },
   {
     "id": "Shai-tan",
     "name": "Shai'tan",
     "chapter": "Prelude",
-    "info": "Source of all evil, complete antithesis of the <a href='#The-Creator'>Creator</a> in every way. He was imprisoned by the Creator at the moment of Creation in a prison just outside the Pattern. This prison was bored into during the Age of Legends; the Dark One's touch on the world produced new waves of hate, crime, and violence that had never been seen before. An attempt to free the Dark One completely resulted in the War of the Shadow, a war which ended only with the sealing of the Bore by Lews Therin Telamon and the Hundred Companions. During the moment of sealing, the Dark One's counterstroke tainted <i>saidin</i> itself, beginning the Time of Madness. The seals on the prison were made of <i>cuendillar</i>, an indestructible substance, but nonetheless are beginning to weaken. The Dark One may touch the world again soon. Speaking his true name draws his attention and causes bad luck, so he is known by a plethora of euphemisms, most commonly as simply, “The Dark One.” Some, including <a href='#Bukama-Marenellin'>Bukama</a>, believe that merely <i>thinking</i> his true name is enough."
+    "info": "Source of all evil, complete antithesis of the [Creator](#The-Creator) in every way. He was imprisoned by the Creator at the moment of Creation in a prison just outside the Pattern. This prison was bored into during the Age of Legends; the Dark One's touch on the world produced new waves of hate, crime, and violence that had never been seen before. An attempt to free the Dark One completely resulted in the War of the Shadow, a war which ended only with the sealing of the Bore by Lews Therin Telamon and the Hundred Companions. During the moment of sealing, the Dark One's counterstroke tainted _saidin_ itself, beginning the Time of Madness. The seals on the prison were made of _cuendillar_, an indestructible substance, but nonetheless are beginning to weaken. The Dark One may touch the world again soon. Speaking his true name draws his attention and causes bad luck, so he is known by a plethora of euphemisms, most commonly as simply, “The Dark One.” Some, including [Bukama](#Bukama-Marenellin), believe that merely _thinking_ his true name is enough."
   },
   {
     "id": "Shemaen",
@@ -867,19 +867,19 @@
     "id": "Sheriam-Bayanar",
     "name": "Sheriam Bayanar",
     "chapter": "Chapter 6: Surprises",
-    "info": "Flame-haired Accepted with a room near <a href='#Siuan-Sanche'>Siuan</a>'s. She is slim, with tilted green eyes. She grew up in Saldaea. She is a very good cook, and likes baking. One of the biggest gossips among the Accepted, it is wise to keep a careful tongue around her. Despite this, <a href='#Moiraine-Damodred'>Moiraine</a> considers her a close friend and confidant. She sleeps like the dead."
+    "info": "Flame-haired Accepted with a room near [Siuan](#Siuan-Sanche)'s. She is slim, with tilted green eyes. She grew up in Saldaea. She is a very good cook, and likes baking. One of the biggest gossips among the Accepted, it is wise to keep a careful tongue around her. Despite this, [Moiraine](#Moiraine-Damodred) considers her a close friend and confidant. She sleeps like the dead."
   },
   {
     "id": "Shivena-Kayenzi",
     "name": "Shivena Kayenzi",
     "chapter": "Chapter 8: Shreds of Serenity",
-    "info": "Philosopher from Saldaea. She was influenced by the work of <a href='#Willim-of-Manaches'>Willim of Manaches</a>. <a href='#Meilyn-Arganya'>Meilyn</a> quizzes <a href='#Moiraine-Damodred'>Moiraine</a> as to just how much."
+    "info": "Philosopher from Saldaea. She was influenced by the work of [Willim of Manaches](#Willim-of-Manaches). [Meilyn](#Meilyn-Arganya) quizzes [Moiraine](#Moiraine-Damodred) as to just how much."
   },
   {
     "id": "Sierin-Vayu",
     "name": "Sierin Vayu",
     "chapter": "Chapter 14: Changes",
-    "info": "Aes Sedai of the Gray Ajah, raised to the <a href='#Amyrlin-Seat'>Amyrlin Seat</a> after the death of <a href='#Tamra-Ospenya'>Tamra Ospenya</a>, who allegedly died in her sleep. Traditionally, a newly raised Amyrlin grants indulgences and relief from penances on the day she is raised; Sierin granted none, and dismissed all male clerks in the Tower within a week, for various vague reasons. Three sisters were exiled from Tar Valon for a year, and two were stripped, stretched on the triangle, and birched in the Traitor's Court. She is quite plump, and has a round face that seems constructed for jolliness, but she wears grimness as though it were carved there. She is slightly taller than <a href='#Moiraine-Damodred'>Moiraine</a>, and has hard eyes. She is merciless."
+    "info": "Aes Sedai of the Gray Ajah, raised to the [Amyrlin Seat](#Amyrlin-Seat) after the death of [Tamra Ospenya](#Tamra-Ospenya), who allegedly died in her sleep. Traditionally, a newly raised Amyrlin grants indulgences and relief from penances on the day she is raised; Sierin granted none, and dismissed all male clerks in the Tower within a week, for various vague reasons. Three sisters were exiled from Tar Valon for a year, and two were stripped, stretched on the triangle, and birched in the Traitor's Court. She is quite plump, and has a round face that seems constructed for jolliness, but she wears grimness as though it were carved there. She is slightly taller than [Moiraine](#Moiraine-Damodred), and has hard eyes. She is merciless."
   },
   {
     "id": "Silene-Dorelmin",
@@ -891,37 +891,37 @@
     "id": "Siuan-Sanche",
     "name": "Siuan Sanche",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "One of the Accepted. She grew up on a fishing boat in Tear, and was sent on the first boat bound for Tar Valon the day it was discovered she had the spark of <i>saidar</i> inborn, in accordance with Tairen law. Her parents are now dead, her mother dying when she was very young. Upon arriving at the Tower, she very quickly became friends with <a href='#Moiraine-Damodred'>Moiraine Damodred</a>, and despite the large gap between their incomes and lifestyles as children, they found they had a remarkable amount in common. The two moved at nearly the same rate through their work with the Power, but Siuan seems to learn things like history, language, and politics at a much faster rate. In fact, she arrived at the Tower barely able to read, and now she teaches introductory classes in the Old Tongue. She has very fair skin, clear blue eyes, and is only a hand taller than Moiraine. She has a talent for puzzles. Like Moiraine, she will some day become one of the strongest Aes Sedai in the Tower."
+    "info": "One of the Accepted. She grew up on a fishing boat in Tear, and was sent on the first boat bound for Tar Valon the day it was discovered she had the spark of _saidar_ inborn, in accordance with Tairen law. Her parents are now dead, her mother dying when she was very young. Upon arriving at the Tower, she very quickly became friends with [Moiraine Damodred](#Moiraine-Damodred), and despite the large gap between their incomes and lifestyles as children, they found they had a remarkable amount in common. The two moved at nearly the same rate through their work with the Power, but Siuan seems to learn things like history, language, and politics at a much faster rate. In fact, she arrived at the Tower barely able to read, and now she teaches introductory classes in the Old Tongue. She has very fair skin, clear blue eyes, and is only a hand taller than Moiraine. She has a talent for puzzles. Like Moiraine, she will some day become one of the strongest Aes Sedai in the Tower."
   },
   {
     "id": "Steler",
     "name": "Steler",
     "chapter": "Chapter 4: Leaving the Tower",
-    "info": "Leader of the escort for <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a>. He has a deep, gravelly voice."
+    "info": "Leader of the escort for [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche). He has a deep, gravelly voice."
   },
   {
     "id": "Stepin",
     "name": "Stepin",
     "chapter": "Chapter 7: The Itch",
-    "info": "One of <a href='#Kerene-Nagashi'>Kerene</a>'s Warders. He looks more like a clerk than a Warder. He has narrow shoulders and sad brown eyes."
+    "info": "One of [Kerene](#Kerene-Nagashi)'s Warders. He looks more like a clerk than a Warder. He has narrow shoulders and sad brown eyes."
   },
   {
     "id": "Suki",
     "name": "Suki",
     "chapter": "Chapter 24: Making Use of Invisibility",
-    "info": "Alias <a href='#Siuan-Sanche'>Siuan</a> uses to pass as <a href='#Moiraine-Damodred'>Moiraine</a>'s maid."
+    "info": "Alias [Siuan](#Siuan-Sanche) uses to pass as [Moiraine](#Moiraine-Damodred)'s maid."
   },
   {
     "id": "Sun-Lance",
     "name": "Sun Lance",
     "chapter": "Prelude",
-    "info": "<a href='#Bukama-Marenellin'>Bukama</a>'s yellow roan gelding."
+    "info": "[Bukama](#Bukama-Marenellin)'s yellow roan gelding."
   },
   {
     "id": "Susa-Wynn",
     "name": "Susa Wynn",
     "chapter": "Chapter 5: The Human Heart",
-    "info": "Mother of Cyril, an infant that <a href='#Moiraine-Damodred'>Moiraine</a> adds to her registry. She is near to gaunt, with deep shadows under her eyes and a lost, desperate look."
+    "info": "Mother of Cyril, an infant that [Moiraine](#Moiraine-Damodred) adds to her registry. She is near to gaunt, with deep shadows under her eyes and a lost, desperate look."
   },
   {
     "id": "Tamore-Alkohima",
@@ -933,43 +933,43 @@
     "id": "Tamra-Ospenya",
     "name": "Tamra Ospenya",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Watcher of the Seals, the Flame of Tar Valon, the <a href='#Amyrlin-Seat'>Amyrlin Seat</a>. She was raised from the Blue Ajah. She is always fair and just, which are not necessarily the same thing. It is said that her stare can make stones move. Her <a href='#Keeper-of-the-Chronicles'>Keeper of the Chronicles</a> is <a href='#Gitara-Moroso'>Gitara Moroso</a>, also raised from the Blue Ajah."
+    "info": "Watcher of the Seals, the Flame of Tar Valon, the [Amyrlin Seat](#Amyrlin-Seat). She was raised from the Blue Ajah. She is always fair and just, which are not necessarily the same thing. It is said that her stare can make stones move. Her [Keeper of the Chronicles](#Keeper-of-the-Chronicles) is [Gitara Moroso](#Gitara-Moroso), also raised from the Blue Ajah."
   },
   {
     "id": "Taringail-Damodred",
     "name": "Taringail Damodred",
     "chapter": "Chapter 6: Surprises",
-    "info": "Cairhienin-born husband of the Queen of Andor. He is <a href='#Moiraine-Damodred'>Moiraine</a>'s half-brother. He is denied the Sun Throne of Cairhien due to his marriage to the Queen of Andor, leaving very few choices for the Sun Throne in succession."
+    "info": "Cairhienin-born husband of the Queen of Andor. He is [Moiraine](#Moiraine-Damodred)'s half-brother. He is denied the Sun Throne of Cairhien due to his marriage to the Queen of Andor, leaving very few choices for the Sun Throne in succession."
   },
   {
     "id": "Tarna-Feir",
     "name": "Tarna Feir",
     "chapter": "Chapter 3: Practice",
-    "info": "Accepted from northern Altara. She is taller than <a href='#Siuan-Sanche'>Siuan</a>. She has pale yellow hair and cold blue eyes. Tarna is very arrogant, and lacks a sense of humor entirely. She spent nine years as a novice, and gained the great serpent ring one year before <a href='#Siuan-Sanche'>Siuan</a> and <a href='#Moiraine-Damodred'>Moiraine</a> did. She had few friends as a novice, and has even fewer as an Accepted."
+    "info": "Accepted from northern Altara. She is taller than [Siuan](#Siuan-Sanche). She has pale yellow hair and cold blue eyes. Tarna is very arrogant, and lacks a sense of humor entirely. She spent nine years as a novice, and gained the great serpent ring one year before [Siuan](#Siuan-Sanche) and [Moiraine](#Moiraine-Damodred) did. She had few friends as a novice, and has even fewer as an Accepted."
   },
   {
     "id": "Temaile-Kinderode",
     "name": "Temaile Kinderode",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "One of the Accepted. She and <a href='#Brendas'>Brendas</a> were assigned to the <a href='#Amyrlin-Seat'>Amyrlin Seat</a>'s chamber before <a href='#Moiraine-Damodred'>Moiraine</a> and <a href='#Siuan-Sanche'>Siuan</a> took over."
+    "info": "One of the Accepted. She and [Brendas](#Brendas) were assigned to the [Amyrlin Seat](#Amyrlin-Seat)'s chamber before [Moiraine](#Moiraine-Damodred) and [Siuan](#Siuan-Sanche) took over."
   },
   {
     "id": "The-Creator",
     "name": "The Creator",
     "chapter": "Prelude",
-    "info": "Maker of the world, the True Source, everything in existance. At the moment of Creation, the Creator sealed the <a href='#Dark-One'>Dark One</a> in a prison at Shayol Ghul to keep him from influencing the world."
+    "info": "Maker of the world, the True Source, everything in existance. At the moment of Creation, the Creator sealed the [Dark One](#Dark-One) in a prison at Shayol Ghul to keep him from influencing the world."
   },
   {
     "id": "The-Dragon",
     "name": "The Dragon",
     "chapter": "Chapter 2: A Wish Fulfilled",
-    "info": "Name by which Lews Therin Telamon was known during the War of the Shadow. His Rebirth will signal Tarmon Gaidon, the Last Battle against the Shadow. This Rebirth was Foretold by <a href='#Gitara-Moroso'>Gitara Moroso</a>, just before the moment of her death."
+    "info": "Name by which Lews Therin Telamon was known during the War of the Shadow. His Rebirth will signal Tarmon Gaidon, the Last Battle against the Shadow. This Rebirth was Foretold by [Gitara Moroso](#Gitara-Moroso), just before the moment of her death."
   },
   {
     "id": "Tsutama-Rath",
     "name": "Tsutama Rath",
     "chapter": "Chapter 6: Surprises",
-    "info": "Sitter for the Red Ajah. She asked <a href='#Moiraine-Damodred'>Moiraine</a>, directly, if she had ever considered taking the Sun Throne herself."
+    "info": "Sitter for the Red Ajah. She asked [Moiraine](#Moiraine-Damodred), directly, if she had ever considered taking the Sun Throne herself."
   },
   {
     "id": "Valera-Gorovni",
@@ -987,54 +987,54 @@
     "id": "Verin-Mathwin",
     "name": "Verin Mathwin",
     "chapter": "Chapter 3: Practice",
-    "info": "Stout Aes Sedai of the Brown Ajah. She is even shorter than <a href='#Moiraine-Damodred'>Moiraine</a>, plump, and dreamy-eyed."
+    "info": "Stout Aes Sedai of the Brown Ajah. She is even shorter than [Moiraine](#Moiraine-Damodred), plump, and dreamy-eyed."
   },
   {
     "id": "Waylin",
     "name": "Waylin",
     "chapter": "Chapter 7: The Itch",
-    "info": "One of <a href='#Rina-Hafden'>Rina</a>'s Warders."
+    "info": "One of [Rina](#Rina-Hafden)'s Warders."
   },
   {
     "id": "Willa-Mandair",
     "name": "Willa Mandair",
     "chapter": "Chapter 6: Surprises",
-    "info": "Woman who gave birth to a son to the west of the Erinin on the day <a href='#Gitara-Moroso'>Gitara</a> died, “in sight of Dragonmount.”"
+    "info": "Woman who gave birth to a son to the west of the Erinin on the day [Gitara](#Gitara-Moroso) died, “in sight of Dragonmount.”"
   },
   {
     "id": "Willim-of-Manaches",
     "name": "Willim of Manaches",
     "chapter": "Chapter 8: Shreds of Serenity",
-    "info": "Writer of ancient times. His work influenced <a href='#Shivena-Kayenzi'>Shivena Kayenzi</a>."
+    "info": "Writer of ancient times. His work influenced [Shivena Kayenzi](#Shivena-Kayenzi)."
   },
   {
     "id": "Yuan",
     "name": "Yuan",
     "chapter": "Chapter 10: It Finishes",
-    "info": "Slim Aes Sedai of the Yellow Ajah from Arafel. She has grey eyes. She was present at <a href='#Moiraine-Damodred'>Moiraine</a>'s test for the shawl, and disapproved of <a href='#Elaida-do-Avriny-a-Roihan'>Elaida</a>'s contributions to it."
+    "info": "Slim Aes Sedai of the Yellow Ajah from Arafel. She has grey eyes. She was present at [Moiraine](#Moiraine-Damodred)'s test for the shawl, and disapproved of [Elaida](#Elaida-do-Avriny-a-Roihan)'s contributions to it."
   },
   {
     "id": "Zemaille",
     "name": "Zemaille",
     "chapter": "Chapter 3: Practice",
-    "info": "One of the Accepted. She is slim, and very dark, with straight black hair to her waist and various black tattoos on her hands. <a href='#Moiraine-Damodred'>Moiraine</a> thinks it is likely she will choose the Brown or perhaps the White Ajah when raised. She is one of the Sea Folk; there are only four Sea Folk sisters among the Aes Sedai, and all are Browns. Two of them are <i>very</i> old, as old as <a href='#Gitara-Moroso'>Gitara Moroso</a> was before she died. She spent ten years as a novice, and eight so far as Accepted."
+    "info": "One of the Accepted. She is slim, and very dark, with straight black hair to her waist and various black tattoos on her hands. [Moiraine](#Moiraine-Damodred) thinks it is likely she will choose the Brown or perhaps the White Ajah when raised. She is one of the Sea Folk; there are only four Sea Folk sisters among the Aes Sedai, and all are Browns. Two of them are _very_ old, as old as [Gitara Moroso](#Gitara-Moroso) was before she died. She spent ten years as a novice, and eight so far as Accepted."
   },
   {
     "id": "al-Akir-Mandragoran",
     "name": "al'Akir Mandragoran",
     "chapter": "Chapter 15: Into Canluum",
-    "info": "The last king of Malkier, <a href='#al-Lan-Mandragoran'>Lan</a>'s father. He died about 24 years ago when Malkier was overrun, shortly after Lan's birth."
+    "info": "The last king of Malkier, [Lan](#al-Lan-Mandragoran)'s father. He died about 24 years ago when Malkier was overrun, shortly after Lan's birth."
   },
   {
     "id": "al-Lan-Mandragoran",
     "name": "al'Lan Mandragoran",
     "chapter": "Prelude",
-    "info": "Uncrowned king of Malkier, a nation now swallowed by the Great Blight, and the son of <a href='#al-Akir-Mandragoran'>al'Akir</a> and <a href='#el-Leanna-ti-Mandragoran'>el'Leanna</a>, the last king and queen of Malkier. He is very tall, with long hair that he wears back with the <i>hadori</i>, a braided leather strap traditionally worn by Malkieri men. At his birth, shortly before the Trollocs overran Malkier and the Blight consumed his homeland, Lan was given four gifts (while still in his cradle): a gold signet ring, a locket, a sword, and an oath. Lan and his surviving Malkieri companions are the last of their people. He prefers to avoid Aes Sedai when possible. Lan has experience fighting the Aiel on the Shienaran Marches, long before the Aiel War even began. He is quite practiced in the <i>ko'di</i>, the Oneness, a concentration aid he uses to clear his mind for battle and other crucial situations."
+    "info": "Uncrowned king of Malkier, a nation now swallowed by the Great Blight, and the son of [al'Akir](#al-Akir-Mandragoran) and [el'Leanna](#el-Leanna-ti-Mandragoran), the last king and queen of Malkier. He is very tall, with long hair that he wears back with the _hadori_, a braided leather strap traditionally worn by Malkieri men. At his birth, shortly before the Trollocs overran Malkier and the Blight consumed his homeland, Lan was given four gifts (while still in his cradle): a gold signet ring, a locket, a sword, and an oath. Lan and his surviving Malkieri companions are the last of their people. He prefers to avoid Aes Sedai when possible. Lan has experience fighting the Aiel on the Shienaran Marches, long before the Aiel War even began. He is quite practiced in the _ko'di_, the Oneness, a concentration aid he uses to clear his mind for battle and other crucial situations."
   },
   {
     "id": "el-Leanna-ti-Mandragoran",
     "name": "el'Leanna ti Mandragoran",
     "chapter": "Chapter 15: Into Canluum",
-    "info": "The last queen of Malkier, wife to <a href='#al-Akir-Mandragoran'>Akir</a> and mother to <a href='#al-Lan-Mandragoran'>Lan</a>. She died when Malkier was overrun, shortly after Lan's birth."
+    "info": "The last queen of Malkier, wife to [Akir](#al-Akir-Mandragoran) and mother to [Lan](#al-Lan-Mandragoran). She died when Malkier was overrun, shortly after Lan's birth."
   }
 ]

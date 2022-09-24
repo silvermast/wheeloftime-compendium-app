@@ -8,7 +8,7 @@ const linkOverrides = {
     Alsbet: 'Alsbet-Luhhan',
     Arene: 'Jorin-Arene',
     Artur: 'Artur-Hawkwing',
-    Aven: 'Avendasora',
+    Aven: 'Avendesora',
     Avendo: 'Avendoraldera',
     Baal: 'Ba-alzamon',
     Balwen: 'King-Balwen-Mayel',
@@ -21,6 +21,7 @@ const linkOverrides = {
     Cole: 'Master-Cole',
     Cowin: 'Cowin-Gemallen',
     Darl: 'Darl-Coplin',
+    Dark: 'Dark-One',
     Dawn: 'He-Who-Comes-With-the-Dawn',
     Dragon: 'The-Dragon',
     Fitch: 'Master-Fitch',
@@ -78,27 +79,45 @@ async function writeBook(bookFile, bookData) {
     return await fs.writeFile(`${__dirname}/../assets/data/${bookFile}`, JSON.stringify(bookData, null, 2));
 }
 
+function staticRepairs(text) {
+    return text
+        .replace(/<a class='name' [^>]+>([^<]+)<[^a]+a>/g, '$1')
+        .replace(/<a href='([^']+)'>([^<]+)<\/a>/g, '[$2]($1)') // <a href='#Mistress-of-Novices'>Mistress of Novices</a>
+        .replace(/<\/?(i|em)>/g, '_')
+        .replace(/<!--[^>]+>/g, '')
+        .trim();
+}
+
+function repairEntry(text, oldLink, newLink) {
+    return text.replace(new RegExp(`'#${oldLink}'`, 'g'), `'#${newLink}'`);
+}
+
+function findCharacterById(bookData, id) {
+    return bookData.find(c => c.id === id);
+}
+
 async function processBook(bookFile) {
-    console.log('--------------', 'Processing', bookFile, '--------------');
+    console.log('Processing', bookFile);
     const bookData = await readBook(bookFile);
 
     // default to static list of repairs
     const linkRepairs = linkOverrides || {};
     const conflicts = {};
 
-    bookData.forEach(character => {
-        let links = character.info.match(/'#[^']+'/g);
-        if (!links) {
-            return;
-        }
-        links = links.forEach(link => {
+    const newBookData = bookData.map(character => {
+        let links = character.info.match(/'#[^']+'/g) || [];
+
+        links.forEach(link => {
             const hashLink = link.replace(/(^'#|'$)/g, '');
 
-            if (linkRepairs[hashLink]) { // link has been processed already
+            if (findCharacterById(bookData, hashLink)) { // Link is correct
                 return;
             }
 
-            if (bookData.find(c => c.id === hashLink)) { // Link is correct
+            // NOTE: Some character IDs change between books (marriage, titles, etc.)
+            // Double-check them here!!
+            if (linkRepairs[hashLink] && findCharacterById(bookData, linkRepairs[hashLink])) {
+                character.info = repairEntry(character.info, hashLink, linkRepairs[hashLink]);
                 return;
             }
 
@@ -111,38 +130,27 @@ async function processBook(bookFile) {
             const matches = bookData.filter(c => c.id.match(matcher)).map(c => c.id);
 
             if (matches.length === 1) {
-                linkRepairs[hashLink] = matches[0];
+                character.info = repairEntry(character.info, hashLink, matches[0]);
+
             } else {
                 conflicts[hashLink] = matches;
             }
 
-            // linkRepairs[hashLink] = matches;
         });
+
+        character.info = staticRepairs(character.info);
+
+        return character;
     });
-    // console.log(linkRepairs);
+
     if (Object.keys(conflicts).length || SHOW_CONFLICTS) {
         console.error('FOUND CONFLICTS:', conflicts);
 
     } else if (SAVE) {
-
-        const replaceLinks = (text) => {
-            let newText = text;
-            Object.entries(linkRepairs).forEach(([oldLink, newLink]) => {
-                newText = newText.replace(new RegExp(`'#${oldLink}'`, 'g'), `'#${newLink}'`);
-            });
-            return newText;
-        };
-
-        await writeBook(
-            bookFile, 
-            bookData.map(character => {
-                character.info = replaceLinks(character.info);
-                return character;
-            }),
-        );
+        await writeBook(bookFile, newBookData);
 
     } else {
-        console.log('Propsed fixes:', linkRepairs);
+        console.log(JSON.stringify(newBookData, null, 2));
 
     }
 }

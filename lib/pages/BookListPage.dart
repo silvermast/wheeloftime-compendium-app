@@ -1,5 +1,3 @@
-import 'package:url_launcher/url_launcher.dart';
-
 import 'package:flutter/material.dart';
 import '../shared.dart';
 
@@ -8,6 +6,7 @@ class BookListPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    sharedState.reset();
     return Scaffold(
       appBar: AppBar(
         title: const Text('Select the book you\'re reading'),
@@ -21,22 +20,21 @@ class BookListPage extends StatelessWidget {
         ],
       ),
       body: Container(
-        padding: bodyPadding, 
-        child: ListView(children: bookList(context))
+        padding: bodyPadding,
+        child: ListView(children: bookList(context)),
       ),
     );
   }
 
   List<Widget> bookList(BuildContext context) {
-    return books
+    return sharedState.books
         .map((book) => ListTile(
-              title: Text(book.title,
-                  style: const TextStyle(
-                    // fontWeight: FontWeight.bold,
-                    // fontSize: 18.0,
-                  )),
+              title: Text(book.title),
               subtitle: Text(book.subTitle),
-              onTap: () => Navigator.pushNamed(context, '/book', arguments: book),
+              onTap: () {
+                sharedState.setBook(book);
+                Navigator.pushNamed(context, '/book');
+              },
             ))
         .toList();
   }

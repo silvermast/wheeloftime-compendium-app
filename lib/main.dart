@@ -1,10 +1,4 @@
-import 'dart:html';
-import 'dart:io';
-import 'dart:ui';
-import 'package:url_launcher/url_launcher.dart';
-
 import 'package:flutter/material.dart';
-import 'shared.dart';
 import 'pages/CharacterPage.dart';
 import 'pages/SettingsPage.dart';
 import 'pages/BookListPage.dart';
@@ -14,14 +8,20 @@ void main() {
   runApp(MaterialApp(
     title: 'Wheel of Time Character Compendium',
     theme: ThemeData(
+      // brightness: Brightness.dark,
       primarySwatch: Colors.grey,
       // fontFamily: 'Cormorant',
       textTheme: const TextTheme(
-        // headline1: TextStyle(fontFamily: 'Cinzel'),
-        // headline6: TextStyle(fontFamily: 'Cinzel'),
-        // bodyText1: TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),
-        // bodyText2: TextStyle(fontSize: 16.0, fontWeight: FontWeight.bold),
-      ),
+          // headline1: TextStyle(fontFamily: 'Cinzel'),
+          // headline6: TextStyle(fontFamily: 'Cinzel'),
+          // bodyText1: TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),
+          // bodyText2: TextStyle(fontSize: 16.0, fontWeight: FontWeight.bold),
+          ),
+      elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ElevatedButton.styleFrom(
+        padding: EdgeInsets.all(16.0),
+        shape: StadiumBorder(),
+      )),
     ),
     initialRoute: '/books',
     routes: {

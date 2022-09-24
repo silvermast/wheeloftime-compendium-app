@@ -1,21 +1,20 @@
-import 'dart:convert';
 import 'dart:html';
 
 import 'package:flutter/material.dart';
+import 'package:fuzzy/fuzzy.dart';
 import '../shared.dart';
-import '../repo.dart';
 
 class BookPage extends StatelessWidget {
   const BookPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    Book book;
-    try {
-      book = ModalRoute.of(context)!.settings.arguments as Book;
-    } catch (e) {
-      return renderError(context, 'No book selected.');
+    if (sharedState.selectedBook == null) {
+      Navigator.pushNamed(context, '/books');
     }
+
+    Book book = sharedState.selectedBook as Book;
+
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
@@ -31,7 +30,7 @@ class BookPage extends StatelessWidget {
         body: Container(
           padding: bodyPadding,
           child: FutureBuilder(
-            future: Repo.fetchCharacters(context, book),
+            future: sharedState.fetchCharacters(context),
             builder: (BuildContext context,
                 AsyncSnapshot<List<Character>> snapshot) {
               if (snapshot.hasError) {
@@ -55,12 +54,8 @@ class BookPage extends StatelessWidget {
 
   Widget renderError(BuildContext context, String errorText) {
     return Center(
-      child: Text(errorText,
-        style: TextStyle(
-          color: Colors.red, fontWeight: FontWeight.bold
-        )
-      )
-    );
+        child: Text(errorText,
+            style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold)));
   }
 
   Widget renderData(BuildContext context, List<Character>? characters) {
@@ -76,47 +71,98 @@ class CharacterList extends StatefulWidget {
   const CharacterList({Key? key, required this.characters}) : super(key: key);
 
   @override
-  State<CharacterList> createState() => _CharacterListState(characters: characters);
+  State<CharacterList> createState() =>
+      _CharacterListState(characters: characters);
 }
 
 class _CharacterListState extends State<CharacterList> {
   String query = '';
+  TextEditingController searchController = TextEditingController();
+
   final List<Character> characters;
+  Fuzzy<Character>? _fuse;
+
   _CharacterListState({required this.characters});
+
+  Fuzzy<Character> getFuse() {
+    return _fuse ??= Fuzzy(
+      characters,
+      options: FuzzyOptions(
+        distance: 2,
+        keys: [
+          WeightedKey(
+            name: 'name',
+            getter: (c) => c.name,
+            weight: 0.1,
+          ),
+        ],
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
-    
-    String queryLower = query.toLowerCase();
-
-    List<ListTile> characterListTiles = characters
-        .where((character) => character.name.toLowerCase().contains(queryLower))
-        .map((character) => ListTile(
-          title: Text(character.name),
-          onTap: () => Navigator.pushNamed(context, '/character', arguments: character),
-        ))
+    List<ListTile> characterListTiles = getFuse()
+        .search(query)
+        .map(
+          (result) => ListTile(
+              title: Text(result.item.name),
+              onTap: () {
+                sharedState.setCharacter(result.item);
+                Navigator.pushNamed(context, '/character');
+              }),
+        )
         .toList();
+
+    if (characterListTiles.isEmpty) {
+      characterListTiles.add(ListTile(
+        title: Text('No characters found matching "${query}"',
+            style: TextStyle(fontStyle: FontStyle.italic)),
+      ));
+    }
 
     return Column(
       children: [
-        TextField(
-          maxLines: 1,
-          decoration: InputDecoration(
-            label: Icon(Icons.search),
-            hintText: 'Search for a Character',
-            hintMaxLines: 1,
-            errorMaxLines: 1,
-            helperMaxLines: 1,
-          ),
-          onChanged: (value) => setState(() => query = value),
+        Padding(
+          padding: const EdgeInsets.only(bottom: 8.0),
+          child: searchField(),
         ),
         Expanded(
-          child: ListView(
-            shrinkWrap: true,
-            children: characterListTiles
-          ),
+          child: ListView(shrinkWrap: true, children: characterListTiles),
         ),
       ],
+    );
+  }
+
+  Widget searchField() {
+    Widget? clearIcon = query != null && query.length > 0
+        ? IconButton(
+            icon: Icon(Icons.close),
+            onPressed: () {
+              searchController.clear();
+              setState(() => query = '');
+            },
+            hoverColor: Colors.transparent,
+            focusColor: Colors.transparent,
+            splashColor: Colors.transparent,
+          )
+        : null;
+
+    return TextField(
+      restorationId: 'characterSearch',
+      maxLines: 1,
+      decoration: InputDecoration(
+        contentPadding: EdgeInsets.all(8.0),
+        prefixIcon: Icon(Icons.search),
+        suffixIcon: clearIcon,
+        border: OutlineInputBorder(borderRadius: BorderRadius.circular(32)),
+        hintText: 'Search for a Character',
+        hintMaxLines: 1,
+        errorMaxLines: 1,
+        helperMaxLines: 1,
+      ),
+      onChanged: (value) => setState(() => query = value),
+      controller: searchController,
     );
   }
 }
