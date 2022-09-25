@@ -1,4 +1,4 @@
-package com.example.wotcc_flutter
+package io.silvermast.wotcompendium
 
 import io.flutter.embedding.android.FlutterActivity
 

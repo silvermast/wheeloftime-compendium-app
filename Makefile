@@ -13,6 +13,7 @@ build-web:
 
 build-android:
 	flutter build apk
+	open build/app/outputs/apk/release/
 
 build-ios:
 	flutter build ipa

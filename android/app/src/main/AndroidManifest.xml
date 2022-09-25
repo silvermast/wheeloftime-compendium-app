@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wotcc_flutter">
+    package="io.silvermast.wotcompendium">
    <application
-        android:label="wotcc_flutter"
+        android:label="Wheel of Time Compendium (Unofficial)"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
