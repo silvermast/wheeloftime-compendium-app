@@ -8,8 +8,8 @@ void main() {
   runApp(MaterialApp(
     title: 'Wheel of Time Character Compendium',
     theme: ThemeData(
-      // brightness: Brightness.dark,
-      primarySwatch: Colors.grey,
+      brightness: Brightness.dark,
+      primarySwatch: Colors.red,
       // fontFamily: 'Cormorant',
       textTheme: const TextTheme(
           // headline1: TextStyle(fontFamily: 'Cinzel'),

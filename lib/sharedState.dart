@@ -37,6 +37,7 @@ class SharedState {
 
   SharedState setBook(Book? book) {
     selectedBook = book;
+    characters = [];
     return this;
   }
 
@@ -58,6 +59,10 @@ class SharedState {
     if (selectedBook == null) {
       throw Error();
     }
+    if (characters.isNotEmpty) {
+      return characters;
+    }
+
     String? bookId = selectedBook?.id.padLeft(2, '0');
     String remoteUrl =
         'https://wheeloftime.silvermast.io/v2/data/book-${bookId}.json';
