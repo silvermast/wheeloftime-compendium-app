@@ -4,7 +4,7 @@ by [Jason Wright](http://jasonwright.info) at [Silvermast LLC](https://silvermas
 
 Unofficial spoiler-resistant index of Wheel of Time characters, sorted by Book and Chapter. All data is stored on-device. No user information required.
 
-![Logo](blob/main/assets/images/icon.png)
+![Logo](assets/images/icon.png)
 
 Libraries:
 - [Flutter](http://flutter.dev)
