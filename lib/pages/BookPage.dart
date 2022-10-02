@@ -128,6 +128,16 @@ class _CharacterListState extends State<CharacterList> {
         Expanded(
           child: ListView(shrinkWrap: true, children: characterListTiles),
         ),
+        Padding(
+          padding: const EdgeInsets.only(top: 16.0),
+          child: ElevatedButton.icon(
+              icon: const Icon(Icons.arrow_back),
+              label: const Text('Back to Book List'),
+              onPressed: () {
+                sharedState.setCharacter(null).setBook(null);
+                Navigator.pushNamed(context, '/books');
+              }),
+        ),
       ],
     );
   }
@@ -150,7 +160,6 @@ class _CharacterListState extends State<CharacterList> {
       restorationId: 'characterSearch',
       maxLines: 1,
       decoration: InputDecoration(
-        contentPadding: EdgeInsets.all(8.0),
         prefixIcon: Icon(Icons.search),
         suffixIcon: clearIcon,
         border: OutlineInputBorder(borderRadius: BorderRadius.circular(32)),

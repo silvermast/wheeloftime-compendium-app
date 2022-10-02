@@ -1,6 +1,17 @@
-# wotcc_flutter
+Wheel of Time Character Compendium (Unofficial)
+==================================
+by [Jason Wright](http://jasonwright.info) at [Silvermast LLC](https://silvermast.io)
 
-A new Flutter project.
+Unofficial spoiler-resistant index of Wheel of Time characters, sorted by Book and Chapter. All data is stored on-device. No user information required.
+
+![Logo](blob/main/assets/images/icon.png)
+
+Libraries:
+- [Flutter](http://flutter.dev)
+
+Attributions:
+- Authors: [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) and [Brandon Sanderson](https://brandonsanderson.com/) for writing an incredible series
+- [Karl Hammond's WoT Compendium](https://hammondkd.github.io/WoT-compendium/)
 
 ## Getting Started
 
@@ -14,3 +25,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Privacy Policy
+This application does not track you or store any of your information. You may view its privacy policy at the following link:
+[https://wheeloftime.silvermast.io/privacy-policy.html](https://wheeloftime.silvermast.io/privacy-policy.html)

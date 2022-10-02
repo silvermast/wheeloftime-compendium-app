@@ -10,7 +10,8 @@ const String markdownContent = '## Special thanks:\n'
     '- [The /r/wot Subreddit](https://reddit.com/r/wot)\n'
     '- Everyone who has reported a spoiler\n'
     '\n'
-    'If you find a spoiler, I\'d love to know! Please report it to [jason@silvermast.io](mailto:jason@silvermast.io).';
+    '## Found a spoiler?\n'
+    'If you find a spoiler, I\'d love to know! Please report it to [jason@silvermast.io](mailto:jason@silvermast.io).\n';
 
 class SettingsPage extends StatelessWidget {
   const SettingsPage({Key? key}) : super(key: key);

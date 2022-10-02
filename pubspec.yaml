@@ -93,31 +93,22 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Cinzel
+    - family: NotoSerif
       fonts:
-        - asset: assets/fonts/Cinzel-Regular.ttf
-    - family: Cormorant
-      fonts:
-        - asset: assets/fonts/Cormorant-SemiBold.ttf
-        - asset: assets/fonts/Cormorant-SemiBoldItalic.ttf
+        - asset: assets/fonts/NotoSerif-Regular.ttf
+        - asset: assets/fonts/NotoSerif-Italic.ttf
           style: italic
-        # - asset: assets/fonts/Cormorant-Bold.ttf
-        #   style: bold
-        # - asset: assets/fonts/Cormorant-BoldItalic.ttf
-        #   style: bold-italic
-    - family: Nunito
-      fonts:
-        - asset: assets/fonts/Nunito-VariableFont_wght.ttf
-          weight: 400
-        - asset: assets/fonts/Nunito-Italic-VariableFont_wght.ttf
+        - asset: assets/fonts/NotoSerif-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/NotoSerif-BoldItalic.ttf
+          weight: 700
           style: italic
-          weight: 400
-    # - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
+        - asset: assets/fonts/NotoSans-Italic.ttf
+          style: italic
+
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 

@@ -75,7 +75,7 @@ class SharedState {
         throw new Exception(
             'Failed to pull $remoteUrl: ${response.statusCode}');
       }
-      data = response.body;
+      data = utf8.decode(response.bodyBytes);
     } catch (error) {
       print(error.toString());
       print('Loading data from $localUrl');
