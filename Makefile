@@ -17,7 +17,7 @@ build-android:
 
 build-ios:
 	flutter build ipa
-	open -a Transporter build/ios/ipa/wotcc_flutter.ipa
+	open -a Transporter build/ios/ipa/WoT-Compendium-Unofficial.ipa
 
 generate-icons:
 	flutter pub run flutter_launcher_icons:main
