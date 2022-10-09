@@ -6,7 +6,7 @@ import 'package:url_launcher/url_launcher_string.dart';
 import '../shared.dart';
 
 const String markdownContent = '## Special thanks:\n'
-    '- [Karl Hammond\'s Compendium of Wheel of Time Characters](https://hammonkd.github.io/WoT-compendium)\n'
+    '- [Karl Hammond\'s Compendium of Wheel of Time Characters](https://hammondkd.github.io/WoT-compendium/)\n'
     '- [The /r/wot Subreddit](https://reddit.com/r/wot)\n'
     '- Everyone who has reported a spoiler\n'
     '\n'

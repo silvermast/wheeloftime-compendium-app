@@ -9,7 +9,7 @@ upload-data:
 	aws-sm cloudfront create-invalidation --distribution-id E1IQN1E4JD6ZW1 --paths "/v2/*" | tee
 
 build-web:
-	fluter build web
+	flutter build web
 
 build-android:
 	flutter build apk
@@ -17,6 +17,7 @@ build-android:
 
 build-ios:
 	flutter build ipa
+	open -a Transporter build/ios/ipa/wotcc_flutter.ipa
 
 generate-icons:
 	flutter pub run flutter_launcher_icons:main

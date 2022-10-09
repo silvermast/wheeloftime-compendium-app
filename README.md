@@ -2,7 +2,7 @@ Wheel of Time Character Compendium (Unofficial)
 ==================================
 by [Jason Wright](http://jasonwright.info) at [Silvermast LLC](https://silvermast.io)
 
-Unofficial spoiler-resistant index of Wheel of Time characters, sorted by Book and Chapter. All data is stored on-device. No user information required.
+Unofficial spoiler-resistant index of Wheel of Time characters, sorted by Book and Chapter. All data is stored on-device and also served through the cloud. No user information required.
 
 ![Logo](assets/images/icon-readme.png)
 
