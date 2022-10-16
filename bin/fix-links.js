@@ -85,6 +85,7 @@ function staticRepairs(text) {
         .replace(/<a href='([^']+)'>([^<]+)<\/a>/g, '[$2]($1)') // <a href='#Mistress-of-Novices'>Mistress of Novices</a>
         .replace(/<\/?(i|em)>/g, '_')
         .replace(/<!--[^>]+>/g, '')
+        .replace(/Leilwin2/g, 'Leilwin')
         .trim();
 }
 

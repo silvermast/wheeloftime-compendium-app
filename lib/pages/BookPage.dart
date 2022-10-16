@@ -25,6 +25,17 @@ class BookPage extends StatelessWidget {
             ),
           ],
         ),
+        persistentFooterAlignment: AlignmentDirectional.center,
+        persistentFooterButtons: [
+          TextButton.icon(
+            icon: const Icon(Icons.arrow_back),
+            label: const Text('Back to Book List'),
+            onPressed: () {
+              sharedState.setCharacter(null).setBook(null);
+              Navigator.pushNamed(context, '/books');
+            },
+          ),
+        ],
         body: Container(
           padding: bodyPadding,
           child: FutureBuilder(
@@ -86,12 +97,23 @@ class _CharacterListState extends State<CharacterList> {
     return _fuse ??= Fuzzy(
       characters,
       options: FuzzyOptions(
-        distance: 2,
+        location: 0,
+        distance: 200,
+        findAllMatches: false,
+        isCaseSensitive: false,
+        tokenize: true,
+        matchAllTokens: false,
+        tokenSeparator: RegExp('[^a-zA-Z0-9]+'),
         keys: [
+          WeightedKey(
+            name: 'id',
+            getter: (c) => c.id,
+            weight: 1,
+          ),
           WeightedKey(
             name: 'name',
             getter: (c) => c.name,
-            weight: 0.1,
+            weight: 0.5,
           ),
         ],
       ),
@@ -122,21 +144,15 @@ class _CharacterListState extends State<CharacterList> {
     return Column(
       children: [
         Padding(
-          padding: const EdgeInsets.only(bottom: 8.0),
+          padding: const EdgeInsets.only(bottom: 18.0),
           child: searchField(),
         ),
         Expanded(
-          child: ListView(shrinkWrap: true, children: characterListTiles),
-        ),
-        Padding(
-          padding: const EdgeInsets.only(top: 16.0),
-          child: ElevatedButton.icon(
-              icon: const Icon(Icons.arrow_back),
-              label: const Text('Back to Book List'),
-              onPressed: () {
-                sharedState.setCharacter(null).setBook(null);
-                Navigator.pushNamed(context, '/books');
-              }),
+          child: Scrollbar(
+            interactive: true,
+            thickness: 8.0,
+            child: ListView(shrinkWrap: true, children: characterListTiles),
+          ),
         ),
       ],
     );

@@ -34,6 +34,17 @@ class _CharacterPageState extends State<CharacterPage> {
             ),
           ],
         ),
+        persistentFooterAlignment: AlignmentDirectional.center,
+        persistentFooterButtons: [
+          TextButton.icon(
+            icon: const Icon(Icons.arrow_back),
+            label: const Text('Back to Character List'),
+            onPressed: () {
+              sharedState.setCharacter(null);
+              Navigator.pushNamed(context, '/book');
+            },
+          ),
+        ],
         body: Container(
             padding: bodyPadding,
             child: Column(
@@ -62,16 +73,6 @@ class _CharacterPageState extends State<CharacterPage> {
                       onTapLink: (text, String? href, title) {
                         sharedState.setCharacterFromLink(href);
                         Navigator.pushNamed(context, '/character');
-                      }),
-                ),
-                Padding(
-                  padding: const EdgeInsets.only(top: 16.0),
-                  child: ElevatedButton.icon(
-                      icon: const Icon(Icons.arrow_back),
-                      label: const Text('Back to Character List'),
-                      onPressed: () {
-                        sharedState.setCharacter(null);
-                        Navigator.pushNamed(context, '/book');
                       }),
                 ),
               ],
