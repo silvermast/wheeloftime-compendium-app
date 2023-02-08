@@ -12,7 +12,7 @@ build-web:
 	flutter build web
 
 build-android:
-	flutter build apk
+	flutter build apk --release
 	open build/app/outputs/apk/release/
 
 build-ios:
