@@ -13,6 +13,9 @@ Attributions:
 - Authors: [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) and [Brandon Sanderson](https://brandonsanderson.com/) for writing an incredible series
 - [Karl Hammond's WoT Compendium](https://hammondkd.github.io/WoT-compendium/)
 
+## Looking to fix a spoiler?
+To fix a spoiler, you can submit a PR to this repository and I'll be notified for a review. You can find the book data in [assets/data](assets/data) directory in this project.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
