@@ -16,5 +16,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: aws s3 sync --delete './assets/data' s3://${{S3_BUCKET}}/v2/data
+      - run: aws s3 sync --delete './assets/data' s3://${{secrets.S3_BUCKET}}/v2/data
       - run: aws cloudfront create-invalidation --distribution-id ${{secrets.CF_DIST_ID}} --paths "/v2/*"
