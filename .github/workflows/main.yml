@@ -1,0 +1,20 @@
+name: Main Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-assets:
+    name: Upload Asset Data to S3/CloudFront
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY_ID}}
+      AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - run: aws s3 sync --delete './assets/data' s3://${{S3_BUCKET}}/v2/data
+      - run: aws cloudfront create-invalidation --distribution-id ${{secrets.CF_DIST_ID}} --paths "/v2/*"
