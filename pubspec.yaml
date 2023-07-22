@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 
-version: 3.0.6+2
+version: 3.0.8+30008
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
@@ -66,21 +66,21 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/icon.svg
-    - assets/book-00.json
-    - assets/book-01.json
-    - assets/book-02.json
-    - assets/book-03.json
-    - assets/book-04.json
-    - assets/book-05.json
-    - assets/book-06.json
-    - assets/book-07.json
-    - assets/book-08.json
-    - assets/book-09.json
-    - assets/book-10.json
-    - assets/book-11.json
-    - assets/book-12.json
-    - assets/book-13.json
-    - assets/book-14.json
+    - assets/data/book-00.json
+    - assets/data/book-01.json
+    - assets/data/book-02.json
+    - assets/data/book-03.json
+    - assets/data/book-04.json
+    - assets/data/book-05.json
+    - assets/data/book-06.json
+    - assets/data/book-07.json
+    - assets/data/book-08.json
+    - assets/data/book-09.json
+    - assets/data/book-10.json
+    - assets/data/book-11.json
+    - assets/data/book-12.json
+    - assets/data/book-13.json
+    - assets/data/book-14.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
