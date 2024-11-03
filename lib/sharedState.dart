@@ -64,23 +64,22 @@ class SharedState {
     }
 
     String? bookId = selectedBook?.id.padLeft(2, '0');
-    String remoteUrl =
-        'https://wheeloftime.silvermast.io/v2/data/book-${bookId}.json';
+    String remoteUrl = 'https://wheeloftime.silvermast.io/v2/data/book-${bookId}.json';
     String localUrl = 'assets/data/book-${bookId}.json';
     String data;
 
     try {
+      print('HTTPS GET $remoteUrl');
       var response = await http.get(Uri.parse(remoteUrl));
+      print('HTTPS Status: ${response.statusCode}');
       if (response.statusCode != 200) {
-        throw new Exception(
-            'Failed to pull $remoteUrl: ${response.statusCode}');
+        throw new Exception('Failed to pull $remoteUrl: ${response.statusCode}');
       }
       data = utf8.decode(response.bodyBytes);
     } catch (error) {
       print(error.toString());
       print('Loading data from $localUrl');
-      data = await DefaultAssetBundle.of(context)
-          .loadString(localUrl, cache: false);
+      data = await DefaultAssetBundle.of(context).loadString(localUrl, cache: false);
     }
 
     characters = [];

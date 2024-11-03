@@ -19,4 +19,13 @@ build-ios:
 	flutter build ipa --release && open -a Transporter build/ios/ipa/WoT-Compendium-Unofficial.ipa
 
 generate-icons:
-	flutter pub run flutter_launcher_icons:main
+	dart run flutter_launcher_icons
+
+remake-ios:
+	flutter create --platforms ios .
+
+remake-android:
+	flutter create --platforms android .
+
+java-config:
+	java -XshowSettings:properties -version
