@@ -13,10 +13,10 @@ build-web:
 
 build-android:
 	flutter build apk --release
-	open build/app/outputs/apk/release/
+	open build/app/outputs/flutter-apk/
 
 build-ios:
-	flutter build ipa --release && open -a Transporter build/ios/ipa/WoT-Compendium-Unofficial.ipa
+	flutter build ipa --release && open -a Transporter `find build/ios/ipa -type f -name '*.ipa'`
 
 generate-icons:
 	dart run flutter_launcher_icons
