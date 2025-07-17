@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:developer';
 import 'dart:io';
+import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter/widgets.dart';
 import 'shared.dart';
 
 class SharedState {
-  BuildContext? context;
   Book? selectedBook;
   Character? selectedCharacter;
   List<Character> characters = [];
@@ -79,7 +79,8 @@ class SharedState {
     } catch (error) {
       print(error.toString());
       print('Loading data from $localUrl');
-      data = await DefaultAssetBundle.of(context).loadString(localUrl, cache: false);
+      data = await rootBundle.loadString(localUrl, cache: false);
+      // data = await DefaultAssetBundle.of(context).loadString(localUrl, cache: false);
     }
 
     characters = [];

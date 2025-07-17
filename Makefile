@@ -13,7 +13,6 @@ build-web:
 
 build-android:
 	flutter build apk --release
-	open build/app/outputs/flutter-apk/
 
 build-ios:
 	flutter build ipa --release && open -a Transporter `find build/ios/ipa -type f -name '*.ipa'`
@@ -21,11 +20,9 @@ build-ios:
 generate-icons:
 	dart run flutter_launcher_icons
 
-remake-ios:
-	flutter create --platforms ios .
-
-remake-android:
-	flutter create --platforms android .
+# build-android:
+# 	flutter build appbundle --release
+# 	open build/app/outputs/bundle/release/
 
 java-config:
 	java -XshowSettings:properties -version
