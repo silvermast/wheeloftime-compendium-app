@@ -135,7 +135,7 @@
     "id": "Aran-gar",
     "name": "Aran'gar",
     "chapter": "Chapter 13: Wonderful News",
-    "info": "Name given to one of the Foresaken. Aran'gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Aran'Gar's new body a fine joke. She channels _saidin_, and now serves as Delana's maid. Delana does not know that she is one of the Chosen reincarned, just that she stands far above her among the Darkfriends."
+    "info": "Name given to one of the Foresaken. Aran'gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Aran'Gar's new body a fine joke."
   },
   {
     "id": "Arilyn-Dhulaine",
@@ -564,6 +564,12 @@
     "info": "Name of the black horse that winter's heart shall ride when “the seals that hold back night weaken,” according to _The Karaethon Cycle_."
   },
   {
+    "id": "Delana-Mosalaine",
+    "name": "Delana Mosalaine",
+    "chapter": "Prelude",
+    "info": "Aes Sedai Sitter for the Gray Ajah in the “Little Tower.” She is the only Sitter that [Egwene](#Egwene-al-Vere) thinks she can count on. She is round, and has a deep voice for a woman and pale hair. She is from Shienar. She has no Warder."
+  },
+  {
     "id": "Demandred",
     "name": "Demandred",
     "chapter": "Chapter 13: Wonderful News",
@@ -921,7 +927,7 @@
     "id": "Halima-Saranov",
     "name": "Halima Saranov",
     "chapter": "Chapter 10: A Plan Succeeds",
-    "info": "[Egwene](#Egwene-al-Vere)'s evening maid. She is actually Delana's maid, but she lends her to Egwene at night to help with her chronic headaches. Since she is actually [Aran'gar](#Aran-gar), a reincarnated Forsaken who channels _saidin_ despite being female; it is likely that she is _causing_ Egwene's headaches, and then making them subside, in order to keep her close to Egwene."
+    "info": "[Egwene](#Egwene-al-Vere)'s evening maid. She is actually Delana's maid, but she lends her to Egwene at night to help with her chronic headaches."
   },
   {
     "id": "Halwin-Norry",
@@ -1743,7 +1749,7 @@
     "id": "Moghedien",
     "name": "Moghedien",
     "chapter": "Chapter 10: A Plan Succeeds",
-    "info": "One of the Forsaken. Her name means “Spider” in the Old Tongue. She always works from safety, attacks from safety, and will run unless she can do so. She developed a command of _Tel'aran'rhiod_ that surpassed even [Lanfear](#Lanfear)'s mastery—in the real world, Lanfear was more powerful, but even she could not top Moghedien in the World of Dreams. After being released from the Bore, Moghedien eventually found herself in Tanchico, in the Palace of the Panarch of Tarabon. While there, she chanced upon [Nynaeve al'Meara](#el-Nynaeve-ti-al-Meara-Mandragoran), who was trying to save the Panarch at the time and take the seal on the [Dark One](#Dark-One)'s prison from its hold in the Palace. She and Nynaeve fought in a duel to the last, and Nynaeve managed to better Moghedien, much to the surprise of both of them. She managed to escape Nynaeve's tied off shield, and on their next encounter, this one in _Tel'aran'rhiod_, she ripped [Birgitte](#Birgitte)'s soul out of the World of Dreams after Birgitte almost killed her. On her third encounter with Nynaeve, Nynaeve managed to trap Moghedien with an _a'dam_. Moghedien remained bound by that _a'dam_ in Salidar, disguised as Marigan, but was released by [Halima](#Halima-Saranov). Halima was actually one of the Forsaken, and she took Moghedien to Shayol Ghul to be bound by a _coursouvra_, a Mind Trap, controlled by [Moridin](#Moridin). Typical of her ways, she has been keeping a low profile."
+    "info": "One of the Forsaken. Her name means “Spider” in the Old Tongue. She always works from safety, attacks from safety, and will run unless she can do so. She developed a command of _Tel'aran'rhiod_ that surpassed even [Lanfear](#Lanfear)'s mastery—in the real world, Lanfear was more powerful, but even she could not top Moghedien in the World of Dreams. After being released from the Bore, Moghedien eventually found herself in Tanchico, in the Palace of the Panarch of Tarabon. While there, she chanced upon [Nynaeve al'Meara](#el-Nynaeve-ti-al-Meara-Mandragoran), who was trying to save the Panarch at the time and take the seal on the [Dark One](#Dark-One)'s prison from its hold in the Palace. She and Nynaeve fought in a duel to the last, and Nynaeve managed to better Moghedien, much to the surprise of both of them. She managed to escape Nynaeve's tied off shield, and on their next encounter, this one in _Tel'aran'rhiod_, she ripped [Birgitte](#Birgitte)'s soul out of the World of Dreams after Birgitte almost killed her. On her third encounter with Nynaeve, Nynaeve managed to trap Moghedien with an _a'dam_. Moghedien remained bound by that _a'dam_ in Salidar, disguised as Marigan."
   },
   {
     "id": "Moiraine-Damodred",

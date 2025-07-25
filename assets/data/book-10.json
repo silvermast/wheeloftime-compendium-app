@@ -153,7 +153,7 @@
     "id": "Aran-gar",
     "name": "Aran'gar",
     "chapter": "Epilogue: An AnswerGlossary",
-    "info": "Name given to the reincarnation of Balthamel. Aran'gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Balthamel's new body a fine joke; the soul of Balthamel now occupies the body of a beautiful young woman. She still channels _saidin_, and now serves as [Delana](#Delana-Mosalaine)'s maid. Delana does not know that she is one of the Chosen reincarned, just that she stands far above her among the Darkfriends."
+    "info": "Name given to the reincarnation of Balthamel. Aran'gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Balthamel's new body a fine joke; the soul of Balthamel now occupies the body of a beautiful young woman. She still channels _saidin_."
   },
   {
     "id": "Aravine-Carnel",
@@ -531,7 +531,7 @@
     "id": "Delana-Mosalaine",
     "name": "Delana Mosalaine",
     "chapter": "Chapter 16: The Subject of Negotiations",
-    "info": "Aes Sedai of the Black Ajah, openly a Sitter for the Gray Ajah in the “Little Tower.” She is the only Sitter that [Egwene](#Egwene-al-Vere) thinks she can count on for her support. She is round, and has a deep voice for a woman and pale silver-colored hair. She is from Shienar, and has no Warder. Lately, Delana has been causing trouble in the Hall, especially with her demands to make a formal declaration that [Elaida](#Elaida-do-Avriny-a-Roihan) is Black Ajah. She is willing to discuss any subject in the Hall, whereas most Sitters will not touch topics such as the Black Ajah with a ten-foot pole. Her pale blue eyes give nothing away. Like many of her fellow members of the Hall, she is young to be a Sitter. Her maid is named [Halima](#Halima-Saranov), and she often lends her to Egwene; Halima is the only person who seems to be able to make Egwene's headaches go away."
+    "info": "Aes Sedai Sitter for the Gray Ajah in the “Little Tower.” She is the only Sitter that [Egwene](#Egwene-al-Vere) thinks she can count on for her support. She is round, and has a deep voice for a woman and pale silver-colored hair. She is from Shienar, and has no Warder. Lately, Delana has been causing trouble in the Hall, especially with her demands to make a formal declaration that [Elaida](#Elaida-do-Avriny-a-Roihan) is Black Ajah. She is willing to discuss any subject in the Hall, whereas most Sitters will not touch topics such as the Black Ajah with a ten-foot pole."
   },
   {
     "id": "Demandred",
@@ -939,7 +939,7 @@
     "id": "Halima-Saranov",
     "name": "Halima Saranov",
     "chapter": "Chapter 17: Secrets",
-    "info": "[Egwene](#Egwene-al-Vere)'s evening maid. She is actually [Delana](#Delana-Mosalaine)'s maid, but she lends her to Egwene at night to help with her chronic headaches. Since she is actually [Aran'gar](#Aran-gar), a reincarnated Forsaken who channels _saidin_ despite being female; it is likely that she is _causing_ Egwene's headaches, and then making them subside, in order to keep her close to Egwene. She usually sleeps on a pallet in Egwene's tent. She is stunningly beautiful, with big green eyes in a perfect face and a full, firm bosom. As she is posing as a poorly educated serving girl, she forms her letters with the awkwardness of a young child. She has developed a fondness for low-cut bodices."
+    "info": "[Egwene](#Egwene-al-Vere)'s evening maid. She is actually [Delana](#Delana-Mosalaine)'s maid, but she lends her to Egwene at night to help with her chronic headaches."
   },
   {
     "id": "Halwin-Norry",
@@ -2127,7 +2127,7 @@
     "id": "Moghedien",
     "name": "Moghedien",
     "chapter": "Chapter 17: Secrets",
-    "info": "One of the Forsaken. Her name means “Spider” in the Old Tongue. She always works from safety, attacks from safety, and will run unless she can do so. She developed a command of _Tel'aran'rhiod_ that surpassed even Lanfear's mastery—in the real world, Lanfear was more powerful, but even she could not top Moghedien in the World of Dreams. After being released from the Bore, Moghedien eventually found herself in Tanchico, in the Palace of the Panarch of Tarabon. While there, she chanced upon [Nynaeve al'Meara](#el-Nynaeve-ti-al-Meara-Mandragoran), who was trying to save the Panarch at the time and take the seal on the [Dark One](#Dark-One)'s prison from its hold in the Palace. She and Nynaeve fought in a duel to the last, and Nynaeve managed to better Moghedien, much to the surprise of both of them. She managed to escape Nynaeve's tied off shield, and on their next encounter, this one in _Tel'aran'rhiod_, she ripped [Birgitte](#Birgitte)'s soul out of the World of Dreams after Birgitte almost killed her. On her third encounter with Nynaeve, Nynaeve managed to trap Moghedien with an _a'dam_. Moghedien remained bound by that _a'dam_ in Salidar, disguised as Marigan, but was released by [Halima](#Halima-Saranov). Halima was actually one of the Forsaken, and she took Moghedien to Shayol Ghul to be bound by a _coursouvra_, a Mind Trap, controlled by [Moridin](#Moridin). Typical of her ways, she has been keeping a low profile."
+    "info": "One of the Forsaken. Her name means “Spider” in the Old Tongue. She always works from safety, attacks from safety, and will run unless she can do so. She developed a command of _Tel'aran'rhiod_ that surpassed even Lanfear's mastery—in the real world, Lanfear was more powerful, but even she could not top Moghedien in the World of Dreams. After being released from the Bore, Moghedien eventually found herself in Tanchico, in the Palace of the Panarch of Tarabon. While there, she chanced upon [Nynaeve al'Meara](#el-Nynaeve-ti-al-Meara-Mandragoran), who was trying to save the Panarch at the time and take the seal on the [Dark One](#Dark-One)'s prison from its hold in the Palace. She and Nynaeve fought in a duel to the last, and Nynaeve managed to better Moghedien, much to the surprise of both of them. She managed to escape Nynaeve's tied off shield, and on their next encounter, this one in _Tel'aran'rhiod_, she ripped [Birgitte](#Birgitte)'s soul out of the World of Dreams after Birgitte almost killed her. On her third encounter with Nynaeve, Nynaeve managed to trap Moghedien with an _a'dam_. Moghedien remained bound by that _a'dam_ in Salidar, disguised as Marigan."
   },
   {
     "id": "Moiraine-Damodred",
