@@ -3,7 +3,7 @@ import 'package:fuzzy/fuzzy.dart';
 import '../shared.dart';
 
 class BookPage extends StatelessWidget {
-  const BookPage({Key? key}) : super(key: key);
+  const BookPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -17,6 +17,11 @@ class BookPage extends StatelessWidget {
         appBar: AppBar(
           centerTitle: true,
           title: Text(book.title),
+          leading: BackButton(
+            onPressed: () {
+              Navigator.pushReplacementNamed(context, '/books');
+            },
+          ),
           actions: <Widget>[
             IconButton(
               icon: const Icon(Icons.settings),

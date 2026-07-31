@@ -1,8 +1,24 @@
 import 'package:flutter/material.dart';
+
+import '../settingsService.dart';
 import '../shared.dart';
 
-class BookListPage extends StatelessWidget {
-  const BookListPage({Key? key}) : super(key: key);
+class BookListPage extends StatefulWidget {
+
+  const BookListPage({super.key});
+
+  @override
+  State<BookListPage> createState() => BookListPageState();
+}
+
+class BookListPageState extends State<BookListPage> {
+  final SettingsService settings = SettingsService.instance;
+
+  @override
+  void initState() {
+    super.initState();
+    settings.setLastSelectedBookId(null);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -34,6 +50,7 @@ class BookListPage extends StatelessWidget {
               onTap: () {
                 sharedState.setBook(book);
                 Navigator.pushNamed(context, '/book');
+                settings.setLastSelectedBookId(book.id);
               },
             ))
         .toList();
