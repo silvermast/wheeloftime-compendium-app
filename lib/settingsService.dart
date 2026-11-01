@@ -17,7 +17,7 @@ class SettingsService {
 
   Future<bool> getRememberLastSelectedBook() async {
     final SharedPreferences prefs = await _prefs;
-    return prefs.getBool(_keyRememberBook) ?? false;
+    return prefs.getBool(_keyRememberBook) ?? true;
   }
 
   Future<void> setLastSelectedBookId(String? value) async {

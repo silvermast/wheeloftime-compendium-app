@@ -26,7 +26,7 @@ class SettingsPage extends StatefulWidget {
 
 class _SettingsPageState extends State<SettingsPage> {
   final SettingsService settings = SettingsService.instance;
-  bool _rememberLastSelectedBook = false;
+  bool _rememberLastSelectedBook = true;
 
   @override
   void initState() {
@@ -53,8 +53,8 @@ class _SettingsPageState extends State<SettingsPage> {
               ),
               value: _rememberLastSelectedBook,
               onChanged: (bool? rememberLastBook) {
-                setState(() => _rememberLastSelectedBook = rememberLastBook ?? false);
-                settings.setRememberLastSelectedBook(rememberLastBook ?? false);
+                setState(() => _rememberLastSelectedBook = rememberLastBook ?? true);
+                settings.setRememberLastSelectedBook(rememberLastBook ?? true);
               },
             ),
           ),
